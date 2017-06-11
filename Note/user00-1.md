@@ -11,7 +11,7 @@
 -------------------------------------------
 <a href="https://picasaweb.google.com/lh/photo/K2w0Q9FrzOApWpFx922sJD0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh3.googleusercontent.com/-UJ4du9zleig/UUfPgM-XLDI/AAAAAAAAAwg/G9tdbYc5AbE/s800/%255Buser0-1%255D%25E3%2583%258B%25E3%2583%25AF%25E3%2583%25BB%25E3%2582%25BF%25E3%2583%25B3%25E3%2582%25B2.png" height="195" width="158" alt="" ></a>
 
-__「言葉にしたいことって、ちゃんと伝えないと、離れちゃいますから」__
+**「言葉にしたいことって、ちゃんと伝えないと、離れちゃいますから」**
 
 ### 一次情報
 
@@ -42,7 +42,7 @@ __「言葉にしたいことって、ちゃんと伝えないと、離れちゃ
 -------------------------------------------
 <a href="https://picasaweb.google.com/lh/photo/NjSVLi2yjwuV6ZKiXji8oj0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-5wA7Ph_uTY8/UUfPfr9g03I/AAAAAAAAAwY/eWVxEJQOi38/s800/%255Buser0-1%255D%25E3%2582%25B8%25E3%2583%25B3%25E3%2583%2590%2528%25E4%25BB%25AE%2529.png" height="148" width="186" alt="" ></a>
 
-__「大丈夫だ、今まで必死になってやってきただろ。自信持ってやれ」 __
+**「大丈夫だ、今まで必死になってやってきただろ。自信持ってやれ」 **
 
 ### 一次情報
 
@@ -53,10 +53,10 @@ __「大丈夫だ、今まで必死になってやってきただろ。自信持
 * 歌なんてくだらないと思ってるタイプ。
 * 。
 
-
+<!--
 アラヤシキ
 -------------------------------------------
-__「」__
+**「」**
 
 ### 一次情報
 
@@ -70,7 +70,7 @@ __「」__
 
 ???
 -------------------------------------------
-__「」__
+**「」**
 
 ### 一次情報
 
@@ -80,13 +80,13 @@ __「」__
 *
 * 。
 * 。
-
+-->
 
 メンネルコール隊長(指揮者)
 -------------------------------------------
 <a href="https://picasaweb.google.com/lh/photo/PTgChL_Qa3oBWTQgt4HvKT0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh4.googleusercontent.com/-_7ZJPj7q40I/UUfPgyopoaI/AAAAAAAAAww/WMfxh2FBaQw/s288/%255Buser0-1%255D%25E3%2583%2595%25E3%2583%25AD%25E3%2583%2583%25E3%2582%25B0%25E3%2583%259E%25E3%2583%25B3.png" height="288" width="274" alt="" ></a>
 
-__「」__
+**「」**
 
 ### 一次情報
 

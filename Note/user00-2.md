@@ -10,7 +10,7 @@
 -------------------------------------------
 <a href="https://picasaweb.google.com/lh/photo/ESVL1CynRtngg2CZ7rD8xj0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh4.googleusercontent.com/-uePVXn28Qrs/U69xvs9yMfI/AAAAAAAAC6s/ihwWtK8NNwc/s288/%255Buser0-2%255D%25E3%2582%25A2%25E3%2583%25BC%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2590%25E3%2582%25B9%25E3%2583%2588%25E3%2582%25A2%25E3%2583%2583%25E3%2583%2597.png" height="288" width="220" alt=""></a>
 
-__「最後の最後にできるのは、信じることだ」__
+**「最後の最後にできるのは、信じることだ」**
 
 ### 情報
 

@@ -7,9 +7,9 @@
 
 カイゼ<!--久遠戒是-->
 -------------------------------------------
-<a href="https://picasaweb.google.com/lh/photo/MhEKeUQKEkKwxhcxe_7XF4XGm-udNP8c0h2wLUD8IVU?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-lBi5kvApcPE/VRkk20EF7yI/AAAAAAAADg4/k-Uhe8nQhj4/s288/%255Buser0-4%255D%25E3%2582%25AB%25E3%2582%25A4%25E3%2582%25BC%25E8%258D%2589%25E6%25A1%2588.png" height="288" width="243" alt=""></a>
+[![img](https://7kmgpw-sn3301.files.1drv.com/y4mYRyPjFw2NlQsxW7ZARPOrStEgBjDs2tT11aBOWLl8Xiy5FW07KLaIqsaMz2I_MekBZBnWt1NPQMFaO45l_WL7dBFLYcWzAC3T9SI6rsCCZm_wJvC53wWOa7k7ZnasvGuIzVr1KrCA79zhE_7gpzve6qljjp4OMW1VVKojFvgquBmaYI7-O_xgZNsEvsugEQtqnlH57Lc1w_gdHyBwnZp5g?width=557&height=660&cropmode=none)](https://1drv.ms/i/s!Ahr_pmGvC1VzjJ8346ZEyYg2RGcEpg)
 
-__「誰よりも強くなる。それがオレの理由だ」__
+**「誰よりも強くなる。それがオレの理由だ」**
 
 
 ### 一次情報
@@ -30,7 +30,7 @@ __「誰よりも強くなる。それがオレの理由だ」__
 
 <a href="https://picasaweb.google.com/lh/photo/J8RtLDC8t6yVfQrhRq4ppdZ5WM8KROiOpp4URSUPSpQ?feat=embedwebsite"><img src="https://lh3.googleusercontent.com/--eD3JwEjIAw/U27DsXZjjTI/AAAAAAAACvM/v-TgWkzwY-4/s288/%255Buser0-4%255D%25E3%2582%25A2%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%25A5%25E8%258D%2589%25E6%25A1%2588.png" height="288" width="267" alt=""></a>
 
-__「最強……いいわ、それくらいやってもらわなくちゃ」__
+**「最強……いいわ、それくらいやってもらわなくちゃ」**
 
 
 ### 一次情報
@@ -45,7 +45,7 @@ __「最強……いいわ、それくらいやってもらわなくちゃ」__
 
 ---
 <a href="https://picasaweb.google.com/lh/photo/gW5DPmLvPmdzmn6bEE5VzIXGm-udNP8c0h2wLUD8IVU?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-fZKI78xs1Jk/VI1pJbLmi1I/AAAAAAAADSA/YmauUhll1So/s144/%255Buser0-4%255D%25E3%2582%25A2%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%25A5%25E9%25AB%25AA%25E4%25B8%258B%25E3%2582%258D%25E3%2581%2597.png" height="144" width="143" alt=""></a>
-<a href="https://picasaweb.google.com/lh/photo/taVuzDF1NhS53am75F6Uk4XGm-udNP8c0h2wLUD8IVU?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-IRA7__9zOdk/VI1pIGEEIeI/AAAAAAAADR4/LWWgexWcNlM/s144/%255Buser0-4%255D%25E3%2582%25A2%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%25A5%25E8%25A8%25AD%25E5%25AE%259A1.png" height="121" width="144" alt=""></a>
+<a href="https://picasaweb.google.com/lh/photo/taVuzDF1NhS53am75F6Uk4XGm-udNP8c0h2wLUD8IVU?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-IRA7**9zOdk/VI1pIGEEIeI/AAAAAAAADR4/LWWgexWcNlM/s144/%255Buser0-4%255D%25E3%2582%25A2%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%25A5%25E8%25A8%25AD%25E5%25AE%259A1.png" height="121" width="144" alt=""></a>
 
 
 
@@ -54,7 +54,7 @@ __「最強……いいわ、それくらいやってもらわなくちゃ」__
 
 <a href="https://picasaweb.google.com/lh/photo/xpXUc1UO3wHx-WtgTgy-ZIXGm-udNP8c0h2wLUD8IVU?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-eP2wUQzA_OU/VRkyP5QMyvI/AAAAAAAADk8/fIJX6N4mck0/s288/%255Buser0-4%255D%25E3%2583%258A%25E3%2583%25A6%25E3%2582%25BF%25E6%2594%25B9%25E7%25A8%25BF.png" height="248" width="288" alt=""></a>
 
-__「」__
+**「」**
 
 
 ### 一次情報
@@ -75,7 +75,7 @@ __「」__
 シャラク<!--捨楽・スヴァーハ-->
 -------------------------------------------
 
-__「俺って、そんなに頼りにならないかな…」__
+**「俺って、そんなに頼りにならないかな…」**
 
 
 ### 一次情報
@@ -91,7 +91,7 @@ __「俺って、そんなに頼りにならないかな…」__
 クロード<!--蔵人-->
 -------------------------------------------
 
-__「」__
+**「」**
 
 
 ### 一次情報
@@ -106,7 +106,7 @@ __「」__
 エイラ<!--永良-->
 -------------------------------------------
 
-__「」__
+**「」**
 
 
 ### 一次情報
@@ -122,7 +122,7 @@ __「」__
 アイリ<!--愛理・ナヴラス-->
 -------------------------------------------
 
-__「」__
+**「」**
 
 
 ### 一次情報
@@ -138,7 +138,7 @@ __「」__
 サルヴァ<!--サルヴァ・ダーマ娑婆-->
 -------------------------------------------
 
-__「俺の覇業を遮るものは、全て斬る」__
+**「俺の覇業を遮るものは、全て斬る」**
 
 
 ### 一次情報
