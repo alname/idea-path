@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="ja">
+	<head>
+		<meta charset="UTF-8">
+		<title>{% block title %}idea-path{% endblock %}</title>
+		<link rel="stylesheet" href="/static/css/main.css">
+		<script>(function() {var elms=["header","footer","section","aside","nav","article","hgroup","time","figure","figcaption"];for(var i=0;i<elms.length;i++){document.createElement(elms[i]);};	})();</script>
+		{% block head %}
+		{% endblock %}
+	</head>
+
+	<body id="{% block id %}{% endblock %}">
+		<div>
+		{% block body %}
+{{content}}
+		{% endblock %}
+		</div>
+	</body>
+</html>
