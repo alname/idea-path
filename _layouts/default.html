@@ -10,13 +10,15 @@
 
 	<body id="">
 		<div>{{ page.dir}},{{ site.url }},{{ page.url }}
+			<ul>
 			{% for note in site.pages %}
-				<h2>
-				  <a href="{{ note.url }}">
-					{{ note.name }} - {{ note.position }}
+				<li>
+				  <a href="{{ baseurl }}{{ note.url }}">
+					{{ note.name }}
 				  </a>
-				</h2>
+				</li>
 			{% endfor %}
+			</ul>
 		</div>
 		<div>
 {{ content }}
