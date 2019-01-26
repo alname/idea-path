@@ -10,6 +10,16 @@
 
 	<body id="">
 		<div>
+			{% for note in notes %}
+				<h2>
+				  <a href="{{ note.url }}">
+					{{ note.name }} - {{ note.position }}
+				  </a>
+				</h2>
+				<p>{{ note.content | markdownify }}</p>
+			{% endfor %}
+		</div>
+		<div>
 {{ content }}
 		</div>
 	</body>
