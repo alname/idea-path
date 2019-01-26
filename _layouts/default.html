@@ -11,12 +11,14 @@
 	<body id="">
 		<div>{{ page.dir}},{{ site.url }},{{ page.url }}
 			<ul>
-			{% for note in site.pages %}
+			{% for page in site.pages %}
+				{% if page.url contains 'Note' %}
 				<li>
-				  <a href="{{ site.baseurl }}{{ note.url }}">
-					{{ note.name }}
+				  <a href="{{ site.baseurl }}{{ page.url }}">
+					{{ page.name }} - {{ page.title }}
 				  </a>
 				</li>
+				{% endif %}
 			{% endfor %}
 			</ul>
 		</div>
