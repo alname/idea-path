@@ -9,10 +9,10 @@
 	</head>
 
 	<body id="">
-		<div>for
+		<div>{{ page.dir}},{{ site.url }},{{ page.url }}
 			{% for note in site.pages %}
 				<h2>
-				  <a href="{{ site.url }}{{ note.url }}">
+				  <a href="{{ note.url }}">
 					{{ note.name }} - {{ note.position }}
 				  </a>
 				</h2>
