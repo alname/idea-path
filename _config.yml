@@ -1,6 +1,6 @@
 auto: true
 server: true
 markdown: kramdown
-collections:
-  notes:
-    output: true
+title: "idea-path"
+url: "https://sivayu.github.io/"
+baseurl: "/idea-path"
