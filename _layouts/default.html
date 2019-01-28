@@ -6,24 +6,66 @@
 		<link rel="stylesheet" href="/static/css/main.css">
 		<script>(function() {var elms=["header","footer","section","aside","nav","article","hgroup","time","figure","figcaption"];for(var i=0;i<elms.length;i++){document.createElement(elms[i]);};	})();</script>
 		<base href="https://sivayu.github.io/idea-path/">
+		<meta name="robots" content="noindex,nofollow,noarchive">
 	</head>
+<body id="T">
+<div id="MAIN" class="box">
 
-	<body id="">
-		<div>{{ page.dir}},{{ site.url }},{{ page.url }}
-			<ul>
-			{% for page in site.pages %}
-				{% if page.url contains 'Note' %}
-				<li>
-				  <a href="{{ site.baseurl }}{{ page.url }}">
-					{{ page.name }} - {{ page.title }}
-				  </a>
-				</li>
-				{% endif %}
-			{% endfor %}
-			</ul>
-		</div>
-		<div>
+<header id="HEADER">
+	<h1 id="SITETITLE"><a href="/_note" class="sitetitle">Note</a></h1>
+</header>
+
+<div id="CONTENTS" class="flex">
+	
+<div id="SIDE" class="box">
+<div id="LINKS">
+
+<div id="NOTELIST">
+<div>
+	<h1>Site</h1>
+	<div>{{ page.dir}},{{ site.url }},{{ page.url }}
+		<ol>
+		{% for page in site.pages %}
+			{% if page.url contains 'Note' %}
+			<li>
+			  <a href="{{ site.baseurl }}{{ page.url }}">
+				{{ page.name }} - {{ page.title }}
+			  </a>
+			</li>
+			{% endif %}
+		{% endfor %}
+		</ol>
+	</div>
+</div>
+
+</div>
+</div>
+
+<article id="ARTICLE" class="box">
+
+<header id="ARTICLEHEADER" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+	<div></div>
+	<h1 itemprop="title">home</h1>
+	<div id="UPDATETIME" class="updatetime">update：<time>2017-07-22</time></div>
+</header>
+
+<!-- start content -->
+<div id="NOTE">
 {{ content }}
-		</div>
-	</body>
+</div>
+<!-- end content -->
+
+
+
+</article>
+
+</div>
+
+<footer id="FOOTER" class="box">
+	<p><small class="copyright">&#169;2013 ALNAME</small></p>
+	<p>Powered by Google App Engine</p>
+</footer>
+
+</div>
+</body>
 </html>
