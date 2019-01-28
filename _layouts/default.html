@@ -143,7 +143,8 @@ span[title]:before{font-size:0.6em;font-weight:normal;line-height:1.2;text-decor
 <div id="NOTELIST">
 <div>
 	<h1>Site</h1>
-	<div>{{ page.dir}},{{ site.url }},{{ page.url }}
+	<div>
+		<!-- {{ page.dir}},{{ site.url }},{{ page.url }} -->
 		<ol>
 		{% for page in site.pages %}
 			{% if page.url contains 'Note' %}
