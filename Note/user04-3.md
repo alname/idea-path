@@ -14,8 +14,8 @@
 ホークマインド
 -------------------------------------------
 
-<a href="https://picasaweb.google.com/lh/photo/v5olqvRGc7CKa7LpTnDRDj0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-GPt7C8Zl9MM/UTdDmD_OrRI/AAAAAAAAAmg/m_6NdOsc0m0/s800/%255Buser4-3%255D----------.png" height="233" width="217" alt=""></a>
-<a href="http://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=29826290"><img src="https://lh5.googleusercontent.com/-lKBlRlUxoRM/UYswdKm95ZI/AAAAAAAAA_g/RUM_CpOo0-0/s288/%255Buser4-3%255D%25E3%2583%259B%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%259E%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2589.jpg" height="216" width="288" alt=""></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipMIqtjoK0S7H2vpU8hOw4lZ6rt6LI3IbmFBdQwf/AF1QipOzdPDtcBdwcdv3utsSMG-VnylIRgdOQoPlCSWM"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/VDsxOaqMCEZeaWOBSa4OM98Nj5-Ur8P3rbvBONtecybEDKrQ7Hhgetou3B54amw0k99fNKdkz0V9LeW7Rg=s288"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipMIqtjoK0S7H2vpU8hOw4lZ6rt6LI3IbmFBdQwf/AF1QipPp_YQjOd1U4Yh1YZhUym9nFndyLKeW9Hh31QwU"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/D1-3S0Ox5m8z-wfJNx9bqiE-qy13NBbyqnWovCJJKdFIppMrxxL2qV8oBbARYOu1eUuIYz8BsBSWoQfZAA=s288"></a>
 
 * 主人公
 * ヴィンドゥーラの操縦者。気性が荒く、頭に血が昇り易いが、面倒見はいい。
@@ -32,8 +32,8 @@
 
 ### Ver.2
 
-<a href="https://picasaweb.google.com/lh/photo/diOOaSU-UxEdTGQw1bhbhT0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh3.googleusercontent.com/-qBmfgJ2-rl0/Uc-9RvIBL7I/AAAAAAAABM8/CIJv_DMk4cA/s800/%255Buser4-3%255D%25E3%2583%259B%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%259E%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2589ver.2%25E3%2583%2590%25E3%2582%25B9%25E3%2583%2588%25E3%2582%25A2%25E3%2583%2583%25E3%2583%2597.png" height="238" width="218" alt=""></a>
-<a href="http://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=36812057"><img src="https://lh3.googleusercontent.com/-UAT3lfQTFFQ/UdjAobsRx4I/AAAAAAAABfc/GM75_EvFknQ/s288/%255Buser4-3%255D%25E3%2583%259B%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%259E%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2589ver.2%25E5%2585%25A8%25E8%25BA%25AB.png" height="266" width="288" alt=""></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipMIqtjoK0S7H2vpU8hOw4lZ6rt6LI3IbmFBdQwf/AF1QipOrFxf90T5ZerN6sNw90iMWUGJH7_kFPpxmyAAD"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/aidvwCCAfd2I_oEn2VvNG8ny5bX6ym4j4CuO6WeoO1JGifpRJNMx-O0Atx5X89tq5zYyv9aOTZ-aKYQDAQ=s288"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipMIqtjoK0S7H2vpU8hOw4lZ6rt6LI3IbmFBdQwf/AF1QipNAklPnYo6OTkCUVZzmdunLFOx6Y8oWdfuQ82O5"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/hYfANTFEv2s9VxwW1ak_WondmnZuxN39Ew5HPxSsLW1nXL7249xUaTEXCfiRvPdZOX34kapL2Mga3RAeKQ=s288"></a>
 
 
 
@@ -64,21 +64,21 @@
 
 
 ---
-<a href="https://picasaweb.google.com/lh/photo/r0sYMYuHP4tw-ZYsSYo2cD0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh4.googleusercontent.com/-edlJRanlr1A/UTdDoJM4esI/AAAAAAAAAms/m90pv2ECShk/s144/%255Buser4-3%255D---------.png" height="94" width="144" alt=""></a>
-<a href="https://picasaweb.google.com/lh/photo/-dzDCIhF20yR1WIEM1WWAj0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-NfiqPTF5RKU/UTdDjbiJsJI/AAAAAAAAAmQ/UOUWwxXLUiY/s144/%255Buser4-3%255D-----------%2520%25281%2529.png" height="132" width="144" alt=""></a>
-<a href="https://picasaweb.google.com/lh/photo/dXBmy8HgfCjuSnTWxw9pnj0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-1eIWEQealhA/UTdDk0UfdVI/AAAAAAAAAmY/lnmVlvDv0k0/s144/%255Buser4-3%255D-----------.png" height="144" width="129" alt=""></a>
-<a href="https://picasaweb.google.com/lh/photo/NTamFUCKrJd_1y6NNmFPuT0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-BSHozlxJe3U/Ug3_80kUIAI/AAAAAAAABwA/-rqoe1jLCfA/s144/%255Buser4-3%255D%25E3%2583%259B%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%259E%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2589Ni%25CE%25B8.png" height="144" width="131" alt=""></a>
-<a href="https://picasaweb.google.com/lh/photo/e7pp1cbP69tkU2LPHASlMj0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-uikfitOdx-k/UogDMGshVDI/AAAAAAAACL0/ik6-2KGY6-0/s144/%255Buser4-3%255D%25E3%2582%25BF%25E3%2582%25AB%25E3%2582%25B7%25E7%25B5%25B5%25E6%2597%25A5%25E8%25A8%2598.png" height="123" width="144" alt=""></a>
-<a href="https://picasaweb.google.com/lh/photo/y-Cvc53gyvMNasxJ2VJ3jD0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-x8pd3iaj-mw/Uq0zr3YUJtI/AAAAAAAACTc/TGN1wQNt3fs/s144/%255Buser4-3%255D%25E3%2583%25B4%25E3%2582%25A3%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25A5%25E3%2583%25BC%25E3%2583%25A9%25E7%25B7%258A%25E6%2580%25A5%25E8%25BB%25A2%25E7%25A5%259E.png" height="141" width="144" alt=""></a>
-<a href="https://picasaweb.google.com/lh/photo/2A-H4SaNdIqh3Gl9YenCBj0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh4.googleusercontent.com/-I9E8umoDh9k/UtIkzxEC5MI/AAAAAAAACXw/G-H7ADMkkz0/s144/%255Buser4-3%255D%25E8%25B5%25B0%25E3%2582%258B%25E3%2581%259F%25E3%2581%258B%25E3%2581%2597.png" height="144" width="112" alt=""></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipMIqtjoK0S7H2vpU8hOw4lZ6rt6LI3IbmFBdQwf/AF1QipMtlVU3LUpgzJnjzodyLaeojJtTyewrqQYU9DUd"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/_INytiZLAsYVD9pA9IqbpgBx5sdTBPZcTwk84f9BIibx7P--GQID1_7T4R36vv7n7R9Jyh2P_O5wo3QkFw=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipMIqtjoK0S7H2vpU8hOw4lZ6rt6LI3IbmFBdQwf/AF1QipMscpBAoHghF2yVi-9mmgUJoSwcROB7erwZP-wk"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/VP1_SpQEKpcoUORlOa5lyZGw0lnlqzeffgU8Z1kdjsjp8OygHYbMe7r-97dZok0R1b1t5vMdHjYE3s9UEQ=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipMIqtjoK0S7H2vpU8hOw4lZ6rt6LI3IbmFBdQwf/AF1QipMiiC6wv6DrYV8_7XwuPWdXcx8BIOgjGTKIES58"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/BdQ3zKmGAFi4CU7TwpOgBcDg2yEiewx_fSfdckQu23sPxdFl6CIAZs5Lih3BWYA2adzCgwPr8hgnYWT3EQ=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipMIqtjoK0S7H2vpU8hOw4lZ6rt6LI3IbmFBdQwf/AF1QipPAUmiRxgXHKJyrXvO1TcsWEscRi_RqvaEdG2Z1"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/oLjwy20NJJg2KEKRxRMz2cFWBmDSKJVsFxCvXyi-3XFVKjCHiyl7eqaAEgxF9lvbLSwvkREKd0UB2g9MbQ=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipMIqtjoK0S7H2vpU8hOw4lZ6rt6LI3IbmFBdQwf/AF1QipPwZHpf3_tFEWRLADnqS9Nn0Q0epXxfbTcFPzQz"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/7O6PRYTGTuP5WGPRSdyo-z2hDpYbziE2YNLHwc8B-KgtsyTooXNNd1vpxLS3aBI5mYFjrIjBPEbNOE7QUQ=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipMIqtjoK0S7H2vpU8hOw4lZ6rt6LI3IbmFBdQwf/AF1QipN9lW_b75Azh7ertoVGL-Q_z-5LbjQlY_iINq_5"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/ePYs-XAOfOwoHV8S0Aw0TUhBPhmLkoUKLNwY_bj1BF6AjtSCi8bJDeSJQiu0qsPzJFd0gi6nyYYPhjQ-Fw=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipMIqtjoK0S7H2vpU8hOw4lZ6rt6LI3IbmFBdQwf/AF1QipPlPQVatDm5y1e4-vyYNAYWhfR4Hp30PRAiiDT0"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/rnB7LKdS9s-HFdkIQDQxOInbylmFH-BL9WPk-Ag-uMfCRzbpi2Nfpuq10SiE7ICKpqnw4qAOiwwZ-miFig=s144"></a>
 
 
 
 アガット
 -------------------------------------------
 
-<a href="https://picasaweb.google.com/lh/photo/h1m4J5-4QCMVwxAQ-cv3PD0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-ftminJV-C4A/UT7TxtH8OSI/AAAAAAAAApU/3Rjp1Mb4PYg/s800/%255Buser4-3%255D%25E3%2582%25A2%25E3%2582%25AC%25E3%2583%2583%25E3%2583%2588%25E3%2582%25AB%25E3%2583%25A9%25E3%2583%25BC2.png" height="231" width="104" alt=""></a>
-<a href="http://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=37919559"><img src="https://lh3.googleusercontent.com/-GhDAPV4Dq54/UhIQwlC--GI/AAAAAAAAByI/gl8aja5Rptw/s288/%255Buser4-3%255D%25E3%2582%25A2%25E3%2582%25AC%25E3%2583%2583%25E3%2583%2588%25E5%2585%25A8%25E8%25BA%25AB.png" height="216" width="288" alt=""></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipMIqtjoK0S7H2vpU8hOw4lZ6rt6LI3IbmFBdQwf/AF1QipOe90GwBctXtidGszkdxJT-we0qPAAX6mVgFPtC"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/CyDCR-St2F8CjJx5JsVdyTeZdBJT7db4xUNw9TdskWSyT85CJw-aqxeaTOV1ASY9hwzk9ySScSSF14f_2A=s288"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipMIqtjoK0S7H2vpU8hOw4lZ6rt6LI3IbmFBdQwf/AF1QipPFkKBNREcFxkUSVNRcKc4f87X2emrlC1-mBpNY"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/6eVzNyeTx2Qgb1zxKynynMIUiP3eoG-r2H-F6RI4SmRsQPJH2vFutHn3rFKryAFieTGtcFjbn3Y-lGa9GA=s288"></a>
 
 * AGE:12
 * ホークマインドに助けられ、身寄りが無いために行動を共にしている少女。
@@ -89,19 +89,19 @@
 * ちなみに、ホークマインドに「鷹志」と呼び名を付けた張本人である。
 
 ---
-<a href="https://picasaweb.google.com/lh/photo/omcWDziYNQCP2Gkn3YNx7T0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh4.googleusercontent.com/-MrGr8hd0CtE/UTdDonOGvsI/AAAAAAAAAnA/obFrlhogdUM/s144/%255Buser4-3%255D------.png" height="144" width="108" alt=""></a>
-<a href="https://picasaweb.google.com/lh/photo/zAJlDzfNpo7HX68k3C27mj0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-K5qtLBWxtJA/UfRzWzEeCcI/AAAAAAAABok/kYtamKZACqk/s144/%255Buser4-3%255D%25E3%2581%25BE%25E3%2581%2598%25E3%2581%258B%25E3%2582%258B%25E2%2598%2586%25E3%2582%25A2%25E3%2582%25AC%25E3%2583%2583%25E3%2583%2588.png" height="144" width="94" alt=""></a>
-<a href="https://picasaweb.google.com/lh/photo/6I9ESifunUN-HMpEsw8DrT0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-VGjrEUgDEVc/Uhyicedc4II/AAAAAAAABzk/V-WnuL-N6AQ/s144/%255Buser4-3%255D%25E3%2582%25A2%25E3%2582%25AC%25E3%2583%2583%25E3%2583%2588%25E3%2581%25A1%25E3%2582%2583%25E3%2582%2593.png" height="79" width="144" alt=""></a>
-<a href="https://picasaweb.google.com/lh/photo/q-NUJO1TMFjT5aDYDC98tz0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-dUZ94cGsCDg/Um0HaTqWXII/AAAAAAAACCc/gMEqiCS_ZT8/s144/%255Buser4-3%255D%25E5%25B0%258F%25E6%2582%25AA%25E9%25AD%2594Agathe.png" height="144" width="141" alt=""></a>
-<a href="https://picasaweb.google.com/lh/photo/QG7Jf5q4mD7wz4xJFK7Ocj0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-hHGl-2kxBM4/Un7EFqqkMII/AAAAAAAACGg/1DW1yBcieYE/s144/%255Buser4-3%255D%25E3%2582%25A2%25E3%2582%25AC%25E3%2583%2583%25E3%2583%2588%25E3%2582%25A2%25E3%2583%2595%25E3%2582%25BF%25E3%2583%25BC.png" height="144" width="109" alt=""></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipMIqtjoK0S7H2vpU8hOw4lZ6rt6LI3IbmFBdQwf/AF1QipP1SFmuW1AymPj9yxr3kbHejA7NNsLfLFFuEtfG"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/zdMiSw-vSTyTICkRK8ZY99MkSO2qpm9VLHjyG4D0CYk424vHd7jacyMqml3LsX2OfGxAa4Qlk3xzKFhVug=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipMIqtjoK0S7H2vpU8hOw4lZ6rt6LI3IbmFBdQwf/AF1QipP8pob-9lzUQUUDURQtQw-M70AnEuHooOYICAJ5"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/i3kbCG3yGfQwY_YVSNUbaHp0SdNqJthhY6NbWTVqTIDeLFdRpWZEn2BtHUlc8FrC8MVNO1wSWLkOdZfopA=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipMIqtjoK0S7H2vpU8hOw4lZ6rt6LI3IbmFBdQwf/AF1QipOiWyOT_m3_K-JhFoCrl-qIE1RjuvU1BzPoDK_c"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/Vygm7kxLtPKZmpc_FIo-ghQzeZ9asFwZxx6KaGiyrqzg9lu-hmGwU1IXm7zysQOfOWfR9Hsp8aTa5vrj2w=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipMIqtjoK0S7H2vpU8hOw4lZ6rt6LI3IbmFBdQwf/AF1QipO6iePObeDM7ILfC49dIeYT_PlyRXSDUoiojYBV"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/UtcDiHBnXXGuMshlaRl7u3NVmVQGY4SxseRMVXwi_ch4ov_Dxfz_8jtVo_895Qc-VXmAslocKGym-jGB7g=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipMIqtjoK0S7H2vpU8hOw4lZ6rt6LI3IbmFBdQwf/AF1QipMKem4l1DaO14Ici5LmcXFmu9Rxe5dtfg13gFYC"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/f0Jl17YvufoZbgeh5gK6G2JzQ-1iJl4QiDl4FxsB7iacDSXtJhebxcTIlktlMNQoVXY28vLw5GUO9wZu1Q=s144"></a>
 
 
 
 シャチー
 -------------------------------------------
 
-<a href="https://picasaweb.google.com/lh/photo/TTfn5rfebfneRl6BCBGuGD0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-ePSuaNGF8Rk/Ub1W7yH5NFI/AAAAAAAABI4/8WCO7otVAkQ/s800/%255Buser4-3%255D%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%2581%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25A9%25E3%2583%25BC.png" height="192" width="155" alt=""></a>
-<a href="http://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=36458452"><img src="https://lh4.googleusercontent.com/-GYcLSEQW3Us/UcBlmtydQzI/AAAAAAAABJg/MTt5ixDp9Bs/s288/%255Buser4-3%255D%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%2581%25E3%2583%25BC%25E5%2585%25A8%25E8%25BA%25AB%25E3%2582%25AB%25E3%2583%25A9%25E3%2583%25BC.jpg" height="216" width="288" alt=""></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipMIqtjoK0S7H2vpU8hOw4lZ6rt6LI3IbmFBdQwf/AF1QipMggSNkqjHaHIUHfXauETfn8zZ3vzljC-Pxya44"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/N1RbqUaDjQNyEI7r4c9pVsO40Eid08KOMwAcKAz308TCCtpk_JnCqh9_d0dw2lvHBd-YYXeuO9i2vSF4Hg=s288"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipMIqtjoK0S7H2vpU8hOw4lZ6rt6LI3IbmFBdQwf/AF1QipP1Zml4Cy9d6DfhOpV7v7dbAIwJ0uG-VDukVJUA"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/BK1YdZGNr8JENbdzapoMn3PTt7t_7sEdGHp3JKNptOfEQ7KnfvRUob2wNjtAKn9XG6CcMuGfAxV0jBY5dw=s288"></a>
 
 * ホークマインドの妻。
 * 神界にて、居城を含む全てのホークマインドの所有物を管理していたが、ホークマインドの危機を察知したため、急遽人間界へと下りた。
@@ -115,7 +115,7 @@
 阿修羅王・ヴィーバ
 -------------------------------------------
 
-<a href="https://picasaweb.google.com/lh/photo/IIq2aQoRjV1AQ_IB9blUxj0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-elJHkT3yAL4/Ug3_97CYvBI/AAAAAAAABwM/AgK_YxmCpWU/s288/%255Buser4-3%255D%25E9%2598%25BF%25E4%25BF%25AE%25E7%25BE%2585%25E7%258E%258B%25E3%2583%25BB%25E3%2583%25B4%25E3%2582%25A3%25E3%2583%25BC%25E3%2583%2590.jpg" height="266" width="288" alt=""></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipMIqtjoK0S7H2vpU8hOw4lZ6rt6LI3IbmFBdQwf/AF1QipMR5g-TR3kRdpWgWdJmmBm5tLcuONnJvK3ym-sr"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/7bxRKR7cVCdpHEevNHIg5AY1MfQ8JXNyY2R-NQ9T5NY4eldGdYhJZeDPYEaUt7sBpoCLSpdm2ZCqfyLTLg=s288"></a>
 
 * たかしに「お義父さん」と呼ばれるとキレる。
 * 阿修羅族の王の一人であり、シャチーの父親。
@@ -124,7 +124,7 @@
 * 所有する「神」はアスラヴィーヴァ。修羅道に堕ちた事で力を増し、その力はヴィンドゥーラに匹敵すると言われている。
 
 ---
-<a href="https://picasaweb.google.com/lh/photo/qLIclNwLgtkvYKth-dRRvj0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh4.googleusercontent.com/-PRnYpL28Ifw/UatEpngO2oI/AAAAAAAABG8/pDM0-BP7yL8/s144/%255Buser4-3%255D%25E3%2582%25A2%25E3%2582%25B9%25E3%2583%25A9%25E3%2583%25A2%25E3%2583%258E%25E3%2582%25AF%25E3%2583%25AD.png" height="122" width="144" alt=""></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipMIqtjoK0S7H2vpU8hOw4lZ6rt6LI3IbmFBdQwf/AF1QipPMY7Ie3_PzarB2ev7bMQncttfb4Eqg0OdDrGW_"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/Ul1Bf8nQJUJSHWGl8lxM8fm-nTgHYkp7YIVUhZ735ODvlimQgwk0ldqn0JJeF4s_xjv8tYu_I_H0rgRG3w=s144"></a>
 
 
 
@@ -135,7 +135,7 @@
 ヴィンドゥーラ
 -------------------------------------------
 
-<a href="http://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=30062395"><img src="https://lh3.googleusercontent.com/-oA5qEl08008/UYswkjVZnFI/AAAAAAAAA_w/56ytyOn_mG4/s288/%255Buser4-3%255D%25E3%2583%25B4%25E3%2582%25A3%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25A5%25E3%2583%25BC%25E3%2583%25A9.jpg" height="288" width="230" alt=""></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipMIqtjoK0S7H2vpU8hOw4lZ6rt6LI3IbmFBdQwf/AF1QipO9xZKFE7q9uTu_tHmjR1Hjeo0Nijq1MJNAF1fW"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/Lxg5fyawrx2q-3Y6Q03x0F2busTQJAA4q5zr8VywAqTndmAQxDthYBejTvwN4qNfW3wwz-DDMb0lFs1V_A=s288"></a>
 
 * 帝釈天インドラをモチーフにしているんですけどあんまりインドラっぽくないのはご愛敬。
 * 肩のビーム砲みたいなパーツが分離して、連結することでヴァジュラになります。
@@ -149,7 +149,7 @@
 帝釈天ヴィンドゥーラ
 -------------------------------------------
 
-<a href="http://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=33266946"><img src="https://lh4.googleusercontent.com/-rAJ8yUTLhPQ/UYswitLmn8I/AAAAAAAAA_o/sXV72pPzcyM/s288/%255Buser4-3%255D%25E5%25B8%259D%25E9%2587%2588%25E5%25A4%25A9%25E3%2583%25B4%25E3%2582%25A3%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25A5%25E3%2583%25BC%25E3%2583%25A9.png" height="240" width="288" alt=""></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipMIqtjoK0S7H2vpU8hOw4lZ6rt6LI3IbmFBdQwf/AF1QipN3IDXPMsnQmf8VCjlOkOCYZvwVlxnciis26cKR"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/A37ax3yeuNlYIIedCObadhAtw60Tysbmn5QD73LziXSBSQqIRkAiRW9MaY4XwW9YPuYrmSG3uCR39BksOg=s288"></a>
 
 * 全長:53m
 * ヴィンドゥーラが新のヴァジュラを手にした本来の姿。
@@ -160,7 +160,7 @@
 聖獣合神ヴィンドゥーラ
 -------------------------------------------
 
-<a href="http://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=39817109"><img src="https://lh6.googleusercontent.com/-i8RwW5ZUiro/Uoon-Mh_jLI/AAAAAAAACMs/T-Ya0vTC5OU/s288/%255Buser4-3%255D%25E8%2581%2596%25E7%258D%25A3%25E5%2590%2588%25E7%25A5%259E%25E3%2583%25BB%25E3%2583%25B4%25E3%2582%25A3%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25A5%25E3%2583%25BC%25E3%2583%25A9.png" height="256" width="288" alt=""></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipMIqtjoK0S7H2vpU8hOw4lZ6rt6LI3IbmFBdQwf/AF1QipP1wJqTrWucU35u1c0jcSpRDmsOkL17VJY7ztYG"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/nRP8A_EtuwllsFoA1eCYhayBfwraBQz3N2Ss6BnFzjroBMMrr7dwwZUYJ6mtJuby6dkY7TxpqS1BRoy2mA=s288"></a>
 
 * 旅を通して人と触れ合う事で、神とも異なる新たな存在となりつつあるホークマインドがヴィンドゥーラと白き象王・アイラーヴァタを合神させた姿。
 * その力は「帝釈天」としての力・役割を大きく逸脱し、三位一体を果たした三神に迫る程の能力を持つ、最強最後のヴィンドゥーラとなった。
@@ -180,9 +180,6 @@
 トール
 -------------------------------------------
 
-<a href="https://picasaweb.google.com/lh/photo/rh314XJxWtS9K_feUVzsIKuAUwga3FE0hnzu6csDRQ0?feat=embedwebsite"><img src="https://lh3.googleusercontent.com/-ISeKaH0K4Zk/Ufz_v1MvlYI/AAAAAAAABq4/XdEujU_DKqc/s288/%255Buser1%255D%25E3%2583%2588%25E3%2583%25BC%25E3%2583%25AB%25E4%25BA%25BA%25E9%2596%2593%25E4%25BD%2593%252B%25E5%25B7%25A8%25E7%25A5%259E%25E7%258A%25B6%25E6%2585%258B%25E8%2589%25B2%25E6%25A1%2588.png" height="277" width="288" alt=""></a>
-<a href="https://picasaweb.google.com/lh/photo/7GZdpmsR9nLWupZAR-IkgKuAUwga3FE0hnzu6csDRQ0?feat=embedwebsite"><img src="https://lh4.googleusercontent.com/-2Tk-uODxMp0/Uf5OuPmlnxI/AAAAAAAABtE/UvFqxvg-F5w/s288/%255Buser1%255D%25E3%2583%2588%25E3%2583%25BC%25E3%2583%25AB%25E9%259B%25B7%25E7%25A5%259E%25E4%25BD%2593%25E3%2583%25A9%25E3%2583%2595.png" height="235" width="288" alt=""></a>
-
 「<a href="/_note/text/user01-Thor">[帝釈天雷ヴィンドゥーラ] トール</a>」も参照
 
 * 北欧神界に住む神の一柱。雷を司り、その力は最高神オーディンを上回る。北欧神界で最強格の戦神。
@@ -196,9 +193,9 @@
 ロキ
 -------------------------------------------
 
-<a href="https://picasaweb.google.com/lh/photo/Pjy8PmUX8PTK9iKLYViKLD0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-pxBUPf3yCHc/UjWcV1lMWzI/AAAAAAAAB34/GRn8ui937os/s800/%255Buser4-3%255D%25E3%2583%25AD%25E3%2582%25AD%25E3%2582%25AB%25E3%2583%25A9%25E3%2583%25BC.png" height="271" width="237" alt=""></a>
-<a href="https://picasaweb.google.com/lh/photo/WF_5obCqiRHpFKR59bVtmT0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh4.googleusercontent.com/-vsQnx7JK6kI/UodIbWsrqWI/AAAAAAAACKg/pfv1w06fQKQ/s288/%255Buser4-3%255D%25E3%2583%25AD%25E3%2582%25AD%25E5%2585%25A8%25E8%25BA%25AB.jpg" height="288" width="237" alt=""></a>
-<a href="https://picasaweb.google.com/lh/photo/BBEvlW0CHgZ2vPxJjDEdVT0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-_T9S9FsMgL4/UnTgr5IpgiI/AAAAAAAACEU/cnwgJe3TsDE/s288/%255Buser4-3%255D%25E3%2583%25AD%25E3%2582%25AD%25E5%25B7%25A8%25E7%25A5%259E%25E4%25BD%2593.jpg" height="288" width="156" alt=""></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipMIqtjoK0S7H2vpU8hOw4lZ6rt6LI3IbmFBdQwf/AF1QipPgdFOnRPaKg9C99vd4x2pWCeKfP6hltdingMFL"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/1dSaR4iaogESTfgmPOR0E6PKMvNJmQoSNCyf7h7Ix60b_3HVdaa3tiht0nZgwR43scNavJPrEO3MIiMMIQ=s288"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipMIqtjoK0S7H2vpU8hOw4lZ6rt6LI3IbmFBdQwf/AF1QipOqsnZYJodFhojtKzR347MRCI_uuLhVKYIvhDBM"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/3DQJYIdVjzk55k6yMhBp_mADnqrNMpq6liNeXmPez9b3koVNPGU4hAiy0PHXpqr8qYxKldNtpwihx_1eTA=s288"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipMIqtjoK0S7H2vpU8hOw4lZ6rt6LI3IbmFBdQwf/AF1QipNVB1yO9xLLz6f7cHS3pQnep9qB0ok80KaTDZRW"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/r-cQsI3J5lt5Fhy6SLD_cbqwbIdBGxOdtaMRwDK8vWXtb8w22Oy9XZ81hAgAzyU0t1a9iGr4DaDzDryAXw=s288"></a>
 
 * 伝承通りに、彼自身は名だたる武器は持っておらず、変身や魔術などトリッキーな戦法を取ります。
 	* ただし、脚部の「空飛ぶ靴」の力を応用した格闘戦が行えるため、意外にも素の戦闘力は高かったり。

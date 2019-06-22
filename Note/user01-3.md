@@ -1,7 +1,7 @@
 テーマ
 ======================================================================================
 
-<a href="https://picasaweb.google.com/lh/photo/fOIu-D6xupqEWl9Iqs2VbT0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-3tvwZbTNezw/UTdCnP8aSfI/AAAAAAAAAa4/vpymJ-NlTK0/s800/%255Buser1-3%255D--.png" height="83" width="126" alt=""></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipO3mrzDmlX1dGa9J5Sns50kKFZt2p_BjMTDN3FN"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/H4-N72frguOa7rkiQ8MUDz52Csj8YZSXVjNIFrQjz1O3bwMuCGI9L6G8W11kYEJYCtmcPmo8Q5POLuJQ6Q=s288"></a>
 
 * リアルロボットの世界にスーパーロボットが現れたらどうなるか
 * 良し悪しは関係なく、ぶれない信念を持った主人公は受け入れられるか
@@ -12,14 +12,14 @@
 愉快なドクジマ一味
 ======================================================================================
 
-<a href="https://picasaweb.google.com/lh/photo/dqvwXbo26KL89uCTYw3CPT0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-sVofSLXMYpQ/UTdCmE99pQI/AAAAAAAAAag/tkKWGebzT8g/s800/%255Buser1-3%255D------.png" height="340" width="340" alt=""></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipNFJFYmC84rl19yp5-OVV5bOQWSvL6vGHHhWEbZ"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/ffhBg-Y3svxRZS8NfArT2JQrCezfTdFdUvnsKMQI9xYxFTwiVcosKs6XBDatNL-csUIHdfsiKKMJkFj6Kw=s288"></a>
 
 
 <span title="ドクジマ">毒島</span>
 -------------------------------------------
 
-<a href="https://picasaweb.google.com/lh/photo/UZBzEuZ2G-hjzwDKpVzw7T0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-fhrmfb1yeIA/UTdCk_cHtjI/AAAAAAAAAaE/-e5_H-iRy9c/s288/%255Buser1-3%255D--%2520%25281%2529.png" height="199" width="288" alt=""></a>
-<a href="https://picasaweb.google.com/lh/photo/7712CDX62aAjJcJSmvWqST0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh3.googleusercontent.com/-dsgcV0NcMNc/Uood0_SxE9I/AAAAAAAACMU/FteRJMiWa6w/s288/%255Buser1-3%255D%25E6%25AF%2592%25E5%25B3%25B6%25E5%2585%25A8%25E8%25BA%25AB.png" height="288" width="88" alt=""></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipNrtv4Mx8ajc5l5oMEMrLqEDFRkxzIJzSW_TUHh"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/W-ry5rFPSD9IhzgL53W1yz458wVOuu7bU9bDqt08uh8WqkGSv_jd5Ce-WGh9512dAG4P7pys_EPxxVr1lA=s288"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipMrjiOJghDZKEGwyOPdjAApJK6tK23OixHruCcW"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/61eFaOujmStVp_v7zpvZrjiIKBYvu6FyPQD91oBnn0utQbLq9v-UAWsliuV94xgY6H26BfHkWokAOS5c9w=s288"></a>
 
 * 元軍人の男性(32歳くらい？)
 * 感情の発露が無く、極めて淡々と しかし意志を持って行動する
@@ -32,17 +32,17 @@
 	>地域に関係なくこの格好で現れるので、とりわけ暑い国ではかなり回りから浮きます。  
 
 ---
-<a href="https://picasaweb.google.com/lh/photo/8rBMz6XoQNRYDS9TkzWCUj0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh3.googleusercontent.com/-QPgVpN-h_p4/UT7Tvq6WX0I/AAAAAAAAAok/-2_06NajrLU/s144/%255Buser1-3%255D%25E6%25AF%2592%25E5%25B3%25B6Mk-2.png" height="144" width="118" alt=""></a>
-<a href="https://picasaweb.google.com/lh/photo/2XjMWs0Q_hkEKW4pfEaQUAWnViHfQH0lZrxoT6MpJ0s?feat=embedwebsite"><img src="https://lh4.googleusercontent.com/-ziz0iEG7eiQ/VRklFqQsw5I/AAAAAAAADhY/pfM2Ke2eQWE/s144/%255Buser1-3%255D%25E6%25AF%2592%25E5%25B3%25B6%25E8%25A3%25B8.png" height="144" width="108" alt=""></a>
-
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipNEXHS4Ec3Z_NzmYe8ia6vSwwhU8EbFWQ5IKh1T"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/X3feJz1d_15PugOimRiNJOxUCMtFxFgy1EYtsIc0d7R9KVr8tuFlRyqwviJ3zy0fVy2KhpTveMkifpC-qQ=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipPJcGRA3kluUSlrVa-vRd_WqLn_Mz-3L-hqco49"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/56CEQVSrWH7hqoGNjpUcc-OCDhSxMNqxKKAppNbMgiS9pzp2KFpa08w_GyIh_s_0aohV7cBoq5ENoAutqQ=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/AF1QipMzXaVLgGxs6nNXcYdglkNfWhfmksns8vVkq_ms"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/CSqKDfflO6prWBdIQY1tz3w6Fr-SbnZFXK2lCwOakfbAvyYQ6uNiTkIFM4pyOwJl7mopeV4gdD83CCj-sw=s144"></a>
 
 
 
 女科学者｢マライア」さん
 -------------------------------------------
 
-<a href="https://picasaweb.google.com/lh/photo/ma-GXv7c7EBXiw08qhCd1D0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh3.googleusercontent.com/-xP0claq1ANk/UTdCmlG9k7I/AAAAAAAAAa8/tB5W9J2EHsk/s288/%255Buser1-3%255D----.png" height="288" width="174" alt=""></a>
-<a href="https://picasaweb.google.com/lh/photo/7k95D6JE1VbI4j3FNmWwRz0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-QyrVnP5Nbfc/Uood0qIodEI/AAAAAAAACMQ/aJyVoxeqp8w/s288/%255Buser1-3%255D%25E3%2583%259E%25E3%2583%25A9%25E3%2582%25A4%25E3%2582%25A2%25E5%2585%25A8%25E8%25BA%25AB.png" height="288" width="108" alt=""></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipMCjDWpx7BE5sqzTnzmseYOKdkgd4e5jY5RVv1u"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/VDiD019tor_zjTkXRTEIJhyilGb888_aHQmOEw273c0UyifwiZxodeXxP3-U6a97EW-6LjAGeYoHPv8VlQ=s288"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipOhNNPZwbTGzGoPnftyau2k9ELvyUJnfYZwbZAy"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/xyFdjFV6WmMrhhRg8N0OfdioWosN3qNgW6g2LOwadit2g5ZWvsNgyFp26I5AbZ9atPV1DkJ1MyA8Ml1Bbg=s288"></a>
 
 * 毒島一味の紅一点で、頭脳担当
 * 毒島戦闘ロボのメンテナンスとか、IZAMの調整を行っていると思われる
@@ -69,9 +69,9 @@
 
 
 ---
-<a href="https://picasaweb.google.com/lh/photo/aUOCmPex5Xegy0TYGmsRUj0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-kGOSbqZU0OI/UTdClZXtP5I/AAAAAAAAAaM/9IrC_bLlg48/s144/%255Buser1-3%255D----%2528--%2529.png" height="144" width="65" alt=""></a>
-<a href="https://picasaweb.google.com/lh/photo/dO7pfARmoGWM4t-mTn-pnz0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-XP0s17yJ4xM/UdfjLBoeLOI/AAAAAAAABeQ/0ibRAPdgs_A/s800/%255Buser1-3%255D%25E3%2582%25B7%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%259E%25E3%2583%25A9%25E3%2582%25A4%25E3%2582%25A2.png" height="56" width="54" alt=""></a>
-<a href="https://picasaweb.google.com/lh/photo/Bex8uV3_LoNslr7MJetvbj0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-p-V79nfF6x4/UT7Tvuz4LnI/AAAAAAAAApk/uYCPtiF51jo/s144/%255Buser1-3%255D%25E3%2583%259E%25E3%2583%25A9%25E3%2582%25A4%25E3%2582%25A2Mk-2.png" height="144" width="75" alt=""></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipN0N7cQ33YdEiN0TIRx6ddt56JUQQHOBPZJQ9cb"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/_VE5jobJd1gioXF5bftg3mnielNnXF6Urb85EmOvBLMWKH7H-7t6Z2uC5Fxt84Js2h_2US2WvY7mExP7cA=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipN2rGUn2LaSVjtkvZUk5YJ_9n7mHy63NHYecEnV"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/uXqbAuuIGBtRrGFTaxHyhFagh0JP99Z3vcbMZOTtV_FPovulziahfJokXqRi_fGJy3yWer76RwbhCk5g_Q=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipMM94dm5pG1G4VqS4yi2HlLUQJI_yr2xJTQQkq2"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/O6cuiKTWlOVmhy37m5I9bCFRgO30R-cy-KGQefS73-8swCMDUVLvyCV-IQGdcI9K4Iu7GHfpIDZBSHy0bQ=s144"></a>
 
 
 
@@ -79,8 +79,8 @@
 一騎当千｢IZAM」さん
 -------------------------------------------
 
-<a href="https://picasaweb.google.com/lh/photo/OkhELTrKAJBmZnxH0zD6aD0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh3.googleusercontent.com/-7iuMAb7nydc/UTdCnQkOPxI/AAAAAAAAAgs/grkxSkm6C5E/s800/%255Buser1-3%255DIZAM.png" height="237" width="233" alt=""></a>
-<a href="https://picasaweb.google.com/lh/photo/2f1jrNbgUQarQnp1bQpJ6D0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh3.googleusercontent.com/-ubrtN6JwDmY/UfOhlQNSqII/AAAAAAAABnU/0y5uoj1PKPM/s288/%255Buser1-3%255DIZAM%25E5%2585%25A8%25E8%25BA%25AB.png" height="255" width="288" alt=""></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipMyopOD47ctxg8rs4PP4hXEEWwsX_RIntPjDwOC"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/p9qRWXhveW034ycukG6FuJ9mRkMGrgJZdRK2Kv_iWRkEZFTeq3ycKDuoSKPUQdRMNVUsGwykby10lgcbBw=s288"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipNc7KcDONGij09JG7vqALl2msdr9Ul9fH0Se8HE"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/PBlD6bTohSncFTgvnqowv98Tj3JKGvwkaeay3VTzZHjEotB9GvqvTGj7z0EISp21EYL_5qZg-TXs61sHXw=s288"></a>
 
 
 * 単騎でテロリスト拠点にカチコミをいれ、要人を屠るサイボーグ
@@ -122,9 +122,9 @@
 	
 
 ---
-<a href="https://picasaweb.google.com/lh/photo/yF7E4rOPtdIBViHRX02kJT0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh4.googleusercontent.com/-nVuZjTZ16ig/UUcVtFAQ-GI/AAAAAAAAAug/h19DEKjz6EU/s800/%255Buser1-3%255D%25E4%25BB%25B2%25E9%2596%2593%25E3%2581%259D%25E3%2581%25AE3.png" height="91" width="87" alt=""></a>
-<a href="https://picasaweb.google.com/lh/photo/fYF8oV-RHNPnyfcQ7R32LAWnViHfQH0lZrxoT6MpJ0s?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-cLJAyWWGwuc/VRklF651blI/AAAAAAAADhU/gP10CXzpjh4/s144/%255Buser1-3%255DIZAM%2520BLUE.png" height="144" width="135" alt=""></a>
-<a href="https://picasaweb.google.com/lh/photo/MlK9f7SnOiF4w75QrJoTaQWnViHfQH0lZrxoT6MpJ0s?feat=embedwebsite"><img src="https://lh4.googleusercontent.com/-xgzkhVy0Hsw/VRk1QKsaiTI/AAAAAAAADm4/4HIRQyymsuo/s144/%255Buser1-3%255DIZAM%2520RAINY.png" height="144" width="98" alt=""></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipPq1MkpkNvcjhDUN5nGmXY-Lke4xLSEAzZfi3bD"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/MbI-xXruGWJyTTVuKPEKy8KFI8yRy-nXB1u60sY9FLeyDt_K8r5R4pVYe_Gp5OK5opXruWqeslBBnWdJ1A=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipM8GgXLWPqb-U4OgSNUydta8Kh_8HD5sC9xT5B_"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/4BZy6hq58LVH-_LTsYlGHw7daqCIh-Xf3DYH9X0xxO4_dY4EfSAXYTJGOkanD1eBzhWLNZVPRtiQXK-SHw=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipNhuQqw7jnDUK2dzXCGe1ucgTLwdubYvCyejxrc"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/8wEIQXxvfS-bwi2CUBPsLau4fAHzqdz3-siWEiDfOHR3RMT5lpq-7hcDqbYT3FuqX2ZgDl3WBSLrGHH8dw=s144"></a>
 
 
 
@@ -188,8 +188,8 @@
 毒島戦闘ロボ
 -------------------------------------------
 
-<a href="https://picasaweb.google.com/lh/photo/wXJg1nTVVlzPJWkT0mJSqT0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh3.googleusercontent.com/-VyOiOeJ16nU/UTdClvMZNFI/AAAAAAAAAaQ/Cq5mckKpAHg/s800/%25255Buser1-3%25255D------%252520%2525281%252529.png" alt=""></a>
-<a href="https://picasaweb.google.com/lh/photo/kUeNNYw9527DsTxaAV8dsj0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-SVZbom3_OOE/UTdCm1B2ZqI/AAAAAAAAAaw/V4KH8PscItM/s288/%255Buser1-3%255D------.jpg" height="288" width="203" alt=""></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipOcepbSgJqJymzglSNcPszgV-tsTAaXq8J-sIfL"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/NRabWy2Gv2YW_oamUzH0fa2DcAmFqD568UBfEn-pKx_8QirbsXwI65qY9gAlfhHDYhkRe-NpvVytbKPZQw=s288"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipPGKKwCuXY-om10WL7Sx4tW-k2-quT0VHx4drCZ"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/-P8b5GPIQCaoSO52tYrSjbbnw2BVONSumDsn4TuoQVqneKqwbN_fWXcjrFMFOWKFF5foUWCX6KJc9QBJww=s288"></a>
 
 * 人型のスーパーロボット
 * 時代の水準にそぐわない大きさ・硬さ・強さを持っている
@@ -330,14 +330,14 @@
 ======================================================================================
 
 ---
-<a href="https://picasaweb.google.com/lh/photo/IhBDiHozzwAcI_tPxdbY1D0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-h-xDeyfHSqc/UV68xKPWhfI/AAAAAAAAA4U/uApZI9vzdlg/s144/%255Buser1-3%255D%25E6%25AF%2592%25E5%25B3%25B6%25E6%2588%25A6%25E9%2597%2598%25E3%2583%25AD%25E3%2583%259C%25E3%2583%2587%25E3%2583%25A2.png" height="116" width="144" alt=""></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipPCIajs1Om50nHPcDNYh2dzXlB3jVa4bxX6iIZo"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/1WyZGQiWui7iSOO5oiO6FE-HHQ7HZvnUn5L0PRAoiJHpahScaknsvNnPFtQsyBNR2h8tVY2s92uNMGy2qw=s144"></a>
 
 ---
-<a href="https://picasaweb.google.com/lh/photo/c1R5Ouk0Qq4FwCLcDNwj3T0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh3.googleusercontent.com/-2Lp0_O2_4hY/UVk0GUu8gmI/AAAAAAAAA1w/4t8EQcPnUsc/s144/%255Buser1-3%255D%25E6%25AF%2592%25E5%25B3%25B6%25E3%2581%25A8%25E5%25A4%25AA%25E9%2599%25BD.png" height="123" width="144" alt=""></a>
-<a href="https://picasaweb.google.com/lh/photo/SfA-jDlM3Wqq2_671Kg0zT0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh4.googleusercontent.com/-kloqQzo3EcE/UVk0HDlectI/AAAAAAAAA14/QUVEgdS9U0w/s144/%255Buser1-3%255D%25E7%2582%258E%25E3%2581%25AEIZAM%25E3%2581%25A8%25E3%2583%25AD%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25BC.png" height="97" width="144" alt=""></a>
-<a href="https://picasaweb.google.com/lh/photo/S3kwKXWoMtL6sXw8LteVmz0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh3.googleusercontent.com/-hbI0DS8GH5Y/UVk0HNSlGsI/AAAAAAAAA2I/AS6DqqTCpJo/s144/%255Buser1-3%255D%25E9%2589%2584%25E5%25A3%2581%25E3%2581%25AE%25E3%2583%259E%25E3%2583%25A9%25E3%2582%25A4%25E3%2582%25A2%25E3%2581%25A8%25E3%2582%25A6%25E3%2583%2591%25E6%25B1%259F.png" height="91" width="144" alt=""></a>
-<a href="https://picasaweb.google.com/lh/photo/yEB3nR0MkAScpjgWrR7ymj0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh3.googleusercontent.com/-L3E97nAbtRI/UVk0G4hiGRI/AAAAAAAAA18/CvaYIxnGtkE/s144/%255Buser1-3%255D%25E7%2582%258E%25E3%2581%25AEIZAM%25E3%2581%25A8%25E3%2582%25BF%25E3%2582%25AB%25E3%2582%25B7%25E7%25A5%259E.png" height="103" width="144" alt=""></a>
-
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipPLXK9jm4yPnzXJXrhh4--DarnHeaVFl7BYcrT8"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/mxpHsOMv9p0_VAEk1G0ZAGwgejoeUefbYVinIhPiMjBB-J2rL1rKm_79Z-tPME_VGHLcwOsn66CrBoZCXQ=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipOvvunVNWETmMHaYkhRnBwzbK60WeyoFR3n73Ak"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/pn2kOZUDsfozoiKj4tC6Y0_yNne7PnzejLkflVTdOtAArxC86yUKbctCaPgt0SLoic_UvU9p-JAsPZBdWQ=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipP_lRsolf4oKEgxWj5OlkLGmjrhIcVKT6dfrXJL"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/GOX659RBv6c8pvTKsFRl8V095NV7u-ZaUkM0zFbs-NDtC6WJzQ-NA7KArjpR8Cn9cVeMairLiUkfqXCBZQ=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipNgaheREpYFhj_wDBdZSp6gLcKoFYfhtrOnGwWo"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/L53bX7t5NXkgQhtUZ64hy3JHuBgoM7gI_rGPAogEK5HWKaVA7kvisiCtSNo1yWSHetDskEKb8mEjeiPX0A=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/AF1QipPwl9vby-wRRjkadBEMjZIUaDq1ozGWnszDLFWf"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/-54zGxcaLcuVUyhRAac6J8XufA3EyQoMUgsnRMjW0FFoQdCy3vIs9GMSF67xCCY60y4mWy8f0hUy2mjClw=s144"></a>
 
 
 リンク

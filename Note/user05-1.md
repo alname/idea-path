@@ -1,13 +1,13 @@
 キャラクター
 ======================================================================================
 
-<a href="https://picasaweb.google.com/lh/photo/TjQ2jz7iT4NE051nIReYKz0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-EQxXs8PmXGA/UTdDpSFYU2I/AAAAAAAAAno/5dg9-5VqR3U/s800/%255Buser5-1%255D---.png" height="259" width="189" alt=""></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOuxrOcmL9T_uvtOu6PiIuVRHwXsP3sTUWdO9r-/AF1QipOH8Vh3eMKTdigB-TxuKMQVmM2D8bPVMP_59a2a"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/B3BHyxgRzf6iuumaGYEA9n3ramLd3yHsEy9SDW9Y9DvTQIdAUxVIW78aCIqsla17EiO_Bz7W657yBW66ww=s288"></a>
 
 
 カオリ・シルクレーテベルク
 -------------------------------------------
 
-<a href="https://picasaweb.google.com/lh/photo/AwYVPT0XHmHHVufW7hzXJT0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-XqWzslFcy4A/UTdDo2IHxKI/AAAAAAAAAng/-WThV4uuozg/s800/%255Buser5-1%255D-------------.png" height="127" width="252" alt=""></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOuxrOcmL9T_uvtOu6PiIuVRHwXsP3sTUWdO9r-/AF1QipPKolLh_UoEovqquprD19kwYOxfabSrRutwD857"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/cEBedFRF_-3FKxr3sdTMJsiysbtE-jAA4ycf3ycQyj11QRvEnCbbItXD1ooDTRDihisxDIc-wN48bliDgw=s288"></a>
 
 
 * 日系ドイツ人
@@ -16,8 +16,8 @@
 * 成績優秀な完璧超人に見えるが意外とオッチョコチョイ
 
 ----
-<a href="https://picasaweb.google.com/lh/photo/l91vMPzaWu8YIoHux_dZKj0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-qwxMMuqVBw8/UTdDoufnrJI/AAAAAAAAAnc/KMUCR9CHois/s144/%255Buser5-1%255D---%2528--%2529.png" height="114" width="144" alt=""></a>
-<a href="https://picasaweb.google.com/lh/photo/4ws8_DnvKP9AeIAFBo7LNz0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-nVTy1OXeycc/UzgCfBEM6PI/AAAAAAAAClc/EN_WwGyYnrU/s144/%255Buser5-1%255D%25E4%25B9%2585%25E3%2581%2597%25E3%2581%25B6%25E3%2582%258A%25E3%2581%25AE%25E3%2582%25AB%25E3%2582%25AA%25E3%2583%25AA.png" height="144" width="102" alt=""></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOuxrOcmL9T_uvtOu6PiIuVRHwXsP3sTUWdO9r-/AF1QipNCyg0NK4SB59QgXv1BSwPpuI0xX55rin1bctzb"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/1arzfjz1prI9bMgI6TN9JjTjMuHznFzR9JPu0vM65SB1RSLjy_ks2u2OpzGhS15Q4TxRXJ9WqJygXb3A-g=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOuxrOcmL9T_uvtOu6PiIuVRHwXsP3sTUWdO9r-/AF1QipPOW6MGMBeuQkr3Nxo7rt-4ZwILpUDldvoFm1fZ"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/8BIeI5iXSK1z08t8Qp11jXMkSl--OUNX7--uxiaM9GIjW6OfQNTub6Jo-IrVPFGZ_5yjoMt1hHrrPnrD8g=s144"></a>
 
 
 
@@ -37,7 +37,7 @@
 内藤2000式
 -------------------------------------------
 
-<a href="https://picasaweb.google.com/lh/photo/aq9IbHmdi8cso25pdvux8T0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-EbXkPORJlFI/UTdDpjXAu9I/AAAAAAAAAnk/4snvQvIltQg/s800/%255Buser5-1%255D--2000---.png" height="169" width="255" alt=""></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOuxrOcmL9T_uvtOu6PiIuVRHwXsP3sTUWdO9r-/AF1QipMmapYHcsFbfcD269Ga6sB9QLoXoymGclSz22CW"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/vow6Uk_Zx8FKGD9dfbRiJzscpRNGqq2UXqBWntYG4MTkeWzlP3V-eO1IPS0SYoJ0hsJ_z0W97mVfeN1nxQ=s288"></a>
 
 
 
@@ -48,7 +48,7 @@
 名称未設定
 -------------------------------------------
 
-<a href="https://picasaweb.google.com/lh/photo/uGI9dPPIkEyPXvq_n4C0wT0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh4.googleusercontent.com/-KisSoUfIWsA/UTdDpNuI_-I/AAAAAAAAAnU/YsvWKF_ROtY/s288/%255Buser5-1%255D-------.png" height="157" width="288" alt=""></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOuxrOcmL9T_uvtOu6PiIuVRHwXsP3sTUWdO9r-/AF1QipMfeYomVNLleOUjDPJjEqwaM-fAYba_a2QQfS9T"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/Fwxvkt6uN0Q9XYbBMnEexHiUzJl1UH5raEmkv9Du26rMwPy5AACJSHU-5heQqShi9nxEeNO3WDwDdTSsYQ=s288"></a>
 
 
 * 特命係の敵（一応）にしてカオリのオヤジ

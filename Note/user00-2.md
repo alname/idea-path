@@ -8,7 +8,7 @@
 
 アーサー
 -------------------------------------------
-<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipPgVu3AweAZ9s0K44jJLhsKcdEypnTzGjXXhdeW"><img  src="https://lh3.googleusercontent.com/tIugXAlPGICqcu8YoPLcVYgwTQAEBjTXx7HVRAO2Ti83ITnV-e7ffJFxrEHY3khSWdYHjfgy90hzH5JgFrCQ-j-LfvUWI3glYloqqPSbzQ=s288"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipPgVu3AweAZ9s0K44jJLhsKcdEypnTzGjXXhdeW"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/tIugXAlPGICqcu8YoPLcVYgwTQAEBjTXx7HVRAO2Ti83ITnV-e7ffJFxrEHY3khSWdYHjfgy90hzH5JgFrCQ-j-LfvUWI3glYloqqPSbzQ=s288"></a>
 
 **「最後の最後にできるのは、信じることだ」**
 
@@ -34,18 +34,18 @@
 * ステータス・地形適応は全体的に高水準。精神コマンドは攻防回復と戦闘に必要な物はひと通り揃う。固有スキルを修得していないので爆発力はない。性格・精神ともに気力があがりにくいため、敵を倒せないならテコ入れが必要。
 
 ------
-<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipPx0jZkMt9S0sqVFzGOGTH_xuq3z_1M3xuj6R1n"><img  src="https://lh3.googleusercontent.com/1kK6a1hZ3ZZON1tAfqwvGrTxqFJg_LQgfpl7ULJ1R240TJXotS9yGx0O5pPAs-eDNeKQCCALdvxjg7vFzluKympH9NLHdi45oOQs_pJ2JQ=s144"></a>
-<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipOc2poAQlNDQUpYVWuN6txFY5oUJcmI1tlkTRnm"><img  src="https://lh3.googleusercontent.com/qjcETSGU1JOiJr3JupjkREldILC4LDM-bISGwhNSDD0dIMaBCe7w2byQhgZaJGeaSS31N8S6OzQy8pzYb2aT7aE8gvC2plLvR61_8LGF3A=s144"></a>
-<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipNLdp8eNd90qryh1eIufyFW2O35nh-mJqr_5I3i"><img  src="https://lh3.googleusercontent.com/BOAu0-71GHrNvZhSGRG7X_qReZFaOKwDS4EuPPWmdlSc-kFYwF4eDvThsnHIQtdgJaLCFlrC6QWxQMOjsKn3BU346176RYymfZN6AJnwnA=s144"></a>
-<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipNMbDIHJL94jxeJfhd7m4Fb32-V7Wz5roRzLkNM"><img  src="https://lh3.googleusercontent.com/L_2qpp4dUz0hs0b-ERy44zd7XrtQsXGrdDdPRgiWCoMhTZGYaAe9grl6axOBj8GtSZQwUOC6f8uqUQSGi5_JoZA9y5PZgyJPUTeAO1IQfQ=s144"></a>
-<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipPx7I8zeNB6xFSynh3yIF8R7UH_0yZF2QQ-j7Dh"><img  src="https://lh3.googleusercontent.com/4EsKQmy5cP9bACz4TYmNOT5jNYEGwm8R3CyJW3Hl-iXOPOvnzjg6KQhCdpWeoXG9FQHpRaPplrWuKsuTxaz_E9l6sNruVvC9f_1GP5_S1Q=s144"></a>
-<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipNZxmBsmItpzwLheoQPNGRyeGAd6ux0NodaZ7u4"><img  src="https://lh3.googleusercontent.com/JeJ9Qw-hBlaz66i48WeV1hYjk1E2Qowc_PcPX2Gw1XDkNut-X5pHyZoO07cmScgbFDrHY4I4kpIxefKinUytsOQvKv94sKBDA86hyxi04w=s144"></a>
-<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipMijLFXliCc6BT6-JIaFd-WDBSYiLhbZ49eBMme"><img  src="https://lh3.googleusercontent.com/xSWCeZzLf79ifUNwWSRQOfLS3GzuFkKoOaPH3jhG7FQIDQ3tpaBW03puFTylr0BZ0vPRDwEmIMoi2nYiF7qXEjwCGQyfwEjFrpRZ9zurkw=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipPx0jZkMt9S0sqVFzGOGTH_xuq3z_1M3xuj6R1n"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/1kK6a1hZ3ZZON1tAfqwvGrTxqFJg_LQgfpl7ULJ1R240TJXotS9yGx0O5pPAs-eDNeKQCCALdvxjg7vFzluKympH9NLHdi45oOQs_pJ2JQ=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipOc2poAQlNDQUpYVWuN6txFY5oUJcmI1tlkTRnm"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/qjcETSGU1JOiJr3JupjkREldILC4LDM-bISGwhNSDD0dIMaBCe7w2byQhgZaJGeaSS31N8S6OzQy8pzYb2aT7aE8gvC2plLvR61_8LGF3A=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipNLdp8eNd90qryh1eIufyFW2O35nh-mJqr_5I3i"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/BOAu0-71GHrNvZhSGRG7X_qReZFaOKwDS4EuPPWmdlSc-kFYwF4eDvThsnHIQtdgJaLCFlrC6QWxQMOjsKn3BU346176RYymfZN6AJnwnA=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipNMbDIHJL94jxeJfhd7m4Fb32-V7Wz5roRzLkNM"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/L_2qpp4dUz0hs0b-ERy44zd7XrtQsXGrdDdPRgiWCoMhTZGYaAe9grl6axOBj8GtSZQwUOC6f8uqUQSGi5_JoZA9y5PZgyJPUTeAO1IQfQ=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipPx7I8zeNB6xFSynh3yIF8R7UH_0yZF2QQ-j7Dh"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/4EsKQmy5cP9bACz4TYmNOT5jNYEGwm8R3CyJW3Hl-iXOPOvnzjg6KQhCdpWeoXG9FQHpRaPplrWuKsuTxaz_E9l6sNruVvC9f_1GP5_S1Q=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipNZxmBsmItpzwLheoQPNGRyeGAd6ux0NodaZ7u4"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/JeJ9Qw-hBlaz66i48WeV1hYjk1E2Qowc_PcPX2Gw1XDkNut-X5pHyZoO07cmScgbFDrHY4I4kpIxefKinUytsOQvKv94sKBDA86hyxi04w=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipMijLFXliCc6BT6-JIaFd-WDBSYiLhbZ49eBMme"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/xSWCeZzLf79ifUNwWSRQOfLS3GzuFkKoOaPH3jhG7FQIDQ3tpaBW03puFTylr0BZ0vPRDwEmIMoi2nYiF7qXEjwCGQyfwEjFrpRZ9zurkw=s144"></a>
 
 
 スミレ
 -------------------------------------------
-<a href="https://picasaweb.google.com/lh/photo/njKhrSNznvKsdnKAVZMC-z0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-lsLnRzwvM7Q/UUfPhmBPkXI/AAAAAAAAAxE/t8RCnTNKnxE/s288/%255Buser0-2%255D%25E7%25B4%25AB%25E9%25A1%2594.png" height="288" width="222" alt=""></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipPA_NLdk7VJvmzN8BOu84LuXu7M4F9kEOGwjGmD"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/vRRViuWnmys-_kdFDg4n1kSNWyLsaD2fz-_Nr35zaqxnUMxACCyQ5Ov3EjRkZIjA03ZhQ9vSahsxIOQMmblymfUrn03Ge5FnLzCmGkdM-A=s288"></a>
 
 ### 情報
 
@@ -57,12 +57,14 @@
 * 事務的な会話が多め。「アーサー、また貴方は…」「私はそう優秀な人間じゃありませんから」。
 
 ---
-<a href="https://picasaweb.google.com/lh/photo/s_SDW4hUH-yPhVCHN5NR9j0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-YNkxBdS7YXI/U2WV8N7ICxI/AAAAAAAACtw/DWiL13qxw5I/s144/%255Buser0-2%255D%25E3%2582%25B9%25E3%2583%259F%25E3%2583%25AC%25E3%2581%2595%25E3%2582%2593%25E9%25AB%25AA.png" height="64" width="144" alt=""></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipObljj9NBbT27Du_xGphLU-Tin8EnlvRj6ykAlG"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/3rzYIyexJLHO9ef4mtOUNQ5VmuuOcV70I7_0InzXyfl9wHh7AJC9GgERjLsu6eM8ywrOHrHqMcVbYL6IIH4f4Jfb2-IBUmmGIQ9DnRnJ3A=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipOCCMf6l1oU_eYt1_RkDLjeRGQQ84WVopOr5xIk"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/7JtzdEdQ2bYPy779a4CB51HhKT7tLP3Nxwf8b4-Mb7AzUtWFzmUPq27o5Wm47nYuhN2naI9g3oX9TZNyVDTUVDTLKOXcf1xYxKjO_iz53Q=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipP6PU0DeW3OcChH7QFxUv58CkEUU7qjAKJUrtAm"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/rd5P7_p0K1rylIP9QzAmx--amrk6VjJNeFSGLgJhVyF45bybobD01oPjl0oEvXBkoAnUwQEmn-MM_8bHjWvKb2FeBJXrwivsxi1vXWlk6Q=s144"></a>
 
 
 アイラ
 -------------------------------------------
-<a href="https://picasaweb.google.com/lh/photo/T7gmuYaLoZCZGhuTOdOf0D0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh3.googleusercontent.com/-9ongi9EGhNY/UUfPiCsXE5I/AAAAAAAAAxQ/xMwzPEiij6E/s288/%255Buser0-2%255D%25E8%25B5%25A4%25E9%25A1%2594.png" height="288" width="240" alt=""></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipO0DyT6BxCcxFePo4a0GmBEDI5cn2slBIsuhUEE"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/vaCU2iwg_IUviaGVIkeCljPFWodKnQwCFuhLq2SbZUIoBbGBmKVcAgWe0swlh61ensDXBEG9Ie9Sl3oHoi8oye-wslCEjuqxTRiiIlSacA=s288"></a>
 
 ### 情報
 
@@ -74,14 +76,14 @@
 * あらくれな物言い。「気にしない気にしない」「スミレが怒ったー」。
 
 ---
-<a href="https://picasaweb.google.com/lh/photo/at-BblkQkvs5IHWvEXFBFj0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh3.googleusercontent.com/-5GbB-MlT-v0/UUcVsKdXecI/AAAAAAAAAv8/lxkgJwHS-fg/s144/%255Buser0-2%255D%25E8%25B5%25A4.png" height="144" width="131" alt=""></a>
-<a href="https://picasaweb.google.com/lh/photo/Kq0Mpt6nUqfYCpfdr65wfj0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-HZ4flP1tjts/UVk0F7t1yBI/AAAAAAAAA1k/3yUFx10Bq7U/s144/%255Buser0-2%255D%25E8%25B5%25A4%25E3%2581%25AE%25E5%25AD%2590%25E3%2583%259E%25E3%2583%25B3%25E3%2583%2588.png" height="144" width="57" alt=""></a>
-<a href="https://picasaweb.google.com/lh/photo/m9mASWTkmWN5wCNPYcBkBj0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-btC699uNPkw/Ufy8l64VI4I/AAAAAAAABqQ/BglAx15MCAc/s144/%255Buser0-2%255D%25E8%25B5%25A4%25E3%2581%25AE%25E5%25AD%2590%25E9%25AB%25AA%25E5%259E%258B.png" height="144" width="137" alt=""></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipPlknOGnqdVzQ_Qy_IlGi9dHOcHz8HCVGzWp97h"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/bW6wtT4flZ2Bo_5C8q992gf-AChAOlt4p-FXcHz-zBPXgs_wA889vJeHaEghRGhXybrsuagDUjixDd-hU7HC2ES4_QZ3G1rKq9L4DD0hMQ=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipPbp6KH4uVPZA6jg9wmg8HrD9K3aBneEdmR5l4l"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/ubM8sm6UzBf4dQVvcJsM8P1NLfj6aQaXL6iuw9_5HHk4qzY8NG3U0yLLqDaBpFsltoAIHv7ihSIr7l90_clSCK3Ebzi6t4YDkQwiA39bwA=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipMsHdWeITHmf55yjyWps0yoeuF3WwH7i7j2nK7e"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/1P6fm8bz71Rg46q7Wqr6BuuxJZHrWhFMURQb_s1cbcw1rHnuCKvwR58dUPAKxK66g7eXAUJIFguqv_6jCtdzlkFjWKOjX3BbTo-6s-vKRg=s144"></a>
 
 
 ヤン
 -------------------------------------------
-<a href="https://picasaweb.google.com/lh/photo/eDq-jclSvOFDlt0XtSYHN9Z5WM8KROiOpp4URSUPSpQ?feat=embedwebsite"><img src="https://lh3.googleusercontent.com/-zM2CyeOf9ro/U6aX8C6wS-I/AAAAAAAAC4w/gl-dw8gf64Y/s288/%255Buser0-2%255D%25E3%2583%25A4%25E3%2583%25B3%25E3%2583%2590%25E3%2582%25B9%25E3%2583%2588%25E3%2582%25A2%25E3%2583%2583%25E3%2583%2597.png" height="288" width="244" alt=""></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipPyE_eUAEzp3A6zbpoAXRxZqD61MuCQ0esgMTNP"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/mZylG9skTxXKoIOSwGoas-DWGBhBMHvX3QFrLt-VcC1MBFAHeccezNFHcgKglYmR1kgDKMf7QBTUc5WL1n60LOiNSyTbzmeSsEVENrkVOw=s288"></a>
 
 ### 情報
 
@@ -102,7 +104,7 @@
 
 ラーナ
 -------------------------------------------
-<a href="https://picasaweb.google.com/lh/photo/pKJkY2KDbBrjxdAhRGGMfD0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh3.googleusercontent.com/-ffTYU9rHfFU/U8J-gFowc_I/AAAAAAAAC8c/DOfUr2ys5EE/s288/%255Buser0-2%255D%25E3%2583%25A9%25E3%2583%25BC%25E3%2583%258A%25E3%2583%2590%25E3%2582%25B9%25E3%2583%2588%25E3%2582%25A2%25E3%2583%2583%25E3%2583%2597.png" height="288" width="278" alt=""></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipPrPlQqAto3lAxnHY_vF1Uv39uufr40Wfe0QdDk"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/0U8Ecoa9_4QSZwThkVqJOjVlTAFyPWXBaCI-DYRZlXhpwirO9J5LwlsSZUvcyXNP9d1X8HCZ66txGFX88K1xtbBmIgebv0zxs-0N22-vtw=s288"></a>
 
 ### 情報
 
@@ -120,9 +122,9 @@
 * アーサーを上回る高ステータス。ダメージアップの精神コマンドはないが、防御回復は充実しているため粘り強い。性格のおかげもあって気力の心配はない。特殊スキルは援護・コンボなど複数ユニットに影響があるものを修得。
 
 ---
-<a href="https://picasaweb.google.com/115069798956937902080/Original?authkey=Gv1sRgCMXJ4c-Xg8qRpwE&amp;feat=embedwebsite#6027677190292175346"><img src="https://lh4.googleusercontent.com/-YlXzpz0kZeM/U6acd_QW-fI/AAAAAAAAC5g/Wc_5Tz6QfxE/s144/%255Buser0-2%255D%25E3%2583%25A9%25E3%2583%25BC%25E3%2583%258A%25E3%2583%2590%25E3%2582%25B9%25E3%2583%2588%25E3%2582%25A2%25E3%2583%2583%25E3%2583%2597.png" height="144" width="137" alt=""></a>
-<a href="https://picasaweb.google.com/lh/photo/1vFYX6oJeQM8w3oQNPl2pj0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-J_BVKWG02gU/VI1qwvUCJjI/AAAAAAAADSs/NF05iXSnnZk/s144/%255Buser0-2%255D%25E3%2583%25A9%25E3%2583%25BC%25E3%2583%258A%25E4%25BE%258B%25E3%2581%25AE%25E3%2582%25BB%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%25BC.png" height="144" width="61" alt=""></a>
-<a href="https://picasaweb.google.com/lh/photo/eKFwyOjcZ-HO5d88Qchhnj0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh4.googleusercontent.com/-wZ6E6YCOQ9c/VI1quCOy6OI/AAAAAAAADSc/2qy0fS4mqow/s144/%255Buser0-2%255D%25E3%2582%25B9%25E3%2583%25B4%25E3%2582%25A7%25E3%2583%2588%25E3%2583%25A9%25E3%2583%25BC%25E3%2583%258A%25E3%2583%25BB%25E3%2583%259E%25E3%2583%25A4%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2595%25E3%2582%25B9%25E3%2582%25AB%25E3%2583%25A4%25E6%25A8%25AA%25E9%25A1%2594.png" height="144" width="102" alt=""></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipPRV4DqNGJDiIpYqey1vArJT8NvtO8t-Ie4DvDK"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/Ft9i2gei6Abf8Yo9NTM3QEmr1du_QXpNPtj_VQyfZoel_d5Ty5XTKoy9ewA261Z-nNNPHRG4Wm00FL494DqIdlqewOSyk5KCHDJkJz9qmQ=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipOQddU4ZwC-zXqPS8Rl8cKEwFphdr0dg1D7LPLn"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/JRFnRxdINvqzkIXZE0EKUniPZ29Y1a15hIZvKbzxKMHsYnsboNkEYUJRnF92ihHIMWyvhJFzZSZvH5JTo4_3bGx2-BD0KZYplo22VtU_kw=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipM3mRJGFm6qsQdS0OajOi71jpXwAXrkV9oiunzQ"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/cOySwSpoAEL188KCHiMANjudLEloJKAZrGu_M9qzityrpboFBubvZVxa3Ku7BAJ1wzqM8FlTd7qJdivVJO0rEl1KuYEXIflK687oNoQAPA=s144"></a>
 
 
 シオン
@@ -135,15 +137,14 @@
 
 ???
 -------------------------------------------
-<a href="https://picasaweb.google.com/lh/photo/D_CEtfuble9eA5v6YdvsDj0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh4.googleusercontent.com/-3sGsC-2u2w8/UgIr07OiQWI/AAAAAAAABt4/EETlpO-hVBo/s288/%255Buser0-2%255D%25E3%2582%25B7%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25A0%25E3%2582%25B3%25E3%2582%25A2%25E9%25AB%25AA%25E5%259E%258B.png" height="288" width="275" alt=""></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipPpxbHaoVoitNBNccJolFUwqb0pTHCtbMfh2a0J"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/LiQS2LUdKojqze1iV27MpxUdnCvRPvyIF9LgaP5xjj-q5lXEQZUOZH1gCy2RL_CXjZBocj6At9UEL52uXLtDGKUgAM69OccadxRfEHLk0A=s288"></a>
 
 ### 情報
 
 * 身長は1.5メートル。10歳?～。透き通った美しい長髪、白い肌、赤い瞳。超然とした雰囲気と憂いを秘めた表情。
 
 ---
-<a href="https://picasaweb.google.com/lh/photo/gXq8gwpST0IdAzZ7qPpUpD0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-hmWqY1YEZjg/UUcVs1hfY7I/AAAAAAAAAuc/0n3t6mkNEkI/s144/%255Buser0-2%255D%25E9%258B%25BC%25E9%2589%2584%25E3%2581%25AE%25E9%25AD%2594%25E5%25A5%25B3.png" height="143" width="144" alt=""></a>
-
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipOPJhZ4HHH1hERIwmpHi1IBwionVWUDEIwT9xK2"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/1gX_ECAu3xoc-6AgZWAQRCxrJ0Br8co94huWA8nqvkPAezXxDga-xaXiDD1uLZ0K4bMem1hTNPI0HQiZmc3xRHlKIs8jB5VpT34oe9iM1g=s144"></a>
 
 機体
 ======================================================================================
@@ -151,6 +152,8 @@
 
 『執行者』
 -------------------------------------------
+
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipPihHI2uvJGdehf-o1FZsBy_GY8FN8m6iAxgXbm"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/hBv3_jZHaO_eszQuiknIeE5PJTncyJXZR-zfciCI9DAQRQuLNA3-jhfV0KCwJ9uUqWXyJSqyq0KW4ZS4DoLQUtZtATWHcYkkVP9QeELWmQ=s288"></a>
 
 * 全長20メートル～。人型、無貌、胸部に“真実の眼”をもつ白光の巨人。
 * 権限を行使することで、使用者の肉体と入れ替わる形で出現。使用者ごとに異なる外装が形成される。
@@ -172,9 +175,10 @@
 画像
 ======================================================================================
 
----
-<a href="https://picasaweb.google.com/lh/photo/VnS1ExvcaL4uScaUmV-JrD0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-7svxkVPyy0g/UUcVsZCtarI/AAAAAAAAAuU/rFoPHUeWcUo/s144/%255Buser0-2%255D%25E8%25B5%25A4%25EF%25BC%258B%25E7%25B4%25AB.png" height="144" width="142" alt=""></a>
-<a href="https://picasaweb.google.com/lh/photo/_OaB2csQFpy0O9HCGWO4OD0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-KVOd6iEIc6U/UUcVscmUKYI/AAAAAAAAAuI/hQDevAe35G8/s144/%255Buser0-2%255D%25E8%25B5%25A4%25EF%25BC%2586%25E7%25B4%25AB.png" height="116" width="144" alt=""></a>
+
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipPZRVmSLddBRR5C_zpQ3zsvgSNtcu3RY76WYZ1N"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/O5JWFNHfYWs9VJg_unDuh-1Fm-XEnScaH3ZdICl3jURsHFtnILyOXLq08sHB0bpesTz60JqWqtQg_tvzzf4bdLa1nltx7GTuaio6hVk-gg=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipP8-2GuSsOak5FtNyObAQ8HN2I3ArdeIeH6Tobb"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/JxT4PM8bs77I5wm0Csv4HzONBducqX612SnUuAOvzfRVEjK8xikt3tq5F-Rvnr4dmoodwsFwpouGOEEqBrpt6Teal5ysRVqpAoTxO3KxPQ=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipOai1EBaWDIcGydgmB2s72c96o-bzXtychkWLab"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/65WRTdvKsZpfv1K8a20yjl-pt-prcqZzY4CS963iqesagGHl-EM41DiL3-yu-9P4uQF5Kf2m8Im_1HE-yD79COBSgKVV9q3iN-exyVEYsw=s144"></a>
 
 
 リンク

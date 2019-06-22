@@ -9,7 +9,7 @@
 キャラクター
 ======================================================================================
 
-詳細は「<a href="/_note/original/user01-1/character01">人物 - 鋼希望</a>」を参照
+詳細は「[人物 - 鋼希望](/user1-1.charactor01.md)」を参照
 
 * 不動醍醐
 * 春香さくら
@@ -46,7 +46,7 @@
 
 ### 阿形
 
-<a href="https://picasaweb.google.com/lh/photo/Co1Bcs2eO0xd0JhEt_koxj0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh3.googleusercontent.com/-lI36yndW6nk/UTdCi0ToB_I/AAAAAAAAAZg/W3peiVYRQa0/s288/%255Buser1-1%255D-----.jpg" height="203" width="288" alt=""></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipOwar6F5GSuIAt8FBICQC_WiAOJdLVIP4WRKOel"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/t3pTbco1aGT-apE5INNYzzZCJldvAhRI3XJkMwhZ4hTqMxMTr0-JAfUkypgfApfYVTSQP74FmmFgM587wg=s288"></a>
 
 * 正確には「武天鋼人 無双王 <span title="あぎょう">阿形</span>」
 * 全長60m前後くらい？
@@ -73,7 +73,7 @@
 
 ### 吽形
 
-<a href="https://picasaweb.google.com/lh/photo/GykcgIuIFyALE3mfHzPXEz0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-WbH-yMt_cdY/UtvaHHGyWWI/AAAAAAAACZE/2UvV3HEYVwY/s288/%255Buser1-1%255D%25E6%25AD%25A6%25E5%25A4%25A9%25E9%258B%25BC%25E4%25BA%25BA%25E7%2584%25A1%25E5%258F%258C%25E7%258E%258B%25E5%2590%25BD%25E5%25BD%25A2%25E5%2585%25A8%25E8%25BA%25AB.jpg" height="203" width="288" alt=""></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipO5KEH7dy6E5oSi1VwLIasvBNWAnXnsnmoOkc9y"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/197ZwGVSf_N8OgMuVQuodXdE_nmZN8-VF0m1a0I-HDr5i4AWVjBZba1kK260hzScWXMg1YP-42tZUjYrHA=s288"></a>
 
 * 正確には「武天鋼人 無双王 <span title="うんぎょう">吽形</span>」
 * 全長は足が伸びてるので阿形よりちょっとデカイ。
@@ -145,6 +145,8 @@
 機体
 -------------------------------------------
 
+<a href="https://get.google.com/albumarchive/115069798956937902080/AF1QipOS3yjb6RjlxY_NubbBIZB5FCRw2q8AQHMin6qq"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/L6rPQMe06-vzJf5XFyBt9PmcxUdPVS5NmwpFFLHBsJlkuo7fU2hxSycGk1I8iw2oYtPtC2eiNzQKov37rA=s144"></a>
+
 機体総称「<span title="こうへい">鋼兵</span>」  
 ※微妙なので名称は変える可能性あり  
 
@@ -175,7 +177,7 @@
 敵
 ======================================================================================
 
-詳細は「<a href="/_note/original/user01-1/character02">人物 - 鬼羅党</a>」を参照
+詳細は「[人物 - 鬼羅党](/user01-1.charactor02.md)」を参照
 
 * 暗鬼羅王
 * 至王鬼
@@ -188,20 +190,20 @@
 ======================================================================================
 
 ---
-<a href="https://picasaweb.google.com/lh/photo/moyTSBE1xvvnXBM0i04Rmj0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-38ujYIosvso/UTdCa3M-boI/AAAAAAAAAXI/bLQ6dBKwS5g/s144/%255Buser1-1%255D----%2520%25281%2529.png" height="109" width="144" alt=""></a>
-<a href="https://picasaweb.google.com/lh/photo/w_0286Uc27dZyF0PWZB36D0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh4.googleusercontent.com/-BiYON5NyoHE/UTdCb0fZ5tI/AAAAAAAAAXY/i9rsrwzDYFU/s144/%255Buser1-1%255D-----%2520%25283%2529.png" height="137" width="144" alt=""></a>
-<a href="https://picasaweb.google.com/lh/photo/qbbgAFqpAOzOY3rEnwZKmT0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-XOOgbZOQFQA/UTdCg1kvecI/AAAAAAAAAZM/euivwuhNUwQ/s144/%255Buser1-1%255D--------.png" height="144" width="116" alt=""></a>
-<a href="https://picasaweb.google.com/lh/photo/1mJDVlDZ-8x9SxeuNRNf4T0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-iI2NDyEfq9w/UTdCfewkW5I/AAAAAAAAAYM/I0IIepLuHDs/s144/%255Buser1-1%255D----------.png" height="144" width="105" alt=""></a>
-<a href="https://picasaweb.google.com/lh/photo/t2b4dZOJPTWcRUJbYnrGWz0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh3.googleusercontent.com/-rAN8Xx_4HE0/UTdCbB5f42I/AAAAAAAAAXE/brrUlDTb6ds/s144/%255Buser1-1%255D----%2520---.png" height="124" width="144" alt=""></a>
-<a href="https://picasaweb.google.com/lh/photo/fVDWsd4pZ2VusjXQiQnVVz0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh3.googleusercontent.com/-BXfkcXO8oII/UTdChP9_yRI/AAAAAAAAAY4/13CNWOTgJv8/s144/%255Buser1-1%255D-------.png" height="144" width="126" alt=""></a>
-<a href="https://picasaweb.google.com/lh/photo/UKN8POWYmcFB719VasT-gT0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh4.googleusercontent.com/-pIAqPb3zhnc/UT7TvBtlC9I/AAAAAAAAAoM/Q32i3wLxGdw/s144/%255Buser1-1%255D%25E3%2582%25B9%25E3%2582%25AD%25E3%2583%25B3%25E3%2583%2598%25E3%2583%2583%25E3%2583%2589.png" height="81" width="144" alt=""></a>
-<a href="https://picasaweb.google.com/lh/photo/sFVYFTfT9T3zGANM1gohED0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-tWTRK_05PkA/UmNriB6Od1I/AAAAAAAACBQ/PcZT0g1BqSc/s144/%255Buser1-1%255D%25E4%25B8%2580%25E8%2588%25AC%25E9%259A%258A%25E5%2593%25A1.png" height="100" width="144" alt=""></a>
-<a href="https://picasaweb.google.com/lh/photo/olviZnSRLFW5FIzSYyQvJT0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh4.googleusercontent.com/-khoKW7HQv0k/UzgCeFun9gI/AAAAAAAAClU/tFIM6I-cUfw/s144/%255Buser1-1%255D%25E6%25A1%259C%25E3%2581%25AE%25E9%2586%258D%25E9%2586%2590%25E5%2591%25B3.png" height="144" width="106" alt=""></a>
-<a href="https://picasaweb.google.com/lh/photo/z9mZg-TrpGvyWb87n62c0j0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh3.googleusercontent.com/-kumpguq0Gow/U69x8G5jg2I/AAAAAAAAC68/zOnTZ1w653U/s144/%255Buser1-1%255D%25E9%259B%25A8%25E3%2581%25AE%25E6%2597%25A5%25E3%2582%2582%25E3%2581%2582%25E3%2581%25AA%25E3%2581%259F%25E3%2581%25A8.png" height="142" width="144" alt=""></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipPMYAI8yXnFNA4nTgJR5de-QeHHdmac3a8HMobo"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/mXB3BLxsOmhVosuEzy3r_ubGdrhT84oN4ybr2gTOQRtyAb3vSST_gITGORZjocKOdklybFYQMNjRRhxnig=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipPlha9Q92PrhIRfdDV19YDYf0d_UFUYyJdNNyMr"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/FqO56J7E_zFTx5Rx9kmRgwYeogiSoVtSB7IQWRnoWF-myrS9oePRH9LrVH1TYxO5VWkAVkJqjPjtXqFpnA=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipPYlFDpbtWbrNUr7_msbHsrksBiwGpchA7TCl7g"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/m3jPoS4v-PlLmj_0k_9U842PpBLZ0_kpPXB-RZFN5KXrZ2de6MNc_MHkEzwa2nU2kBPPMtVoRYhjbsgGJg=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipNHgYRuRVtQx5vqIdqcVhQjL_Kn2RzVTrO0k_rj"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/PAF1uhuXdzkB56t9UABHgqvR3aS328lC7V8ncBZUjzb_kPDetcKowTQzjj4WyyYCGVGh0d20vrOtlI948w=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipMdq9nv4YDy7bQWyAk8JVf0p0Rv21bonPINSs5u"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/FFm242PdFQnPRyH1fOJDd6lVi7ENZXTVEkyIm79KplzGo5jx-rpX8t2JPaDGuj_0VuNpEAoK7sBPVLZ39Q=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipMmug0SWufq9_SHchcVcme9bSxfrUrH_aJPlqB6"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/iBTx54kMSKs_WG4XIhTGebLiy_6_d1PLOVMyWsgY_f0IwyWq0Za8rrW7j1vTfwra1Fqf7Ll8xz5Trf8mDQ=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipN4qK7Dwc_hhRRSv7bo2I76MAyhE0InyxVT_tON"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/dp0mpdN-mUdUWr0PENnHk5znXzIWn3y5TdQEDNo07HgrQM1YGoUGU9gxqbCWcYIhfSUdZOITVw6Aq_QhUA=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipMSAQie1TUYNcsB9u2F9A4-FOsozUsIOo6NGxUc"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/3gAzzoOqv0D7zWNEUXbkXiV-7MriD1bzSwUFxlszMCbHf-Sbm_oJydyyTAi_ohkx_6ZXsPbrZbS4qMrl-Q=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipNlT3G7g_wh9QJc7WUM2x_zIYtuktmxFp5wrlTF"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/bQBQEKN5J_8bMmOO4gmQpiS4n8WstPlX8CiqWol5jnB_TAUf8_TrpHdqmVxwdf1lmMxkphCcl62o0lbddA=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipO17IuZ-XvOU3oSQ3ga_BlQDu-4_OhZ866jnvd0"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/dfYkz1PPU88C0pUpimyg_Ep-iX-BaQiXkUBiu8s37hwCc62t20LnHc_nt5lB9Vxp-2hWX5MBz3o7t0-fug=s144"></a>
 
 
 ---
-<a href="https://picasaweb.google.com/lh/photo/vb0bHk8ePX4E7VbcocBiyj0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-98LBOxBbZr4/UWfGDci0WfI/AAAAAAAAA44/W-sspQtUUXg/s144/%255Buser1-1%255D%25E6%2592%25AB%25E5%25AD%2590%25E3%2582%25BF%25E3%2583%25B3%25E3%2582%25B2.png" height="138" width="144" alt=""></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipOl_HkUlVoi28k2eIAAcb1fI7lGkpRrcqkgwPLe"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/7OOLjwhDlGiphxhV557biYKRPIKMW9bgejnMvEcN9yf32ZQtk_-Q9n1Mm28x83HqL422VZ2t91qRx7u_5Q=s144"></a>
 
 
 

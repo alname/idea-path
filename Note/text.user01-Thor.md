@@ -7,9 +7,8 @@
 解説
 ======================================================================================
 
-<a href="https://picasaweb.google.com/lh/photo/rh314XJxWtS9K_feUVzsIKuAUwga3FE0hnzu6csDRQ0?feat=embedwebsite"><img src="https://lh3.googleusercontent.com/-ISeKaH0K4Zk/Ufz_v1MvlYI/AAAAAAAABq4/XdEujU_DKqc/s288/%255Buser1%255D%25E3%2583%2588%25E3%2583%25BC%25E3%2583%25AB%25E4%25BA%25BA%25E9%2596%2593%25E4%25BD%2593%252B%25E5%25B7%25A8%25E7%25A5%259E%25E7%258A%25B6%25E6%2585%258B%25E8%2589%25B2%25E6%25A1%2588.png" height="277" width="288" alt=""></a>
-<a href="https://picasaweb.google.com/lh/photo/7GZdpmsR9nLWupZAR-IkgKuAUwga3FE0hnzu6csDRQ0?feat=embedwebsite"><img src="https://lh4.googleusercontent.com/-2Tk-uODxMp0/Uf5OuPmlnxI/AAAAAAAABtE/UvFqxvg-F5w/s288/%255Buser1%255D%25E3%2583%2588%25E3%2583%25BC%25E3%2583%25AB%25E9%259B%25B7%25E7%25A5%259E%25E4%25BD%2593%25E3%2583%25A9%25E3%2583%2595.png" height="235" width="288" alt=""></a>
-
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipOiQHJXKYcLO1Euo3vUjfge6bv3YMHv5waB1At2"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/HQuPIFGq61KnLFuCLsf-f_BUY_EGHk6kmaa5gOpPQAvlNtuAftOy27dmTT2tkupEOk_FUWxZJdsbsSlwMw=s288"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipMisPLDmxb_IitpqIe4IG8X1U2y49TLeRXlXHKu"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/iXyTpfuWsUaUhA9uUC7FbHcN5ZYHhP96TUAoollq08Us6MStJdkVz_a2zqBfYip8xN5slDzOtvIfYcejAQ=s288"></a>
 
 人間体
 -------------------------------------------
@@ -57,7 +56,7 @@
 ======================================================================================
 
 ---
-<a href="https://picasaweb.google.com/lh/photo/WksdMmEa0qIRmCKsoej6B6uAUwga3FE0hnzu6csDRQ0?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-oUucVJa7KxQ/Udfiezry8gI/AAAAAAAABT0/Xjby58ojJz4/s144/%255Buser1%255D%25E3%2583%25AD%25E3%2583%259C%25E3%2583%25BB%25E3%2583%2592%25E3%2582%25B2%25E3%2583%25BB%25E3%2582%25AD%25E3%2583%25B3%25E3%2583%258B%25E3%2582%25AF.png" height="71" width="144" alt=""></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipNsUAhGmDQpTEH3bMU3YQTmhwE_X2m8dqDBDmWx"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/OIi5tqAXoGO1If_oJ1VxTpd9IQBeKlWY94g2XxQFA_7l8fKyJb4kceJFeL3t4y4rrjmSAQoCN-KLOT8lfg=s144"></a>
 
 
 

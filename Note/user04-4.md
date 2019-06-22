@@ -1,7 +1,7 @@
 キャラクター
 ======================================================================================
 
-<a href="https://picasaweb.google.com/lh/photo/H-Gi5gMdJOFJJ8Bxi4q1jD0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh4.googleusercontent.com/-JpCZVHF5DOc/UtFRKnCIIcI/AAAAAAAACXA/0EjRv4kCmVc/s288/%255Buser4-4%255D%25E3%2582%25B8%25E3%2583%258D%25E3%2583%25B3%25E3%2583%25BB%25E3%2582%25B8%25E3%2583%25A7%25E3%2583%25BC%252B%25E3%2583%2590%25E3%2583%25AC%25E3%2582%25A4%25E3%2583%25BB%25E3%2582%25B7%25E3%2583%25A7%25E3%2582%25A6.png" height="216" width="288" alt=""></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipMIqtjoK0S7H2vpU8hOw4lZ6rt6LI3IbmFBdQwf/AF1QipPAfjNWzyH9vvxgBmAF2LC2KFCxlTBoBWiU_rE6"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/AHSXkBCwtU-QzFHyzyyzuUescyzfYDD0lhPfM3MdsCpB5KXDU8JDwEY0X6pCdrtbURohu91nN1SbqOfLkA=s288"></a>
 
 
 ジネン・ジョー

@@ -7,7 +7,7 @@
 
 カイゼ<!--久遠戒是-->
 -------------------------------------------
-[![img](https://7kmgpw-sn3301.files.1drv.com/y4mYRyPjFw2NlQsxW7ZARPOrStEgBjDs2tT11aBOWLl8Xiy5FW07KLaIqsaMz2I_MekBZBnWt1NPQMFaO45l_WL7dBFLYcWzAC3T9SI6rsCCZm_wJvC53wWOa7k7ZnasvGuIzVr1KrCA79zhE_7gpzve6qljjp4OMW1VVKojFvgquBmaYI7-O_xgZNsEvsugEQtqnlH57Lc1w_gdHyBwnZp5g?width=557&height=660&cropmode=none)](https://1drv.ms/i/s!Ahr_pmGvC1VzjJ8346ZEyYg2RGcEpg)
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipPvaosyGrD9a2G_pPZzpyFk3gBdlTwaEIBGQJOX"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/Hi7DS38uu7imahwybcYx3SU2ORsvOCDcvXnxPxjJrTAe0mgfgVr__e5slsv5FpJYqjroNKJ_PA9Go5EU1crbRjueUZbGdFcmyflhz90vJw=s288"></a>
 
 **「誰よりも強くなる。それがオレの理由だ」**
 
@@ -22,13 +22,13 @@
 * 「おお、任せろ」「ぶった斬ってやるよ」「たたっ斬ってやるよ」。
 
 ---
-<a href="https://picasaweb.google.com/lh/photo/M2BskP0SAnvGN-QOUsD8IIXGm-udNP8c0h2wLUD8IVU?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-hlSU9TlKqvA/VSEW0ehWrxI/AAAAAAAADn8/fAZyG_kufBg/s144/%255Buser0-4%255D%25E3%2582%25AB%25E3%2582%25A4%25E3%2582%25BC%25E8%25A9%25A6%25E6%25A1%2588.png" height="103" width="144" /></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipNUZ-UcHWFs3iZQG7Dz4ePlXL5HcqOv5zbMw6iV"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/Yytj5ASgZisUhq-ZRUJ0vQhvkZ7GhI6BU6uqu6C50QdykJGzq9pMeA3ldk6QH5yO8heK4Odb4GcO2-0xsw=s144"></a>
 
 
 アンジュ<!--安寿・ナヴラス-->
 -------------------------------------------
 
-<a href="https://picasaweb.google.com/lh/photo/J8RtLDC8t6yVfQrhRq4ppdZ5WM8KROiOpp4URSUPSpQ?feat=embedwebsite"><img src="https://lh3.googleusercontent.com/--eD3JwEjIAw/U27DsXZjjTI/AAAAAAAACvM/v-TgWkzwY-4/s288/%255Buser0-4%255D%25E3%2582%25A2%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%25A5%25E8%258D%2589%25E6%25A1%2588.png" height="288" width="267" alt=""></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipMYWjq6Ew_DHtcAUmf3K8ik_iU5wlLQOktsrs6Z"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/_-00fCJcAoSxBv2iVpzOhSrnKs4j8BVXOVbdQchNAyOccRrrItEehoQNm99hvxZlWVc4HzQu-IPNb49AGA=s288"></a>
 
 **「最強……いいわ、それくらいやってもらわなくちゃ」**
 
@@ -44,15 +44,14 @@
 
 
 ---
-<a href="https://picasaweb.google.com/lh/photo/gW5DPmLvPmdzmn6bEE5VzIXGm-udNP8c0h2wLUD8IVU?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-fZKI78xs1Jk/VI1pJbLmi1I/AAAAAAAADSA/YmauUhll1So/s144/%255Buser0-4%255D%25E3%2582%25A2%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%25A5%25E9%25AB%25AA%25E4%25B8%258B%25E3%2582%258D%25E3%2581%2597.png" height="144" width="143" alt=""></a>
-<a href="https://picasaweb.google.com/lh/photo/taVuzDF1NhS53am75F6Uk4XGm-udNP8c0h2wLUD8IVU?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-IRA7**9zOdk/VI1pIGEEIeI/AAAAAAAADR4/LWWgexWcNlM/s144/%255Buser0-4%255D%25E3%2582%25A2%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%25A5%25E8%25A8%25AD%25E5%25AE%259A1.png" height="121" width="144" alt=""></a>
-
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipPhmz7nT38vhsLiYKWFH4MRdreMSV-u55PpOdRL"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/GGvL5e8NTLIrguYDgNGRN__TJjVyNd-C7P3d8C3_c366HJbKQxYFlblWg3aARXhV9JtRPwvJbZuFAX581w=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipNuMc7LKaY4NszqBLHHotn-tsVaHDQTNUhEDqaK"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/aXMAA1PKI2TPwr3JRNwLc4k4Y7CdWIua4Xh0I1oJIpZR5uMvB0lacVaPl_LnAz_Dn4N16QawswqLMWuIRA=s144"></a>
 
 
 イオン<!--慰音・クレシュターナ-->
 -------------------------------------------
 
-<a href="https://picasaweb.google.com/lh/photo/xpXUc1UO3wHx-WtgTgy-ZIXGm-udNP8c0h2wLUD8IVU?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-eP2wUQzA_OU/VRkyP5QMyvI/AAAAAAAADk8/fIJX6N4mck0/s288/%255Buser0-4%255D%25E3%2583%258A%25E3%2583%25A6%25E3%2582%25BF%25E6%2594%25B9%25E7%25A8%25BF.png" height="248" width="288" alt=""></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipP0B-MueUKAKmNZTnB8vkLQRNFLCyfyKzTu3wtP"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/kCFcJ23O0ODYuowZW6p7X83K6Z5kwyLw_jxW_EZi5mRqs_T0KptvZYA_i1UWo0OI4WK7yQkK4B1n7CN1dg=s288"></a>
 
 **「」**
 
@@ -68,7 +67,11 @@
 
 
 ---
-<a href="https://picasaweb.google.com/lh/photo/SwXks4FPBWOCWjFJZeQvioXGm-udNP8c0h2wLUD8IVU?feat=embedwebsite"><img src="https://lh4.googleusercontent.com/-iAyp1CrAIt8/U27DsjL7ILI/AAAAAAAACvQ/Iy5A7bEk2B8/s144/%255Buser0-4%255D%25E3%2583%258A%25E3%2583%25A6%25E3%2582%25BF%25E8%258D%2589%25E6%25A1%2588.png" height="144" width="128" alt=""></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipM58PBJGz5X3MaU6tFC56Um4tnNVjeMX71xw-Ug"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/MNMM3c8yMJwbvt2owyLkzjxGSV50qNoVwjlWzHjNdviXdBFngGxsDJy9jERl3zVqvBef6XFBsimjg9DJ0g=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipPjPKDbiiMD5NFMaH44QdSKA24nedpcq0FHuTDm"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/692NSchpGJ-yzj1V8A85hIpuf8KvI2-bYsti5npq0H6Xb_KjBKIseBczamyGdmYVrYjOiSiOLgvhVYTG4A=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipOyi1zzGHCDJ3wvXxYUrO_ZtDLBl6jgmYwcKyKR"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/GpZ_6QMIwmDzzzQHzgCRwRK7N6O3H9KkboE-B6twU6rHmaBF_XY267eA3biRI_sQ0Dt9CXU7Yb5x4YqAVA=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipOcj50gNSOW-TmFMdu7r6e3kdcZT0yRXmwuR6r_"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/B8N9npj6phkFrcUQidR23Jcy_isIETKSfORL36YE3qKbRaQkqYTKsftw-oXunqfxn53uYAKaedXp4le9nQ=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipOd-b330ZjleS73wuiG3B5OrpEzjRQP4rDAFDgf"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/qcEhaH4pajVFThT7JlhRnP3sSbvy-s9AOJYMFBBHqB9SYSCeID5ojdYS0jdyRe-QhsbpMVhKR5B1fj1pqQ=s144"></a>
 
 
 
@@ -192,8 +195,8 @@
 ======================================================================================
 
 ---
-<a href="https://picasaweb.google.com/lh/photo/_LzRg0mAaHv9QbYAMTTPUdZ5WM8KROiOpp4URSUPSpQ?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-CmoXjsmMf38/U3gtrcjnOtI/AAAAAAAACwU/afhcHiGteCQ/s144/%255Buser0-4%255D%25E3%2582%25A2%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%25A5%25E3%2583%25BB%25E3%2583%258A%25E3%2583%25A6%25E3%2582%25BF%25E5%2585%25A8%25E8%25BA%25AB.png" height="144" width="84" alt=""></a>
-<a href="https://picasaweb.google.com/lh/photo/DJAYTldAdyws-NA9na9jstZ5WM8KROiOpp4URSUPSpQ?feat=embedwebsite"><img src="https://lh4.googleusercontent.com/-amcNZvoouFM/U6aYaKjtVNI/AAAAAAAAC5E/xQKDkYibstA/s144/%255Buser0-4%255DSTC.png" height="95" width="144" alt=""></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipN7XaLXYqavItu-ZasUsAWArYRLFqExP4zOuzKb"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/UdLAtR3-UdH8hzuEa5nwyPlSLubVyNzwaB5FtDutYQYLI8vSj9UBHDQiPE3-_rQ7GUDmBhZe4pXBSeBuuA=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipO7o7Op8YW3ZbutIx5Y_KKagBrDv6vnOxqiF2ls"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/ure7b0gTlvulFX2sSvexAf_P1jnFIupLIw7I5xy7QL7TiNoOYiprm56U48kc_h634CaFiXTpu1Qze6kdDQ=s144"></a>
 
 
 

@@ -14,14 +14,16 @@
 <span title="あんきらおう">暗鬼羅王</span>
 ======================================================================================
 
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipNcavdm4s0XrnYUBKW1lNk8FPG3snyfs2Alg42w"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/vL9HkP5KvGhKqBioiIXzwYhOfNFfd7z78_1aRUaDHKYfrO2wtgU19Rl0HIFBcF2ZouZAvBSiJgwwrzT0Pg=s288"></a>
+
 * ラスボス。身の丈は3ｍ近くある超巨漢で、性格は厳格かつ豪放磊落。いわゆるボス的な外見
 
 
 <span title="しおうき">至王鬼</span>
 ======================================================================================
 
-<a href="https://picasaweb.google.com/lh/photo/x3hSjFoLqDvsZsAPBni8Pj0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh3.googleusercontent.com/-XP7nWuVqZK8/UTdCbRPCzQI/AAAAAAAAAXM/O-ZORxvsAq0/s800/%255Buser1-1%255D-----%2520%25281%2529.png" height="207" width="172" alt=""></a>
-<a href="https://picasaweb.google.com/lh/photo/7hjAmAdQvfIQVPw0-P_rOD0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-enxhMGOwMwk/UYuUqnN30kI/AAAAAAAABAg/F5HERT7TTNI/s288/%255Buser1-1%255D%25E8%2587%25B3%25E7%258E%258B%25E9%25AC%25BC.png" height="288" width="219" alt=""></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipP38GAXhOU4in8ScQPzxBeHc_5eYYqavMOyMo3R"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/kYphpeqPCBuIMMzcRQa5m8D--681wk7nXgFrbNtXuOlNCG7otEeMhtJDnMjPFAbGci0dcqdomIc0qwLxCw=s288"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipMP3oqbso7B8GpHp43aTjyM-hjEcp0O8znQEZDC"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/DLcXSd8duDSxHnUdbXrVk26uFuvUanHig2ZFJ1idjmFxYPR-NoYqkmsa-rsbsKl0I3DVFu1Xa_qfHEhrrw=s288"></a>
 
 * 男鬼、<del>四天王</del>四震王鬼で暗鬼羅王の右腕ポジション。ハンサムで知に長け、冷静に状況を見渡せる実力の持ち主
 	* 裏切るだろうと思わせておいて最後まで暗鬼羅王に忠誠を尽くす、ゲロンティアでいうロックアイポジション
@@ -48,8 +50,8 @@
 <span title="えんおうき">艶王鬼</span>
 ======================================================================================
 
-<a href="https://picasaweb.google.com/lh/photo/QLnm5HVD49h_BnVEu0iUMD0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh3.googleusercontent.com/-E119r0zUO7U/UTdCgYGS3GI/AAAAAAAAAYo/38Q5t_kUbPc/s800/%255Buser1-1%255D---------.png" height="271" width="249" alt=""></a>
-<a href="https://picasaweb.google.com/lh/photo/daQIZo848Ads2NlECTzDCz0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-1jy_CP0k99E/UYztwbPYqpI/AAAAAAAABBQ/ys5XnivylPA/s288/%255Buser1-1%255D%25E8%2589%25B6%25E7%258E%258B%25E9%25AC%25BC.png" height="288" width="219" alt=""></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipNfYn2G46qusQ3ycntNlHR9Q9zKmNOzfmvD6f14"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/ctR7rAVr26NDT7XC2Lr3m67SqjkD-WaKlIdOosz5Os6CrITiA-zcbS_wa_GsJ3alLvbYfoaUrj0XgdsNBA=s288"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipP5bWVBa0aZyucbwYGLQXs1vb_XmfZHTXqr0zk0"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/RyhOhVlHb0sYOpht4pBEsXWYq8D-esOqJB8zxCQam9Ud7x6DkCn-cB9Qj2V1KIHH1_SpUtHB1vxVFZepbA=s288"></a>
 
 * 女鬼、<del>四天王</del>四震王鬼でエロス担当。物言いといい外見といい、エロが服着て歩いている的な感じ
 * 身長は174～6cmくらい
@@ -85,22 +87,24 @@
 * 虎の上着と金のリングの意匠さえ外さなければ、基本的に何を着せても問題なし。ただ、露出はどれも際どい
 
 ---
-<a href="https://picasaweb.google.com/lh/photo/vOlC68RBwJo6FvJ-NCNIYD0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh4.googleusercontent.com/-9wyTHdTs3bM/UTdCapt-UPI/AAAAAAAAAXg/CM7wk1bzLj4/s144/%255Buser1-1%255D---%2528--%2529.png" height="144" width="111" alt=""></a>
-<a href="https://picasaweb.google.com/lh/photo/ZeOu1UiQPoHnxPC8VBOIgz0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-3ymIagsza6w/UTdCktlowiI/AAAAAAAAAaU/b_5kbuBpCLA/s144/%255Buser1-1%255D----.png" height="102" width="144" alt=""></a>
-<a href="https://picasaweb.google.com/lh/photo/YGDtRd4BPENCZb1iHBHAOz0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh3.googleusercontent.com/-2jKEH9Msogw/UfRzW57nbcI/AAAAAAAABog/LN9TOPI0sNQ/s144/%255Buser1-1%255D%25E8%2589%25B6%25E7%258E%258B%25E9%25AC%25BC%25E6%25B0%25B4%25E7%259D%2580.png" height="116" width="144" alt=""></a>
-<a href="https://picasaweb.google.com/lh/photo/0H1ExqmuUqLxSCAIM1pm8j0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh4.googleusercontent.com/-5oapspBMYaM/UwoCVyPyWBI/AAAAAAAACeo/PO_MVHJa2WQ/s144/%255Buser1-1%255D%25E8%2589%25B6%25E7%258E%258B%25E9%25AC%25BC%25E6%258A%2595%25E3%2581%2592%25E3%2582%25AD%25E3%2583%2583%25E3%2582%25B9.png" height="144" width="106" alt=""></a>
-<a href="https://picasaweb.google.com/lh/photo/YmqO9XMHum4GkCJEnoBbTT0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-Kts2vjMrZN4/VBYrkxG3rTI/AAAAAAAADIY/dzTKQnXI2lI/s144/%255Buser1-1%255D%25E8%2589%25B6%25E7%258E%258B%25E9%25AC%25BC%25E3%2582%25B9%25E3%2582%25BF%25E3%2582%25A4%25E3%2583%25AA%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A5NEMAKI.png" height="144" width="118" alt=""></a>
-<a href="https://picasaweb.google.com/lh/photo/VoZw5LiY_ayjZjkFZ00Q-T0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-WumdUHHVmpc/VI1qypSuiZI/AAAAAAAADTA/aUQ_KZCuHaA/s144/%255Buser1-1%255D%25E8%2589%25B6%25E7%258E%258B%25E9%25AC%25BC%25E4%25BE%258B%25E3%2581%25AE%25E3%2582%25BB%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%25BC.png" height="144" width="127" alt=""></a>
-<a href="https://picasaweb.google.com/lh/photo/X8NYPnKall7SAOm1YVzN4T0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-RUtu3DQrhro/VNYVi1JLOHI/AAAAAAAADVk/V8evDBZzCwY/s144/%255Buser1-1%255D%25E6%2596%25B0%25E6%2598%25A5%25E8%2589%25B6%25E7%258E%258B%25E9%25AC%25BC.png" height="106" width="144" alt=""></a>
-
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipNa9n0BJmzSH9yTpT6KtV3jSflES5i5YPu5FiQW"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/At3GzHS0Dorg7KOXfdLmM6PDAgHPMbWdZ0yEdDtSgKj66n-NgjHXhAIy7k45UbVfpVnoT-9EVmBkeyTQFg=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipMcK3leZh4th5lDxpCK6thHW5g-0ECMLOKFDzhf"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/ajH0Uh2q217XhUG7o_IzYNTG2Gc5ZSkzUepar-T-mkk0NUzih1MAWUi2hBOwvRl0YKUn0anMtQ_XWs656g=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipOhEFIgt0Mx2ilYiodJkhIeGDk4rjm5PQjLjBY-"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/MZjxNS0KnoaaTfNoRNDzYl8ExIklcN58cYvzHrD6Zitf1MkMFAue2o-2S3aIzxr6s7DjRMoqxlsKfX8tug=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipP2ywTE67iEU0eLJCpOeRb7Rn4pZCEEocbeZqcT"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/Kk_gohwYSx8T895B1qiJ7mGtzuQV-dp4K_uT9SfhWrP1Ug6yhKHm_bPdU9TkP1Rdw-Obm1V1dMQpU7Hhzg=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipP_s6Bf5pPqtx8i7NTIjWR-dpqNNwvEbApAs0j-"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/SOotpR_g93kRu-Ubb6ZEP7GwjCkoR2H5392Gvc5E_BLKngCKnZ_Ir1DRcHj71FksEpY5Ru3aQuLo5BnaFg=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipPOzwNF_J29ndvRFPflGPA3HpUptXRHps5MA2dC"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/CzrzX4AvynXfQw_wsuENqI0pVfJSmnW88odeIQnGNSIrWqferHW-LjP5pignpBFjmSHhuCWbczw_mklrJg=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipMWersTGOjMbyPQwsY3fkMcb0ersJnylEEbZFaf"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/RW9p9RLNObS7eqw4JV-q7x3usjX7sBpN67cNxRvjec9_gPgPflgoY1oUkCoUAKt9wz1gdmIc9Cp94HpJRQ=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipPhyDyzaN_L6fkvtCi5iG20azC_BHG8I9DG51KF"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/1a372crRzMaJbti8IHR5xty2e1ibCcLEOf_u-Qow_X7y4kQ29aK5cUHb-HzvHP96dL-B4tne9OcV7Dl2Bg=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipO_IvGPnoIqrI8a5Z1BtrYvcF6UAUscaGDXuUse"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/F73jLBhNMpdJX28V5x8DU6KnJdRCmJMsQJxUcJykBSGtI8pewrW0KwrTOaTNqZq0jABaLeeTbebaA9UyLw=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/AF1QipPgTnyBaPlz0xPOE27cnd48meinMQOZOpnp60U-"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/CW-XhMDyAwprO021dTeY7gc4dPt45CXy1Knj47afOdfDsX8Z19_OX-cIUWq0J2y9rxf8SMtWKpCrVYyddg=s144"></a>
 
 
 
 <span title="ぶおうき">武王鬼</span>
 ======================================================================================
 
-<a href="https://picasaweb.google.com/lh/photo/ik1ruzzuL8uqydzwVNwOcj0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh4.googleusercontent.com/-Hpo5TAhFjjE/UTdCari-QbI/AAAAAAAAAW0/M1AZhCKRBuM/s288/%255Buser1-1%255D---%2520%25281%2529.png" height="204" width="288" alt=""></a>
-<a href="https://picasaweb.google.com/lh/photo/G-nz98eYuAS4IhbGV5ajBj0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-Ms0M0mt5qHs/UY45C2ArSrI/AAAAAAAABBo/Y4eQL2QYVMs/s288/%255Buser1-1%255D%25E6%25AD%25A6%25E7%258E%258B%25E9%25AC%25BC.png" height="288" width="219" alt=""></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipN6J3ScUIzz1TLhAlZTNZJ17jgED5LKk-vBA9Uo"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/Gktr_aKvMBAIQT-tK9WxBj_P2TmoYMTD6pMhYujwM04CFNx-IMlOFFFb6IY0v9IoXuxcNrTZuuh9IdundQ=s288"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipPAu2bhxzubGjZPwaIYqrPlDZePKkyoh2T1lDVP"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/GuWnws2Dnn04qUjCfp4nMs7-mzvSi9nlgHV44nqXeOoEA_nIYai5QslohI9SHFjjRXL6_oWQEJrlK7ZbHA=s288"></a>
 
 * 男鬼、<del>四天王</del>四震王鬼で硬派担当。口数は少なく、言葉よりも行動で示すタイプ。
 	* 暗鬼羅王からの信頼も厚く、戦場で自由に闘う事が許された唯一の存在
@@ -131,8 +135,8 @@
 <span title="すうおうき">崇王鬼</span>
 ======================================================================================
 
-<a href="https://picasaweb.google.com/lh/photo/CRESHMjxG6yzIcxVfcFaOj0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh3.googleusercontent.com/-9s7J7d3dGUk/UTdCiT_yKmI/AAAAAAAAAZU/Le9O-dZHaQo/s800/%255Buser1-1%255D-----.png" height="196" width="231" alt=""></a>
-<a href="https://picasaweb.google.com/lh/photo/rbZxGSVxwms4-6yvP0URPT0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-DAyvB3N1eLo/UZDopQYjHhI/AAAAAAAABCI/DeHF3G_7ZnU/s288/%255Buser1-1%255D%25E5%25B4%2587%25E7%258E%258B%25E9%25AC%25BC.png" height="288" width="219" alt=""></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipM9a3txxNVE-s1kbRIEZD-jf9tg1FSoc5lsv9ec"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/os2gCjW-MI1-pzet1xS44lV2kmIZ5-_VLV6eG--jhBPtuVhds4TrLyE6VZQTMILAj92TtepehbkQfiEC4A=s288"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipNbmer0PWWPNHvtyzpihAX3fyCDQ05W9nSeZX7l"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/S_OSMlnrSG37KAVTK7PqsaxjtIxAZ2pojMA27nPt8dN31k_1BaCx9jh5vGuHOXD86ailubaP_e0izC8C8A=s288"></a>
 
 * 男鬼、<del>四天王</del>四震王鬼で外道担当。一言で言うと外道、目的のためなら手段は選ばない
 	* 至王鬼とは別の意味で頭が良い(ずる賢い) 外見のイメージは百鬼帝国のグラー博士みたいな
@@ -159,6 +163,13 @@
 * ピアスはしていないが、左目に片眼鏡をつけている
 * 腰の後ろに手を回す癖がある
 * ボディラインの出ない服装でもわかるくらいデブい（お腹が出ている）
+
+
+画像
+======================================================================================
+
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipNw-rYkoPCsNksCmdK_BCMVfpisJrQwUyaM9Uhz"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/HpcgPCkSmQzPh1O_nZog49n4SpqbBNAJLM4Y2G6G5XKMzJmVgA-XNUgFL7_gOku5yCUgkQaqZNWM3t76Jw=s144"></a>
+
 
 
 <footer id="ARTICLEFOOTER">
