@@ -2,7 +2,7 @@
 <html lang="ja">
 	<head>
 		<meta charset="UTF-8">
-		<title>idea-path</title>
+		<title>{{ site.title }}</title>
 		<link rel="stylesheet" href="{{ site.baseurl }}/static/css/main.css">
 		<script>(function() {var elms=["header","footer","section","aside","nav","article","hgroup","time","figure","figcaption"];for(var i=0;i<elms.length;i++){document.createElement(elms[i]);};	})();</script>
 		<base href="https://sivayu.github.io/idea-path/">
@@ -48,13 +48,13 @@
 
 <header id="ARTICLEHEADER" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
 	<div></div>
-	<h1 itemprop="title">home</h1>
-	<div id="UPDATETIME" class="updatetime">update：<time>2017-07-22</time></div>{{ page.title }}{{ page.date }}
+	<h1 itemprop="title">{{ page.title }}</h1>
+	<div id="UPDATETIME" class="updatetime">update：<time>2017-07-22</time>{{page.date}}</div>
 </header>
 
 <!-- start content -->
 <div id="NOTE">
-{{ content }}
+{{ page.content }}
 </div>
 <!-- end content -->
 
