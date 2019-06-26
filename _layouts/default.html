@@ -21,16 +21,28 @@
 <div id="LINKS">
 
 <div id="NOTELIST">
-	
-		<ol>
-				{% for page in site.pages %}
-					{% if page.url contains 'Note' %}
-					<li>
-						{{ page.url }}
-					</li>
-					{% endif %}
-				{% endfor %}
-				</ol>
+	<script>
+		var arr = [];
+		var urllist = [
+		{% for page in site.pages %}{% if page.url contains 'Note' %}"{{page.url}},"{% endif %}{% endfor %}
+		];
+		var cdepth = 0;
+		var depth = 0;
+		for(var i=0;i<urllist.length;i++){
+			cdepth = urllist[i].split("/").length - 2;
+			if (depth>cdepth){
+				arr.push('</ol>'.repeat(depth-cdepth));
+			}
+			else if(depth<cdepth){
+				arr.push('<ol>');
+			}
+			depth=cdepth
+			arr.push('<li><a href="'+'" data-date="'+'">'+urllist[i]+'</a>');
+		}
+		arr.push("</ol>".repeat(depth));
+		var tex = '<ol>'+ arr.join("") + '</ol>'
+		document.write(tex);
+	</script>
 <div>
 	<h1>Site</h1>
 	<div>
