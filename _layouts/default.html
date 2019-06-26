@@ -21,6 +21,16 @@
 <div id="LINKS">
 
 <div id="NOTELIST">
+	
+		<ol>
+				{% for page in site.pages %}
+					{% if page.url contains 'Note' %}
+					<li>
+						{{ page.url }}
+					</li>
+					{% endif %}
+				{% endfor %}
+				</ol>
 <div>
 	<h1>Site</h1>
 	<div>
