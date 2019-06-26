@@ -24,7 +24,7 @@
 	<script>
 		var arr = [];
 		var urllist = [
-		{% for page in site.pages %}{% if page.url contains 'Note' %}"{{page.url}},"{% endif %}{% endfor %}
+		{% for page in site.pages %}{% if page.url contains 'Note' %}"{{page.url}}",{% endif %}{% endfor %}
 		];
 		var cdepth = 0;
 		var depth = 0;
