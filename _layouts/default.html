@@ -35,6 +35,7 @@
 			a.innerText = urllist[i][1];
 			a.href = urllist[i][0];
 			li.setAttribute("data-depth",urllist[i].split("/").length - 2);
+			li.appendChild(a);
 			ol.appendChild(li);
 		}
 		document.querySelector("#NOTELIST").appendChild(ol)
