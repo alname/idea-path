@@ -12,7 +12,7 @@
 <div id="MAIN" class="box">
 
 <header id="HEADER">
-	<h1 id="SITETITLE"><a href="/_note" class="sitetitle">Note</a></h1>
+	<h1 id="SITETITLE"><a href="{{ site.baseurl }}" class="sitetitle">Note</a></h1>
 </header>
 
 <div id="CONTENTS" class="flex">
@@ -35,7 +35,7 @@
 			var li = document.createElement("li");
 			var a = document.createElement("a");
 			a.innerText = urllist[i][1];
-			a.href = urllist[i][0];
+			a.href = "{{ site.baseurl }}"" + urllist[i][0];
 			li.setAttribute("data-depth",urllist[i][0].split("/").length - 2);
 			li.appendChild(a);
 			ol.appendChild(li);
