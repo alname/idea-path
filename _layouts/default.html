@@ -21,10 +21,12 @@
 <div id="LINKS">
 
 <div id="NOTELIST">
+		<h1>Page list</h1>
 	<script>
+		
 		var arr = [];
 		var urllist = [
-		{% for page in site.pages %}{% if page.url contains 'Note' %}["{{page.url}}","{{page.title}}"],{% endif %}{% endfor %}
+		{% for page in site.pages|sort(attribute='url') %}{% if page.url contains 'Note' %}["{{page.url}}","{{page.title}}"],{% endif %}{% endfor %}
 		];
 		var cdepth = 0;
 		var depth = 0;
@@ -38,24 +40,21 @@
 			li.appendChild(a);
 			ol.appendChild(li);
 		}
-		document.querySelector("#NOTELIST").appendChild(ol)
+		document.querySelector("#NOTELIST").appendChild(ol);
+
 	</script>
 <div>
-	<h1>Site</h1>
-	<div>
-		<!-- {{ page.dir}},{{ site.url }},{{ page.url }} -->
+		<h1>Site</h1>
 		<ol>
-		{% for page in site.pages %}
-			{% if page.url contains 'Note' %}
-			<li>
-			  <a href="{{ site.baseurl }}{{ page.url }}">
-				{{ page.title }}
-			  </a>
-			</li>
-			{% endif %}
-		{% endfor %}
+			<li><a href="/" class="main menu">idea-path</a>
+			<li><a href="https://picasaweb.google.com/115069798956937902080/User0?authuser=0&amp;authkey=Gv1sRgCKiN5L31marczgE&amp;feat=directlink" class="main menu">Picasa - user0</a>
+			<li><a href="https://picasaweb.google.com/115069798956937902080/User102?authuser=0&amp;authkey=Gv1sRgCNDQsv_hr7ajqQE&amp;feat=directlink" class="main menu">Picasa - user1</a>
+			<li><a href="https://picasaweb.google.com/115069798956937902080/User2?authuser=0&amp;authkey=Gv1sRgCJHiqtGF6teIXw&amp;feat=directlink" class="main menu">Picasa - user2</a>
+			<li><a href="https://picasaweb.google.com/115069798956937902080/User3?authuser=0&amp;authkey=Gv1sRgCKmyj4K4044w&amp;feat=directlink" class="main menu">Picasa - user3</a>
+			<li><a href="https://picasaweb.google.com/115069798956937902080/User4?authuser=0&amp;authkey=Gv1sRgCIL3u6blmJCXIA&amp;feat=directlink" class="main menu">Picasa - user4</a>
+			<li><a href="https://picasaweb.google.com/115069798956937902080/User5?authuser=0&amp;authkey=Gv1sRgCJf7ktPQ17X44wE&amp;feat=directlink" class="main menu">Picasa - user5</a>
+			<li><a href="https://picasaweb.google.com/115069798956937902080/Original2nd?authuser=0&amp;amp;authkey=Gv1sRgCLKzl8Pt66ycSw&amp;amp;feat=directlink" class="main menu">Picasa - Original 2nd</a>
 		</ol>
-	</div>
 </div>
 
 </div>
