@@ -79,7 +79,7 @@ span[title]:before{font-size:0.6em;font-weight:normal;line-height:1.2;text-decor
 #T #LINKS .current{background-color:#DDD;font-Weight:bold;color:black;}
 #T #LINKS>div{border-bottom:solid 1px silver;padding-bottom:16px;}
 #T #LINKS>div ol{list-style:none;padding:0;margin:0;font-weight:bold;}
-#T #LINKS>div ol>li>ol>li ol{padding-left:16px;font-weight:normal}
+#T #LINKS>div li[data-depth="2"]{padding-left:16px;font-weight:normal}
 #T #NOTE{margin-left:46px;}
 #T #NOTE em{font-weight:bold;text-decoration:none;font-style:normal;}
 #T #NOTE blockquote{border:dashed 1px silver;border-radius:4px;font-size:small;padding:8px;margin:0;background:whitesmoke;}
