@@ -28,20 +28,13 @@
 		];
 		var cdepth = 0;
 		var depth = 0;
+		var ol = document.createElement("ol");
 		for(var i=0;i<urllist.length;i++){
-			cdepth = urllist[i].split("/").length - 3;
-			if (depth>cdepth){
-				arr.push('</ol>'.repeat(depth-cdepth));
-			}
-			else if(depth<cdepth){
-				arr.push('<ol>');
-			}
-			depth=cdepth
-			arr.push('<li><a href="'+'" data-date="'+'">'+urllist[i]+'</a>');
+			var li = document.createElement("li");
+			li.setAttribute("data-depth",urllist[i].split("/").length - 2);
+			ol.appendChild(li);
 		}
-		arr.push("</ol>".repeat(depth));
-		var tex = '<ol>'+ arr.join("") + '</ol>'
-		document.write(tex);
+		document.querySelector("#NOTELIST").appendChild(ol)
 	</script>
 <div>
 	<h1>Site</h1>
