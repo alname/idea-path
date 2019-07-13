@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "[黒] 毒島"
 author:
   name: 黒い兄

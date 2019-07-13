@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "[黒] 武天鋼人 無双王"
 author:
   name: 黒い兄
