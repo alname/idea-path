@@ -26,7 +26,12 @@
 
 <div id="NOTELIST">
 		<h1>Page list</h1>
-	<script>
+		<ol>
+			{% for page in site.pages|sort(attribute='url') %}
+			{% if page.url contains 'Note' %}<li><a href="{{ site.baseurl }}{{page.url}}">{{page.title}}</a></li>{% endif %}
+			{% endfor %}
+		</ol>
+	<!--script>
 		
 		var arr = [];
 		var urllist = [
@@ -46,11 +51,11 @@
 		}
 		document.querySelector("#NOTELIST").appendChild(ol);
 
-	</script>
+	</script-->
 <div>
 		<h1>Site</h1>
 		<ol>
-			<li><a href="/" class="main menu">idea-path</a>
+			<li><a href="{{ site.baseurl }}" class="main menu">idea-path</a>
 			<li><a href="https://picasaweb.google.com/115069798956937902080/User0?authuser=0&amp;authkey=Gv1sRgCKiN5L31marczgE&amp;feat=directlink" class="main menu">Picasa - user0</a>
 			<li><a href="https://picasaweb.google.com/115069798956937902080/User102?authuser=0&amp;authkey=Gv1sRgCNDQsv_hr7ajqQE&amp;feat=directlink" class="main menu">Picasa - user1</a>
 			<li><a href="https://picasaweb.google.com/115069798956937902080/User2?authuser=0&amp;authkey=Gv1sRgCJHiqtGF6teIXw&amp;feat=directlink" class="main menu">Picasa - user2</a>
@@ -71,7 +76,6 @@
 <header id="ARTICLEHEADER" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
 	<div></div>
 	<h1 itemprop="title">{{ page.title }}</h1>
-	<div id="UPDATETIME" class="updatetime">update：<time>2017-07-22</time>{{page.date}}</div>
 </header>
 
 <!-- start content -->
