@@ -1,8 +1,8 @@
 ---
 layout: default
-title: [ど] 帝釈天雷ヴィンドゥーラ
+title: "[ど] 帝釈天雷ヴィンドゥーラ"
 author:
-  name: どこぞ
+  name: "どこぞ"
 ---
 
 あらすじ

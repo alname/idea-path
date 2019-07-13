@@ -1,8 +1,8 @@
 ---
 layout: default
-title: [A] アーサー・ブライト
+title: "[A] アーサー・ブライト"
 author:
-  name: ALNAME
+  name: "ALNAME"
 ---
 
 

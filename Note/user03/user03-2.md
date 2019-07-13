@@ -1,8 +1,8 @@
 ---
 layout: default
-title: [八] ジャック・インザパンドラ
+title: "[八] ジャック・インザパンドラ"
 author:
-  name: 八尺8r
+  name: "八尺8r"
 ---
 
 内容

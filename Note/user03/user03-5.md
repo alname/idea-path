@@ -1,8 +1,8 @@
 ---
 layout: default
-title: [八] VERSUS Mythology
+title: "[八] VERSUS Mythology"
 author:
-  name: 八尺8r
+  name: "八尺8r"
 ---
 
 概要

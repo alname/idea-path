@@ -1,8 +1,8 @@
 ---
 layout: default
-title: [A] ストレート・CHAM-BA-RA
+title: "[A] ストレート・CHAM-BA-RA"
 author:
-  name: ALNAME
+  name: "ALNAME"
 ---
 
 概要

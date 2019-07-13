@@ -1,8 +1,8 @@
 ---
 layout: default
-title: [黒] シス・ガーディア
+title: "[黒] シス・ガーディア"
 author:
-  name: 黒い兄
+  name: "黒い兄"
 ---
 
 シス・ガーディア

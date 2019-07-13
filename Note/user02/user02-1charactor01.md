@@ -1,8 +1,8 @@
 ---
 layout: default
-title: 人物 - 彩代蓮
+title: "人物 - 彩代蓮"
 author:
-  name: 赤い流星
+  name: "赤い流星"
 ---
 
 <span title="アヤシロ">彩代</span><span title="レン">蓮</span>

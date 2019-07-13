@@ -1,8 +1,8 @@
 ---
 layout: default
-title: [八] 媛 -chen- ヒェン
+title: "[八] 媛 -chen- ヒェン"
 author:
-  name: 八尺8r
+  name: "八尺8r"
 ---
 
 概要

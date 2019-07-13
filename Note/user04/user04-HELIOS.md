@@ -1,8 +1,8 @@
 ---
 layout: default
-title: [ど] HELIOS
+title: "[ど] HELIOS"
 author:
-  name: どこぞ
+  name: "どこぞ"
 ---
 
 概要

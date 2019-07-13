@@ -1,8 +1,8 @@
 ---
 layout: default
-title: [赤] 彩代蓮
+title: "[赤] 彩代蓮"
 author:
-  name: 赤い流星
+  name: "赤い流星"
 ---
 
 キャラクター

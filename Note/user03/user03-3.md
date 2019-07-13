@@ -1,8 +1,8 @@
 ---
 layout: default
-title: [八] Clown Garuda
+title: "[八] Clown Garuda"
 author:
-  name: 八尺8r
+  name: "八尺8r"
 ---
 
 概要

@@ -1,8 +1,8 @@
 ---
 layout: default
-title: [ど] 斗え！ジネンジョー！！
+title: "[ど] 斗え！ジネンジョー！！"
 author:
-  name: どこぞ
+  name: "どこぞ"
 ---
 
 キャラクター

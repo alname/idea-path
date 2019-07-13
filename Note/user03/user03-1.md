@@ -1,8 +1,8 @@
 ---
 layout: default
-title: [八] Dr.トロイ
+title: "[八] Dr.トロイ"
 author:
-  name: 八尺8r
+  name: "八尺8r"
 ---
 
 内容

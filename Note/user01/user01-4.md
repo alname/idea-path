@@ -1,8 +1,8 @@
 ---
 layout: default
-title: [黒] 超磁電鋼デンジン
+title: "[黒] 超磁電鋼デンジン"
 author:
-  name: 黒い兄
+  name: "黒い兄"
 ---
 
 超磁電人
