@@ -1,0 +1,510 @@
+---
+layout: default
+title: "[黒] 武天鋼人 無双王"
+author:
+  name: "黒い兄"
+---
+
+テーマ
+======================================================================================
+* スーパーロボットがしたい。物理とかリアルとかどうでもいい
+* 黒い兄の好きなものを詰め込みたい
+* 全編和風で構成したい、用語とかもできるだけ日本語にしたい(エネルギーを動力、バリアは障壁みたいな)
+* 主人公は骨太な、線の太い男。ロボットモノではあまり見ない容姿にする
+
+
+キャラクター
+======================================================================================
+
+詳細は「[人物 - 鋼希望](/user1-1.charactor01.md)」を参照
+
+* 不動醍醐
+* 春香さくら
+* 両国竜吉
+* 撫子
+* 大絶院轟天
+* 神田修一
+* 佐藤拓
+* 柊千草
+* 高名
+* 荒垣
+
+
+機体
+======================================================================================
+
+<span title="むてんこうじん">武天鋼人</span><span title="むそうおう">無双王</span>
+-------------------------------------------
+
+
+* 古代より人々を人ならざるものから護ってきた、ロストテクノロジーで作られたスーパーロボット
+* 歴史上何度も顕現しており、顕現するたび姿が違っている(巨大な鎧武者とか岩石でできた巨人とか)
+* 陸海空どこでも戦えるオールマイティさをもつ。
+* 武装は内蔵するものも含め色々持たせたい、スーパーロボットだし！
+	* 魔断光：いわゆる目からのビーム
+	* 飛翔数珠：首元に付いている数珠。ビットみたいに操って敵にぶつけたり障壁張ったりする
+	* 自在錫杖：いわゆる錫杖。状況に応じて剣になったり盾になったりするチート武器
+	* 罰神掌：掌底を発射する、いわゆるロケットパンチ系武装……などなど
+* 50～60mくらい。デカくて硬くて強い
+* 外見のイメージは｢金剛力士」｢隈取」｢山伏」と言ったイメージ
+* 必殺技は｢<span title="むそうせんぷう">無双旋風</span>」
+	* 螺旋状のエネルギーを纏った掌底を敵にぶち込む、相手は爆散する
+* デザインはイマイチ固まってない
+
+### 阿形
+
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipOwar6F5GSuIAt8FBICQC_WiAOJdLVIP4WRKOel"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/t3pTbco1aGT-apE5INNYzzZCJldvAhRI3XJkMwhZ4hTqMxMTr0-JAfUkypgfApfYVTSQP74FmmFgM587wg=s288"></a>
+
+* 正確には「武天鋼人 無双王 <span title="あぎょう">阿形</span>」
+* 全長60m前後くらい？
+* 破魔の最終兵器、強い。
+* 半自我をもつ。
+* 動力は「天尊輪光」
+* <em>仏教くさいけど、あらゆる宗教と関係なし</em>
+* 物質というよりは概念に近い存在
+* 人に仇なす人外には容赦なし
+* 	>無双王無双王言いながら、今まで主役のご本人を全く描いていなかったので  
+	>お正月休みを利用して形にしてみました･･････また凄いボリューム感になったものだ。  
+	>首もとの数珠以外は概ねイメージ通りかな･･･と思います。  
+	>もうちょっと赤を全身に割り振って上げても良いかな･･･というか色が少ないかな？とも思います。  
+	>  
+	>デザインに「金剛力士」「山伏」を取り入れていたのですが、さらにそこに「四天王」まで入ってきたので  
+	>仏教色がなんだか強くなってしまってきている感じが困ったものです。  
+	>顔がわりかし恐く出来たので、個人的には満足していたり。  
+	>  
+	>左手に持っているのは「自在錫杖」言うまでも無くデザインは定まっていません。  
+	>阿形と言う以上、吽形もあるわけですが、それはまたそのうち？に･･･  
+	>左膝の立体が明らかにおかしいのもチャームポイントの1つです。  
+	
+
+
+### 吽形
+
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipO5KEH7dy6E5oSi1VwLIasvBNWAnXnsnmoOkc9y"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/197ZwGVSf_N8OgMuVQuodXdE_nmZN8-VF0m1a0I-HDr5i4AWVjBZba1kK260hzScWXMg1YP-42tZUjYrHA=s288"></a>
+
+* 正確には「武天鋼人 無双王 <span title="うんぎょう">吽形</span>」
+* 全長は足が伸びてるので阿形よりちょっとデカイ。
+* 頭頂部とまゆから炎っぽいものがふきでているのが特ちょう
+* 各種武装はひきつづき使用可能
+* 	>とまぁ、そんなこんなで無双王の続きです。  
+	>一年ぶりに描いた無双王は「吽形（うんぎょう）」形態となります。  
+	>阿形と吽形は別機体だと思われていたりしたようですが、一緒の機体の別バージョンです。  
+	>「阿形」のパワーアップした状態が「吽形」その程度の認識で問題ないはずです。  
+	>  
+	>簡単に言うとシャイニングガンダムのノーマルモードが「阿形」  
+	>スーパーモードが「吽形」そんな感じです。  
+	>最初期の段階では必殺技「無双旋風」を撃ち込む時だけ「吽形」形態になりますが  
+	>醍醐の連度が高まるにつれて「吽形」形態に自在に移行できるようになる、そんなことを考えてます。  
+	>  
+	>  
+	>「吽形」になると各種能力が大幅に上昇しますが、消耗が激しいので醍醐にも多少負担が掛かります。  
+	>「阿形」の時と基本的に使える武装は変わらないので戦い方は変わらずより無茶していける感じでしょう。  
+	>人間顔になっていますが、口が開いたりはしません。咆哮もしません、瞳は動きます  
+	>無双王はもともと物理的な物質で構成されているという設定ではないので、「変形」というよりは「変態」に近い形で  
+	>プロポーションがあちこち変わります。大きく変わるのは腰のくびれと脚の長さ  
+	>模様が増えたり眉や頭頂部から炎のようなエネルギーの奔流が噴出しているのも変わった部分。  
+	>  
+	>  
+	>本来は後背輪も出るのですが思いっきり描くを忘れました…  
+	>「阿形」を（一般的な感覚で）不細工に、「吽形」をイケメンにするということは結構当初から考えていました。  
+	>しかし自分で描いていてなんですが、背中側が結構謎な造りになってそうですね  
+	>今期アニメやスパロボ最新作でも新しいロボットたくさん出てきますが、こういったうそ臭い感じのデザインのロボットが  
+	>もっと増えてくれてもいいと思うのですけどね～  
+
+
+
+
+
+特殊部隊機
+-------------------------------------------
+* 対鬼戦用特殊部隊<del>「希望」</del>「鋼希望」の所持するロボット
+* 攻撃機(遊撃機？)・防衛機・支援機の3タイプがあり、各部隊のエースクラスには専用機が与えられている
+* 大体20～30mくらい？無双王よりは小さい
+* 無双王に関する文書や資料を基に作り上げられた、科学と超科学の合いの子
+* デザインはまったく決まっていない･･･が、攻撃機は人型・防衛機はでぶっちょ・支援機は変わった形
+	* どの機体も仏像とか、和風な印象を受ける物をデザインの基礎としたい
+
+### 桜花
+
+
+### 護国
+
+
+### 那由他
+
+
+
+
+鋼希望
+======================================================================================
+
+隊員
+-------------------------------------------
+
+#### 遊撃部隊員　→　「○○<span title="とうし">闘士</span>」
+#### 守衛部隊員　→　「○○<span title="えいし">衛士</span>」
+#### 索想部隊員　→　「○○<span title="そうし">想士</span>」
+
+エースは「特」が付く、「特闘士」みたいな  
+※撫子は「想士」ではなく「<span title="おうし">皇士</span>」 撫子専用の特別な呼び名
+
+
+機体
+-------------------------------------------
+
+<a href="https://get.google.com/albumarchive/115069798956937902080/AF1QipOS3yjb6RjlxY_NubbBIZB5FCRw2q8AQHMin6qq"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/L6rPQMe06-vzJf5XFyBt9PmcxUdPVS5NmwpFFLHBsJlkuo7fU2hxSycGk1I8iw2oYtPtC2eiNzQKov37rA=s144"></a>
+
+機体総称「<span title="こうへい">鋼兵</span>」  
+※微妙なので名称は変える可能性あり  
+
+#### 遊撃部隊　→　「<span title="せんこうへい">戦鋼兵</span>」
+
+* 外見はアルムアルクスのようなシルエットで、和風の意匠が施されている（和甲冑みたいな？）
+* 主に敵に突っ込んでいくのが前提の機体なので、敵を打ち倒すことが前提の装備
+* 基本的には宙に浮いて行動する。
+* 機動力が高い・格闘系
+
+#### 守衛部隊　→　「<span title="しゅこうへい">守鋼兵</span>」
+
+* 外見は「キカイオー」に出てくるワイズダックのような感じで、和風の意匠が施されている。
+* 主に要地を防衛する機体なので、敵を迎え撃つことが前提の装備
+* 空は飛べず基本陸を移動するが、実は水中戦も得意
+* 装甲が厚い・射撃系
+
+#### 索想部隊　→　「<span title="たんこうへい">探鋼兵</span>」
+
+* 外見は金剛杵にキャタピラが付いた様な、非常におかしなデザイン
+* 地上のみ移動できるが、移動速度は遅い
+* そもそもは想士の能力を増幅して生体レーダーと化す為の機体なので、戦闘できる必要が無い
+* 撫子専用機「那由他」はキャタピラの代わりに左右に羽根のようなものが付いており、宙に浮いている
+
+
+
+
+敵
+======================================================================================
+
+詳細は「[人物 - 鬼羅党](/user01-1.charactor02.md)」を参照
+
+* 暗鬼羅王
+* 至王鬼
+* 艶王鬼
+* 武王鬼
+* 崇王鬼
+
+
+画像
+======================================================================================
+
+---
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipPMYAI8yXnFNA4nTgJR5de-QeHHdmac3a8HMobo"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/mXB3BLxsOmhVosuEzy3r_ubGdrhT84oN4ybr2gTOQRtyAb3vSST_gITGORZjocKOdklybFYQMNjRRhxnig=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipPlha9Q92PrhIRfdDV19YDYf0d_UFUYyJdNNyMr"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/FqO56J7E_zFTx5Rx9kmRgwYeogiSoVtSB7IQWRnoWF-myrS9oePRH9LrVH1TYxO5VWkAVkJqjPjtXqFpnA=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipPYlFDpbtWbrNUr7_msbHsrksBiwGpchA7TCl7g"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/m3jPoS4v-PlLmj_0k_9U842PpBLZ0_kpPXB-RZFN5KXrZ2de6MNc_MHkEzwa2nU2kBPPMtVoRYhjbsgGJg=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipNHgYRuRVtQx5vqIdqcVhQjL_Kn2RzVTrO0k_rj"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/PAF1uhuXdzkB56t9UABHgqvR3aS328lC7V8ncBZUjzb_kPDetcKowTQzjj4WyyYCGVGh0d20vrOtlI948w=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipMdq9nv4YDy7bQWyAk8JVf0p0Rv21bonPINSs5u"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/FFm242PdFQnPRyH1fOJDd6lVi7ENZXTVEkyIm79KplzGo5jx-rpX8t2JPaDGuj_0VuNpEAoK7sBPVLZ39Q=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipMmug0SWufq9_SHchcVcme9bSxfrUrH_aJPlqB6"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/iBTx54kMSKs_WG4XIhTGebLiy_6_d1PLOVMyWsgY_f0IwyWq0Za8rrW7j1vTfwra1Fqf7Ll8xz5Trf8mDQ=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipN4qK7Dwc_hhRRSv7bo2I76MAyhE0InyxVT_tON"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/dp0mpdN-mUdUWr0PENnHk5znXzIWn3y5TdQEDNo07HgrQM1YGoUGU9gxqbCWcYIhfSUdZOITVw6Aq_QhUA=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipMSAQie1TUYNcsB9u2F9A4-FOsozUsIOo6NGxUc"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/3gAzzoOqv0D7zWNEUXbkXiV-7MriD1bzSwUFxlszMCbHf-Sbm_oJydyyTAi_ohkx_6ZXsPbrZbS4qMrl-Q=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipNlT3G7g_wh9QJc7WUM2x_zIYtuktmxFp5wrlTF"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/bQBQEKN5J_8bMmOO4gmQpiS4n8WstPlX8CiqWol5jnB_TAUf8_TrpHdqmVxwdf1lmMxkphCcl62o0lbddA=s144"></a>
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipO17IuZ-XvOU3oSQ3ga_BlQDu-4_OhZ866jnvd0"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/dfYkz1PPU88C0pUpimyg_Ep-iX-BaQiXkUBiu8s37hwCc62t20LnHc_nt5lB9Vxp-2hWX5MBz3o7t0-fug=s144"></a>
+
+
+---
+<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipOxUrgus81yIIXCENr1bqLif5WokFAZkzf5Hw-8/AF1QipOl_HkUlVoi28k2eIAAcb1fI7lGkpRrcqkgwPLe"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/7OOLjwhDlGiphxhV557biYKRPIKMW9bgejnMvEcN9yf32ZQtk_-Q9n1Mm28x83HqL422VZ2t91qRx7u_5Q=s144"></a>
+
+
+
+リンク
+======================================================================================
+* <a href="http://www14.oekakibbs.com/bbs/blackbros/oekakibbs.cgi?mode=res_msg&amp;resno=712&amp;thisfile=712.png">+ お絵かき掲示板 +[712] 無双也</a>
+* <a href="http://www14.oekakibbs.com/bbs/blackbros/oekakibbs.cgi?mode=res_msg&amp;resno=728&amp;thisfile=728.png">+ お絵かき掲示板 +[728] えんおうがっしん</a>
+* <a href="http://www14.oekakibbs.com/bbs/blackbros/oekakibbs.cgi?mode=res_msg&amp;resno=750&amp;thisfile=750.jpg">+ お絵かき掲示板 +[750] 無双王を進めてみる</a>
+* <a href="http://www14.oekakibbs.com/bbs/blackbros/oekakibbs.cgi?mode=res_msg&amp;resno=753&amp;thisfile=753.png">+ お絵かき掲示板 +[753] 無双王をさらに進めてみる</a>
+* <a href="http://www14.oekakibbs.com/bbs/blackbros/oekakibbs.cgi?mode=res_msg&amp;resno=759&amp;thisfile=759.jpg">+ お絵かき掲示板 +[759] 金剛無双の名の下に！（こういう言い回しに弱い）</a>
+* <a href="http://www14.oekakibbs.com/bbs/blackbros/oekakibbs.cgi?mode=res_msg&amp;resno=760&amp;thisfile=760.jpg">+ お絵かき掲示板 +[760] 案はあっても絵がなかった人達</a>
+* <a href="http://www14.oekakibbs.com/bbs/blackbros/oekakibbs.cgi?mode=res_msg&amp;resno=768&amp;thisfile=768.png">+ お絵かき掲示板 +[768] 一体ずつだとちっちゃ！</a>
+* <a href="http://www14.oekakibbs.com/bbs/blackbros/oekakibbs.cgi?mode=res_msg&amp;resno=770&amp;thisfile=770.png">+ お絵かき掲示板 +[770] どさっと上げてみる？</a>
+* <a href="http://www14.oekakibbs.com/bbs/blackbros/oekakibbs.cgi?mode=res_msg&amp;resno=771&amp;thisfile=771.png">+ お絵かき掲示板 +[771] その2</a>
+* <a href="http://www14.oekakibbs.com/bbs/blackbros/oekakibbs.cgi?mode=res_msg&amp;resno=772&amp;thisfile=772.png">+ お絵かき掲示板 +[772] その3</a>
+* <a href="http://www14.oekakibbs.com/bbs/blackbros/oekakibbs.cgi?mode=res_msg&amp;resno=773&amp;thisfile=773.png">+ お絵かき掲示板 +[773] その4</a>
+* <a href="http://www14.oekakibbs.com/bbs/blackbros/oekakibbs.cgi?mode=res_msg&amp;resno=788&amp;thisfile=788.png">+ お絵かき掲示板 +[788] 唐突に広がる無双王の世界</a>
+* <a href="http://www14.oekakibbs.com/bbs/blackbros/oekakibbs.cgi?mode=res_msg&amp;resno=800&amp;thisfile=800.png">+ お絵かき掲示板 +[800] そして広がる無双王の世界</a>
+* <a href="http://www14.oekakibbs.com/bbs/blackbros/oekakibbs.cgi?mode=res_msg&amp;resno=809&amp;thisfile=809.png">+ お絵かき掲示板 +[809] 玄　人　志　向</a>
+* <a href="http://www14.oekakibbs.com/bbs/blackbros/oekakibbs.cgi?mode=res_msg&amp;resno=810&amp;thisfile=810.png">+ お絵かき掲示板 +[810] やっとこさ</a>
+* <a href="http://www14.oekakibbs.com/bbs/blackbros/oekakibbs.cgi?mode=res_msg&amp;resno=816&amp;thisfile=816.png">+ お絵かき掲示板 +[816] 2015一発目</a>
+* <a href="http://www14.oekakibbs.com/bbs/blackbros/oekakibbs.cgi?mode=res_msg&amp;resno=817&amp;thisfile=817.png">+ お絵かき掲示板 +[817] 昔と今と</a>
+* <a href="http://idea-path.appspot.com/blackbros">idea-path 黒い兄の部屋</a>
+
+
+情報
+======================================================================================
+
+
+### 2012-03-11
+
+* 醍醐ですね
+
+
+### 2012-03-25
+
+* でも坊主ではないんだぜ？
+* 禿げているのではない、剃っているのだ！
+* おっさんではない、まだ20代だっ！
+* 本人ド真面目で洒落の通じないタイプ
+* 剃っているだけです！
+* 無双王は真の意味でスーパー系にしたいので、地底に住まう鬼が相手です
+	* 対鬼用戦闘機関的な
+	* 後者です、いわゆる鬼ですね
+* 服装でリアルっぽい印象を与えてしまったかな･･･と反省
+* コンバトラークラスのやりあいでしょうね～
+* 坊主ではないですよ、ブッキョウカンケイナイデス
+* こっちはそんなに重くないです、 というか主人公死んでしまうではないですかｗ
+* さくらさんはヒロインでお願いします
+* まさにそんなノリですねｗ そういうノリが好きなんです、とりあえず世界征服みたいな
+* ハゲじゃないって言っていますでしょうが！
+	* ス･･･スキンヘッド？
+
+### 2012-03-25
+
+* ハゲではない、剃っているのだ
+
+### 2012-04-01
+
+* コンセプトは金剛力士+隈取だった模様
+
+### 2012-04-08
+
+* 違うよ、剃ってるだけだよ？
+* なのでハゲではないよ？
+* イメージ的には露出しすぎてて逆に惹かれないレベルを想像してました
+* 骨に触覚など無い(ｷﾘｯ
+* 気合でくっつけてるんですよ
+* 私は布がまだ多いかな･･･？と思っている次第です
+
+### 2012-07-08
+
+* 気の利いた水着は持っていないさくらさん
+
+### 2012-07-15
+
+* デザイン考えている時に、ふと｢金の輪っかを艶王鬼のデザインモチーフに入れてはどうだろう？」と思いつき、そのまま組み込んでみました。
+	* 結果的にはアクセントが１つ加わってよかったのではないかなぁ･･･と思っています。
+
+### 2012-08-05
+
+* 無双王は日本的なところ限定の守護者ですが、各地にそんなのが居ても面白いなぁ、と思ったことはあります
+
+### 2012-08-19
+
+* 姉バスさんは艶王鬼と組んだら普通に食われそう(性的な意味で)で困る
+
+### 2012-08-25
+
+* 恐くないよ、仁義をつくすおっさんだよ？
+* IZAMとタメはれる位の、武に生きる漢ですからね
+* 多分、武王鬼は人外ですんでカゲトラ様ともやり合えると思いますよ
+* 凄い｢気」を感じる･･･っ！
+	* 醍醐「気･･･だな。」
+	* 気といっても、霊気みたいなものですかね。第六感的な
+
+### 2012-09-16
+
+* 品のない顔だからね仕方ないね
+
+### 2012-12-30
+
+* さりげに花が共通点だったり
+
+### 2013-02-03
+
+* あと、鬼勢は結構使い勝手が良さそうだなぁ･･･とも感じました。基本テンプレ的なスーパーロボット系敵ですし
+* カゲトラ様とは接点が無いですからね･･･鬼と共同戦線取れば可能かもしれませんが
+	* それはそれでスパロボっぽいな
+* その笑い方はしないって言ったじゃないですか！
+* そういえば、艶王さんは今回の話のほうがイメージにあっておりました。前回はやはりサドっ気が強すぎたようです
+	* ノイときゃっきゃやってる感じが艶王さんぽいなぁと。あと武王もあのキャラで正解ですね
+* あんまり頭悪くしすぎると、それはそれでイメージ違うかもしれませんね。脳筋であることに間違いないでしょうがｗ
+* ええ、そこら辺は伝わっていると思っております。判りやすい敵にしてもらえれば満足です☆
+* ちなみに至王は銀髪青肌なんだぜ
+	* そういえば、武王は角一本で赤肌でしたねｗ
+	* 泣かないだろうなーｗ
+
+### 2013-02-10
+
+* 口調とか台詞は難しいですね･･･特にさくらと醍醐は難しい･･･
+	* 醍醐はなんというか、私自身の中にある「基本的なスーパーロボット主人公」みたいなイメージなので、説明が出来ないのですよ
+	* あー、赤城くんが一番イメージ近いですね。盲点だった
+	* 赤城、イムカ、エステル･･････銀？
+	* でも赤城は近いですね、かなり近い。
+	* 弄られキャラ的な部分も欲しいですからね
+		* ハゲネタで弄りたいし
+
+### 2013-03-02
+
+* 日邦とかいうファンタジー国家
+* といいますか、日本を日邦に見立てているだけなので位置はもろ日本と同じですね。
+* 滅びますね、悪の栄えたためし無し
+
+### 2013-03-10
+
+* そうだ、以前やちる氏に指摘された「希望」と言う名称ですが
+	* 「鋼希望（こうきぼう）」なんかよろしいなと考えております。これなら常用の単語とも被りませんし
+	* あと鋼という言葉が好きですしｗ
+* でもアンキラオウからの信頼は一番厚いんだぜ！
+* 30代という年齢的説得力
+* 人間レーダー→攻撃系→防御系という謎進化
+* さくらという謎の生態を持ったヒロイン
+* 撫子の機体は闘う系ではないとか、はやく箇条書きしないと
+	* 四震王鬼の格好もデザインしないと
+
+### 2013-03-16
+
+* ああいう戦闘描写を見ていて気付いたのは「無双王大勢との戦いに向いてない」という事でした
+* 実家は寺じゃない坊主頭、実家は寺じゃない坊主頭じゃないか！
+
+### 2013-03-24
+
+* しかし馴れ初めか･･･ 「力が欲しいか？」的な開が一番無難で判りやすいですけどね･･･
+	* 展開が
+	* ありがち過ぎて嫌な感じなのですよね･･･
+* 鋼希望自体の歴史は古いので、顕現するたびに研究していたのです。
+* 無双王は基本的に役目を終えると概念に戻るので、ずっと実体化しているわけではないのです
+* 来たー！って感じでしょうねｗ
+* 鬼羅党をぶちのめすまでは実体化している感じでしょうね
+* 基本的に鬼とは話し合いの余地が無いからね仕方ないね
+	* その二人はまぁ色々特殊ですしｗ
+	* 武王は強いものに価値があると考えるから、人間だからと言うことでは差別しませんし
+	* 艶王は気に入ったら種族は問わないでしょうし
+* ちなみに無双王はJAMのSTORM BRINGERでお願いします
+
+### 2013-05-18
+
+* これは遊撃隊女性陣の行う鍛錬のひとつ「薙刀っぽいやつ（仮）」用の胴着ですという妄想 ＞流星氏
+	* ただ、名前が思い浮かばないので「薙刀っぽいやつ（仮）」
+	* できれば架空のものにしておきたい親心
+
+### 2013-06-30
+
+* 死ぬ順番ですか･･･、武→崇→至→艶ですかね
+
+### 2013-08-04
+
+* さくらと違って意外と流行りに詳しいという設定
+
+### 2013-10-20
+
+* ああよかった、そこは狙ってやったことなので伝わっていて安心しました ＞一重
+* むしろ醍醐と神田で1セットかもしれません、イメージ的には
+* 隊員ズは醍醐やさくらと比べると「普通」がほしかったので、デザインしていて楽しかったのです。
+* はい、下まつげが特徴です。みんな何かしら特徴付けました
+
+### 2013-12-01
+
+* 60ｍ級は無双王と四震王鬼機だけですね、基本は2,30ｍくらいです
+* ですね、隊長機は何かしらオプションがあるでしょうけどそれ以外は基本同じです
+	* エース機はまた別で
+* 雑魚鬼機はなんかミニフォーみたいなのを妄想しています
+	* 無いですね
+* まさにそうです
+* 無双王世界では普通に日本の位置が日邦だよ☆
+* いやいや、失礼しました。あぎょう（変換できない）です
+	* 無双王のア・ウンは基本的には「怒り」を表すものではないと、今質問されて思いました。
+	* アがその形相で魔をひるますもの、ウンが秘めた意思を表すものという感じかもしれません。
+	* 形相で魔をひるますだから、恐い顔で問題無いはずです。怒りというか凄い形相ですね
+	* あ、間違えた。ウンのほうの話でしたね…
+	* 強い顔で描いてはいましたが、そこまでブチ切れ金剛していたかな…
+	* どちらにしろ無双王的には「怒」ではないですねイメージ的に
+	* そんな感じです。
+
+### 2013-12-22
+
+* 柊はもっと強気というか引っ張る感じのキャラを想定していました。カチーナまではいかないけどタイプはそっち系ですね。
+	* 男言葉は使いませんが、気の良い女友達って感じですかね
+	* 醍醐のことも「醍醐」と呼びます。基本的には醍醐が親しい人にはそう呼ばせてますので
+* 醍醐も気持ちもう少し荒い部分があっても良いかもしれないかな…と感じました。わりかし戦闘のときも好青年に書かれていましたので
+* 名前呼び・・・むむむ
+	* 神田、柊は苗字呼び　拓は拓というイメージですね。自分は名前で相手は苗字ってのもアレですが
+* 変わります、その気になれば無双王より大きなものにもできます
+	* 銃にもできますし複数のものに変えることもできます。
+* 真面目に話すと、無双王という話があったら悪路王は出ないと思います。
+	* 無双王の鬼は実在の鬼から特に出すつもりはないので、自分の中では毒島Mk.2みたいな存在という風に捉えています
+	* 史実NGというつもりは特にないのですが、そのつど考えたほうが楽しいかな…と
+	* 百鬼帝国のロボットみたいな自由度があるほうが良いかなと
+* あ、そうだ　もうひとつ、無双王に関して情報統制は特にとっておりません無双王の世界観的には
+	* 正確に言うとそこに特に言及するつもりはありませんでした。変にマスコミがどうのみたいな話になってエンタメ感が失われると嫌なので
+* さくらより前線に荒垣が居ないことの方が戦術的にまずいかも知れませんね
+	* イメージ的には本当にカイ・キタムラそのものって感じですね
+	* 場の責任者って感じ
+* 先陣は…桜花inさくらなのかな・・・
+* サクラサンヒロイン
+* （さくらも言うほど支える側ではないですけどね☆）
+* ちなみに桜花inさくらは、四震王鬼は倒せなくとも　いわゆるロボットモノの毎週いったい出てくる敵ロボットクラスなら単機でも倒しきれるんだぜ！
+
+### 2013-03-30
+
+* ハゲとスキンヘッドは根本的に違うとあれほど言っているのに
+	* 黒い兄の人>>避けるだけで無い訳じゃないし･･･（震え声）
+	* 黒い兄の人>>そ、そこは二次元の世界だから･･･
+
+### 2014-05-11
+
+* 高菜から溢れる謎（？）の強キャラ感
+	* 高名は先駆者ですが、純粋なパイロットとしての強さはさくらの方が上ですね
+* 達人ではないのよ、イメージ的には警官は柔道または剣道の有段者みたいなイメージで　訓練に必須で醍醐はそれが得意と言う感じ
+
+### 2014-05-25
+
+* 無双王当操主不動醍醐
+	* 代が消えた・・・だと・・・!?
+	* 王のあるじという謎
+* そうです、過去無双王はなんども顕現している設定なので
+	* そのたび操主が居たわけです
+* うちの女性陣的には艶王鬼＞マライア＞麗華＞さくら・・・とかになるんですかね~
+	* 結局体格との対比とかでもあるんでレイカとさくらはどれぐらい差があるかわかりませんが
+
+### 2014-09-02
+
+* 	> [+ お絵かき掲示板 +[810] やっとこさ](http://www14.oekakibbs.com/bbs/blackbros/oekakibbs.cgi?mode=res_msg&amp;resno=810&amp;thisfile=810.png)
+	> 
+	>描いてて一番楽しい＆難しいのは柊さん。  
+	>いつも狙うのは「整っている」と「整っていない」の間ぐらいのところなので  
+	>絶妙なバランスが必要で楽しいです。  
+
+
+### 2014-12-14
+
+* マジンカイザーSKLのガランが多分イメージ近いです
+* 現場の指揮は至王鬼がやってるんで、多分イメージは合ってるんではないかと
+	* つまり至王の支持はイコール暗鬼羅王の支持なのです
+	* 指示か
+	* 崇王鬼も頭は良いので、簡単にこの2人に歯向かったりはしないと思いますきっと
+	* そうですね、故に実力差を測り間違わないのです
+* 鬼たちはホントにわかり易い見たまんまのキャラ付けです、少年向けロボットものの敵キャライメージ
+* ただ、あんまりハードに外道な事やると対処に困りそうなんで、あくまで鋼希望側がぐぬぬ・・・ってなる範囲が望ましいでしょうね
+* 艶王は・・・人間の格好してふいに醍醐の前に現れたりしてちょっかいだしてきて、醍醐が戸惑うんだろうな程度のイメージ
+	* でもこの人はこの人で一応芯のある女性なんで、人側には靡かないですね
+* でも何気に四震王鬼（久々に書いたこの名称）の中では抜群に強いのよ至王さん
+	* 無双王に本編があったら、唯一無双王相手に黒星つけるのが至王鬼でしょうから
+
+### 2015-04-25
+
+* >[第七百六十八回「プクゾ２ですってよー」](http://www.page.sannet.ne.jp/yasaka/radio/768.htm)
+	>
+	>人様の妄想に便乗して･･･  
+	>  
+	>毒島の戦闘曲は『Dokujima's Theme』  
+	>デンジンコンビの戦闘曲は『デンジン！』  
+	> 醍醐の戦闘曲は『武天鋼人　無双王』  
+	>  
+	>なんてのだと良いなぁ・・・と考えたりしました。  
+	>でもデンジンの戦闘曲に作品タイトルまんまを入れるあたりやちる氏もわかってらっしゃるなぁ・・・と。  
+	> 飾り気の無い直球タイトルのついた戦闘曲っていいですよね by 黒い兄   
+
+
+
+<footer id="ARTICLEFOOTER">
+<address>
+Author : 黒い兄
+(<a href="http://homepage2.nifty.com/blackbros/">がんばり過ぎない</a>)
+</address>
+</footer>

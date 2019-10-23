@@ -2,137 +2,22 @@
 <html lang="ja">
 	<head>
 		<meta charset="UTF-8">
-		<title>idea-path</title>
-		<link rel="stylesheet" href="/static/css/main.css">
+		<meta name="viewport" content="width=device-width,initial-scale=1.0">
+		<title>{{ site.title }}:Note - {{ page.title }}</title>
+		<link rel="stylesheet" href="{{ site.baseurl }}/static/css/main.css"  media="screen and (min-width: 1000px)">
+		<link rel="shortcut icon" type="image/vnd.microsoft.icon" href="{{ site.baseurl }}/static/favicons/favicon.ico">
+		<link rel="icon" type="image/vnd.microsoft.icon" href="{{ site.baseurl }}/static/favicons/favicon.ico">
+		<link rel="apple-touch-icon" type="image/png" href="{{ site.baseurl }}/static/favicons/apple-touch-icon-180x180.png">
+		<link rel="icon" type="image/png" href="{{ site.baseurl }}/static/favicons/icon-192x192.png">
 		<script>(function() {var elms=["header","footer","section","aside","nav","article","hgroup","time","figure","figcaption"];for(var i=0;i<elms.length;i++){document.createElement(elms[i]);};	})();</script>
 		<base href="https://sivayu.github.io/idea-path/">
 		<meta name="robots" content="noindex,nofollow,noarchive">
-		<style>
-@charset "utf-8";article,aside,footer,header,hgroup,main,nav,section{display:block;}
-body,button,input[type="button"],input[type="submit"],pre{font-family:'Hiragino Kaku Gothic Pro',meiryo,verdana,sans-serif;}
-body{background:#EEE;}
-a{text-decoration:none;}
-a:hover{text-decoration:underline;}
-noscript{color:crimson;}
-abbr{border-bottom:dashed 1px gray;cursor:help;}
-s,del{display:none;}
-iframe{margin:0;overflow:hidden;border:none 0 transparent;}
-span[title]{border-bottom:1px dotted #666666;cursor:help;}
-span[title]{line-height:1;text-align:center;white-space:nowrap;vertical-align:baseline;margin:0;padding:0;border:none;display:inline-block;}
-span[title]:before{font-size:0.6em;font-weight:normal;line-height:1.2;text-decoration:none;display:block;content:attr(title);}
-#MAIN{width:1000px;margin:auto;position:relative;}
-#HEADER{position:relative;}
-#FOOTER{text-align:center;position:relative;}
-#FOOTER p,#FOOTER small{margin:0.5em 0;font-size:small;}
-.box{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;}
-.flex{display:-ms-flexbox;display:-webkit-flex;display:flex;}
-.clearfix{zoom:1;display:-webkit-flex;display:-moz-flex;display:-ms-flexbox;display:flex;}
-.clearfix:after{content:"";display:block;clear:both;}
-.sitetitle:link,.sitetitle:visited{color:#333;}
-.border{border:solid 1px silver;border-radius:4px;padding:6px 18px;background:white;box-shadow:0 0 6px 0 silver;margin-bottom:12px;}
-#D button,#D input[type="button"],#D input[type="submit"]{font-weight:bold;font-size:small;padding:5px;width:9em;}
-#D textarea{height:10em;width:100%;resize:vertical;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;}
-#D #HEADER h1{margin:.5em 0;font-size:xx-large;}
-#D #PAGEHEADER{border-bottom:dotted 1px silver;margin-bottom:1em;font-size:small;color:gray;}
-#D #PAGEHEADER h1{margin:.5em 0;font-size:x-large;color:#333;}
-#D #PAGEHEADER time{float:right;}
-#D #ARTICLE{position:relative;width:780px;float:left;}
-#D #ARTICLE a:link{color:#06C;}
-#D #ARTICLE a[href^="http"]{padding-right:1px}
-#D #ARTICLE a[href^="http"]:after{content:"↑";font-size:50%;}
-#D #ARTICLE a[href^="/"]:after #ARTICLE a[href^="http://idea-path.appspot.com/"]:after{content:""}
-#D #SIDE{position:relative;width:220px;float:left;padding-left:1em;font-size:small;}
-#D #SIDE button,#D #SIDE input{width:100%;line-height:2;}
-#D #SITENAV{font-size:small;margin:0;padding:0;list-style:none;}
-#D #SITENAV li{display:inline-block;border-right:solid 1px silver;}
-#D #SITENAV a{display:block;padding:0 1em;color:#06C;}
-#D #SITENAV .admin{float:right;border:none;}
-#D #SITENAV .admin a{color:whitesmoke;}
-#D #SITENAV .admin a:hover{color:#06C;}
-#D #EDIT fieldset{border:solid 1px pink;background:#FEE;border-radius:4px;}
-#D #EDIT table{width:100%;}
-#D #EDIT th{width:4em;vertical-align:top;}
-#D #PREVIEW>header{color:dimgray;border-top:double 3px silver;border-bottom:double 3px silver;margin:1em 0;font-size:small;}
-#D #SECTION{line-height:1.8;}
-#D #SECTION pre{font-size:medium;white-space:pre-wrap;}
-#D #GALLERY{margin:0 auto;}
-#D #GALLERY ul{margin:0;padding:0;}
-#D #GALLERY .image{width:144px;height:144px;display:inline-block;margin:2px;}
-#D #GALLERY .image a{display:block;outline:solid 1px LightGray;}
-#D #GALLERY .image img{max-width:144px;max-height:144px;margin:0 auto;display:block;border:none 0 white;}
-#D #CURRENT{margin-bottom:2em;}
-#D #CURRENT img{max-width:400px;max-height:400px;display:inline-block;margin:0;outline:solid 1px silver;border:none;}
-#D #TIPS{background:whitesmoke;border:dashed 1px silver;padding:8px;font-size:small;}
-#D #TABLE{font-size:small;margin-bottom:1em;}
-#D #TABLE a{display:block;}
-#D #TABLE dl{margin:0;padding:0;}
-#D #TABLE dt{margin:0;padding:0 0 0 8px;display:inline-block;width:15%;border-bottom:solid 1px #DDD;-moz-box-sizing:border-box;box-sizing:border-box;}
-#D #TABLE dd{margin:0;padding:0;display:inline-block;width:85%;border-bottom:solid 1px #DDD;}
-#D #TABLE .tableheader{background-color:#DDD;font-weight:bold;margin-top:1em;}
-#D #TABLE #STATIC{background-color:#FFF;}
-#D #TABLE #NEWER{background-color:#FFF;}
-#D .anchorlist ul,#D .anchorlist ol{list-style:none;padding:0;margin:0;}
-#D .anchorlist a{display:block;color:#06C;}
-#D .anchorlist h1{display:block;background:#DDD;text-align:center;border-radius:2px;font-weight:bold;margin:0 0 0.5em 0;font-size:small;}
-#T{color:#222;font-size:medium;font-family:Meiryo UI;}
-#T h1{font-family:'Hiragino Kaku Gothic Pro',meiryo,verdana,sans-serif;}
-#T #MAIN{background-color:white;padding:8px 16px;border:solid 1px silver;}
-#T #CONTENTS{width:100%;border-top:solid 1px silver;border-bottom:solid 1px silver;}
-#T #CONTENTS:after{content:"";display:block;clear:both;}
-#T #SIDE{width:20%;border-right:solid 1px silver;float:left;position:relative;}
-#T #ARTICLE{width:80%;padding:8px;border-color:whitesmoke;float:left;position:relative;}
-#T #LINKS{font-size:small;padding-bottom:1em;font-family:Meiryo UI;}
-#T #LINKS h1{font-size:medium;}
-#T #LINKS a{display:block;color:blue;}
-#T #LINKS li{margin-top:2px;margin-bottom:2px;}
-#T #LINKS .current{background-color:#DDD;font-Weight:bold;color:black;}
-#T #LINKS>div{border-bottom:solid 1px silver;padding-bottom:16px;}
-#T #LINKS>div ol{list-style:none;padding:0;margin:0;font-weight:bold;}
-#T #LINKS>div ol>li>ol>li ol{padding-left:16px;font-weight:normal}
-#T #NOTE{margin-left:46px;}
-#T #NOTE em{font-weight:bold;text-decoration:none;font-style:normal;}
-#T #NOTE blockquote{border:dashed 1px silver;border-radius:4px;font-size:small;padding:8px;margin:0;background:whitesmoke;}
-#T #NOTE blockquote>p:first-child{margin-top:0;}
-#T #NOTE blockquote>p:last-child{margin-bottom:0;}
-#T #NOTE li{line-height:1.5;margin-top:2px;margin-bottom:2px;}
-#T #NOTE li li{margin-top:0;margin-bottom:0;}
-#T #NOTE a>img{border:solid 1px silver;padding:1px;background:white;-webkit-box-sizing:content-box;-moz-box-sizing:content-box;box-sizing:content-box;}
-#T #NOTE table{border-collapse:collapse;border-spacing:0;font-size:smaller;}
-#T #NOTE th{padding:4px 8px;background-color:lightgray;border:solid 1px silver;}
-#T #NOTE td{padding:4px 8px;border:solid 1px silver;}
-#T #ARTICLEHEADER .updatetime{font-size:small;color:gray;text-align:right;margin:8px 0;}
-#T #ARTICLEFOOTER{font-size:small;text-align:right;margin:1em 0;}
-#T #ARTICLEFOOTER address{font-style:normal;}
-#T #NOTE h1,#T #NOTE h2,#T #NOTE h3,#T #NOTE h4,#T #NOTE h5{font-family:'Hiragino Kaku Gothic Pro',meiryo,verdana,sans-serif;font-weight:normal;position:relative;}
-#T #NOTE h1::after,#T #NOTE h2::after,#T #NOTE h3::after,#T #NOTE h4::after,#T #NOTE h5::after{content:"";display:block;position:relative;bottom:0px;}
-#T #NOTE h1{font-size:2rem;background:linear-gradient(to right,#DDD,#FFF);margin:48px 0 48px -46px;}
-#T #NOTE h1::before{content:"◆";color:rgba(0,0,0,0.2);padding:0 .5rem;display:inline-block;}
-#T #NOTE h2{font-size:1.5rem;border-bottom:solid 1px #fff;margin:48px 0 48px -46px;padding-left:46px;}
-#T #NOTE h2::after{display:block;background:linear-gradient(to right,#DDD,#FFF);border-left:solid 46px rgba(0,0,0,0.2);height:4px;width:100%;left:0;position:absolute;bottom:0;box-sizing:border-box;}
-#T #NOTE h3{font-size:1.3rem;margin:32px 0 32px -10px;border-bottom:dotted 3px rgba(0,0,0,0.2);}
-#T #NOTE h4{font-size:1.1rem;font-weight:bold;margin:0;padding:.3rem 0;border-bottom:dashed 1px rgba(0,0,0,0.2);}
-#T #NOTE h4+p{margin-left:2rem;}
-#T #NOTE h5{font-size:1rem;}
-#T #NOTE hr{display:none;}
-#T #NOTE hr+p{padding:8px;background:whitesmoke;margin-top:32px;border-radius:8px;}
-#T #CHILDNAV{width:200px;margin:0;padding:0;list-style:none;text-align:left;display:none;}
-#T #CHILDNAV a{color:blue;display:block;}
-#T #CHILDNAV>li{font-weight:bold;}
-#T #CHILDNAV>li>ol{font-weight:bold;padding-left:2em;}
-#T #CHILDNAV>li>ol>li>ol{font-weight:normal;padding-left:2em;}
-#T #form{margin-bottom:.5em;}
-#T #form fieldset{border:solid 1px pink;border-radius:4px;background:#FEE;}
-#T #form input,#T #form textarea{width:400px;}
-#T #form textarea{height:6em;}
-#T #form button{width:8em;line-height:1.5;}
-			
-		</style>
 	</head>
 <body id="T">
 <div id="MAIN" class="box">
 
 <header id="HEADER">
-	<h1 id="SITETITLE"><a href="/_note" class="sitetitle">Note</a></h1>
+	<h1 id="SITETITLE"><a href="{{ site.baseurl }}" class="sitetitle">Note</a></h1>
 </header>
 
 <div id="CONTENTS" class="flex">
@@ -141,23 +26,23 @@ span[title]:before{font-size:0.6em;font-weight:normal;line-height:1.2;text-decor
 <div id="LINKS">
 
 <div id="NOTELIST">
-<div>
-	<h1>Site</h1>
-	<div>
-		<!-- {{ page.dir}},{{ site.url }},{{ page.url }} -->
-		<ol>
-		{% for page in site.pages %}
-			{% if page.url contains 'Note' %}
-			<li>
-			  <a href="{{ site.baseurl }}{{ page.url }}">
-				{{ page.name }} - {{ page.title }}
-			  </a>
-			</li>
-			{% endif %}
+	<h1>Page list</h1>
+	<ol>
+		{% for page in site.pages|sort(attribute='url') %}
+		{% if page.url contains 'Note' %}<li><a href="{{ site.baseurl }}{{page.url}}">{{page.title}}</a></li>{% endif %}
 		{% endfor %}
-		</ol>
-	</div>
-</div>
+	</ol>
+	<h1>Site</h1>
+	<ol>
+		<li><a href="{{ site.baseurl }}" class="main menu">idea-path</a>
+		<li><a href="https://picasaweb.google.com/115069798956937902080/User0?authuser=0&amp;authkey=Gv1sRgCKiN5L31marczgE&amp;feat=directlink" class="main menu">Picasa - user0</a>
+		<li><a href="https://picasaweb.google.com/115069798956937902080/User102?authuser=0&amp;authkey=Gv1sRgCNDQsv_hr7ajqQE&amp;feat=directlink" class="main menu">Picasa - user1</a>
+		<li><a href="https://picasaweb.google.com/115069798956937902080/User2?authuser=0&amp;authkey=Gv1sRgCJHiqtGF6teIXw&amp;feat=directlink" class="main menu">Picasa - user2</a>
+		<li><a href="https://picasaweb.google.com/115069798956937902080/User3?authuser=0&amp;authkey=Gv1sRgCKmyj4K4044w&amp;feat=directlink" class="main menu">Picasa - user3</a>
+		<li><a href="https://picasaweb.google.com/115069798956937902080/User4?authuser=0&amp;authkey=Gv1sRgCIL3u6blmJCXIA&amp;feat=directlink" class="main menu">Picasa - user4</a>
+		<li><a href="https://picasaweb.google.com/115069798956937902080/User5?authuser=0&amp;authkey=Gv1sRgCJf7ktPQ17X44wE&amp;feat=directlink" class="main menu">Picasa - user5</a>
+		<li><a href="https://picasaweb.google.com/115069798956937902080/Original2nd?authuser=0&amp;amp;authkey=Gv1sRgCLKzl8Pt66ycSw&amp;amp;feat=directlink" class="main menu">Picasa - Original 2nd</a>
+	</ol>
 
 </div>
 </div>
@@ -168,8 +53,7 @@ span[title]:before{font-size:0.6em;font-weight:normal;line-height:1.2;text-decor
 
 <header id="ARTICLEHEADER" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
 	<div></div>
-	<h1 itemprop="title">home</h1>
-	<div id="UPDATETIME" class="updatetime">update：<time>2017-07-22</time></div>
+	<h1 itemprop="title">{{ page.title }}</h1>
 </header>
 
 <!-- start content -->
@@ -178,9 +62,9 @@ span[title]:before{font-size:0.6em;font-weight:normal;line-height:1.2;text-decor
 </div>
 <!-- end content -->
 
-
+</div>
 <footer id="FOOTER" class="box">
-	<p><small class="copyright">&#169;2013 ALNAME</small></p>
+	<p><small class="copyright">©2013 {{ site.author }}</small></p>
 	<p>Powered by Google App Engine</p>
 </footer>
 
