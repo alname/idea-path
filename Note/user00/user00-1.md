@@ -17,7 +17,7 @@ author:
 ニワ・タンゲ
 -------------------------------------------
 <a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipPyKWgyALcwzGPWZ-F7iGhvWpWUbAa6IE3WRy3A"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/kJbt933q0iY-iv5dI0H_VxgheFns-miboLaEv-TaEgbgVS19Ia-WLNrWcb08Bkci_Hiy2BiC2LihDuuAn943clXTri_PPrDF8RWH4x30og=s288"></a>
-[![img]("/static/image/original/user0/[user0-1]ニワ・タンゲ.png")]("/static/image/original/user0/[user0-1]ニワ・タンゲ.png")
+[![img](/static/image/original/user0/[user0-1]ニワ・タンゲ.png)](/static/image/original/user0/[user0-1]ニワ・タンゲ.png)
 
 **「言葉にしたいことって、ちゃんと伝えないと、離れちゃいますから」**
 
