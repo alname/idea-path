@@ -14,15 +14,36 @@
 		<meta name="robots" content="noindex,nofollow,noarchive">
 	</head>
 <body id="T">
-<div id="MAIN" class="box">
+<div id="MAIN" class="container">
 
-<header id="HEADER">
+<header id="HEADER" class="header">
 	<h1 id="SITETITLE"><a href="{{ site.baseurl }}" class="sitetitle">Note</a></h1>
 </header>
 
-<div id="CONTENTS" class="flex">
+<div id="CONTENTS" class="main">
+
+<article id="ARTICLE" class="box">
+
+<header id="ARTICLEHEADER" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+	<div></div>
+	<h1 itemprop="title">{{ page.title }}</h1>
+</header>
+
+<!-- start content -->
+<div id="NOTE">
+{{ content }}
+</div>
+<!-- end content -->
+
+</div>
+<footer id="FOOTER" class="footer">
+	<p><small class="copyright">©2013 {{ site.author }}</small></p>
+	<p>Powered by Google App Engine</p>
+</footer>
+
+</article>
 	
-<div id="SIDE" class="box">
+<div id="SIDE" class="left">
 <div id="LINKS">
 
 <div id="NOTELIST">
@@ -48,28 +69,6 @@
 </div>
 
 </div>
-
-<article id="ARTICLE" class="box">
-
-<header id="ARTICLEHEADER" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
-	<div></div>
-	<h1 itemprop="title">{{ page.title }}</h1>
-</header>
-
-<!-- start content -->
-<div id="NOTE">
-{{ content }}
-</div>
-<!-- end content -->
-
-</div>
-<footer id="FOOTER" class="box">
-	<p><small class="copyright">©2013 {{ site.author }}</small></p>
-	<p>Powered by Google App Engine</p>
-</footer>
-
-</article>
-
 
 </div>
 </body>
