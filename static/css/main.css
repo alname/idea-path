@@ -29,31 +29,29 @@ span[title]:before{font-size:0.6em;font-weight:normal;line-height:1.2;text-decor
     "header header"
     "left main"
     "footer footer";
+    border:solid 1px silver;
   }
    
-  .header {
+  .container>.header {
     grid-area: header;
-    background-color: antiquewhite;
+    border-bottom:solid 1px silver;
   }
    
-  .left {
+  .container>.left {
     grid-area: left;
-    background-color: azure;
   }
    
-  .main {
+  .container>.main {
     grid-area: main;
-    background-color: blanchedalmond;
   }
    
-  .right {
+  .container>.right {
     grid-area: right;
-    background-color: cornsilk;
   }
    
-  .footer {
+  .container>.footer {
     grid-area: footer;
-    background-color: darkgrey;
+    border-top:solid 1px silver;
   }
 
 .border{border:solid 1px silver;border-radius:4px;padding:6px 18px;background:white;box-shadow:0 0 6px 0 silver;margin-bottom:12px;}
@@ -103,11 +101,11 @@ span[title]:before{font-size:0.6em;font-weight:normal;line-height:1.2;text-decor
 #D .anchorlist h1{display:block;background:#DDD;text-align:center;border-radius:2px;font-weight:bold;margin:0 0 0.5em 0;font-size:small;}
 #T{color:#222;font-size:medium;font-family:Meiryo UI;}
 #T h1{font-family:'Hiragino Kaku Gothic Pro',meiryo,verdana,sans-serif;}
-#T #MAIN{background-color:white;padding:8px 16px;border:solid 1px silver;}
-#T #CONTENTS{width:100%;border-top:solid 1px silver;border-bottom:solid 1px silver;}
+#T #MAIN{background-color:white;padding:8px 16px;}
+#T #CONTENTS{width:100%;}
 #T #CONTENTS:after{content:"";display:block;clear:both;}
-#T #SIDE{width:20%;border-right:solid 1px silver;float:left;position:relative;}
-#T #ARTICLE{width:80%;padding:8px;border-color:whitesmoke;float:left;position:relative;}
+#T #SIDE{border-right:solid 1px silver;}
+#T #ARTICLE{width:80%;padding:8px;border-color:whitesmoke;}
 #T #LINKS{font-size:small;padding-bottom:1em;font-family:Meiryo UI;}
 #T #LINKS h1{font-size:medium;}
 #T #LINKS a{display:block;color:blue;}
