@@ -2,6 +2,6 @@ auto: true
 server: true
 markdown: kramdown
 title: "idea-path"
-url: "https://sivayu.github.io/"
+url: "https://alname.github.io/"
 author: ALNAME
 baseurl: "/idea-path"

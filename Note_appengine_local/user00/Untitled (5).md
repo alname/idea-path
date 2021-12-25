@@ -1,8 +1,11 @@
 ---
-layout: default
+layout: "default"
+key_id: "/_note/original/user0-1"
 title: "[A] ニワ・タンゲ"
-author:
-  name: "ALNAME"
+createtime: 2013-03-21T03:24:35.226000
+updatetime: 2020-06-07T03:15:56.403000
+author: 
+  name: 
 ---
 
 テーマ
@@ -16,13 +19,11 @@ author:
 
 ニワ・タンゲ
 -------------------------------------------
-<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipPyKWgyALcwzGPWZ-F7iGhvWpWUbAa6IE3WRy3A"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/kJbt933q0iY-iv5dI0H_VxgheFns-miboLaEv-TaEgbgVS19Ia-WLNrWcb08Bkci_Hiy2BiC2LihDuuAn943clXTri_PPrDF8RWH4x30og=s288"></a>
+<a href="https://picasaweb.google.com/lh/photo/K2w0Q9FrzOApWpFx922sJD0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh3.googleusercontent.com/-UJ4du9zleig/UUfPgM-XLDI/AAAAAAAAAwg/G9tdbYc5AbE/s800/%255Buser0-1%255D%25E3%2583%258B%25E3%2583%25AF%25E3%2583%25BB%25E3%2582%25BF%25E3%2583%25B3%25E3%2582%25B2.png" height="195" width="158" alt="" ></a>
 
-[![img](https://sivayu.github.io/idea-path/static/image/original/user0/[user0-1]ニワ・タンゲ.png)](https://sivayu.github.io/idea-path/static/image/original/user0/[user0-1]ニワ・タンゲ.png)
+__「言葉にしたいことって、ちゃんと伝えないと、離れちゃいますから」__
 
-**「言葉にしたいことって、ちゃんと伝えないと、離れちゃいますから」**
-
-### 一次情報
+###一次情報
 
 * 極東の島国に存在する教育機関預かり。“心に聞こえる声を聞く”少女。
 * 両親とは死別、姉とともに暮らしていた。中等学校卒業後、姉のすすめで巨大人工浮島に存在する養成機関へ入ることになる
@@ -32,27 +33,28 @@ author:
 * 。
 
 ---
-<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipPfBXAPKIuGoXGKGH-NlG0o0RRE2h0KRXtRJlSx"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/JkuJrU2hjDtqm3-S2i69WedZCapsX5vxyYkTvWFUs7KHLrbnz4zMWC_OwTSN6a-qcTwwtOy00PNZV_NzeLiVwvjQXFw_EVg2ULdl4_Gkmg=s144"></a>
-<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipMk5c76WUDMe0EKfJ8kyJ3NfDD7dZUb5C2qroui"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/kXCplQ1v7f2b4i_3CAqgTIo3xbXLwoAcp7Oo6YGsjYt6Uu0DQ6iT9M8RL-RJAU2oMnD1sHVnNdKQbpsc5A7ECI3DlINiaJmhrxtNN-b2SA=s144"></a>
-<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipPlxzgzX6_hgu9-g6holV9ygWxD_4qZ92chZ9T1"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/8z3uvVtWbMUsSIi4I4r_y9yP3QYF7msS_XqwJFnpB7TfJPV5Bn8vQbhjmPM-gWxaiCgbsT4zA_txKn_l3UCaOqI8x4bXXQqWUxehdwKATw=s144"></a>
-<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipPdkleqnoGEJMbVpVDkJea6BNiXLsR070uMv8Km"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/h9_G0DvzNRpJU8eGWF1GTc9XnPfmliJ0O8mqGbCWQcIeMG9KvqHjzQa8d58sHNdJ9i8OvQo991Sp_e9T02vgnidkxVDFASIYhnuCDS_07A=s144"></a>
-<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipPuxOGspMhKLN5jRrjO9Lb79vvtVC0fGtl0acrm"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/YEkFcXHy8-1e1yIFpLdxVym_uLu4c5IVNZd4pMhyIsBfCibqy-NiZCBhQPMtpLGTt_n-t5yOgNhyRpkcJPxqrJi70KX_I-RfUlfU-qWDxg=s144"></a>
-<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipNcExBB5xafpZs1m3KQqgKqd8X2vVM3E4mldK1Z"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/q4aVx1wpJqEL0O826K6zcknUM-WzebnkRVXqR1xlT1lsNs9pPVtGmrGGBnw3fFrylnDFCat-g7lqiGLydHO33GAuSTI-u3y1XJUz5OTTXw=s144"></a>
-<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipPu_hQaGISvYWLM5xJ10R7PUh58VRFYHo-rf0E7"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/b8tDwrRVtAk0w7VuJsrNJehgjryZWFy62uD5MmqrbbviaY8QHia_HVWD583-hGIFRKCl1B2qjTpQxNZHtJ0QeyFGwoLO3Acs5_acUYiynQ=s144"></a>
-<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipPjTgXLAk-R679rgEIScPad0N9BgmPbrbZyUuPO"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/1imT1-6hHO35KJBc3-algnFXdLhN9PeYi7wrEkliiUqGKlC8t9NolPMfTaHAthAtvIzDXRY8BS1Yj2MJxueXknpavsf5HiLo-fA6x_RIaQ=s144"></a>
-<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipOq2lCSV7NWHKN9XpWetE7fxq5_EEKWJbnuwvb7"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/FkLQStCTBd0Shv-W9uRgaruTYIAg7lA9T-wWVulrsGhT-C3k4TV0QTkSPsP4dECKi0PzGx1pBp3TiAz4hxZ8I8uknqH9FWpXKXdrNP2BYw=s144"></a>
-<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipNFVnokFnJJoJOOTlvJRCCXw3dJFmy_t6Mnfh3A"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/N_yXmfjHmm32B7H8XRMSqDSzi0GvVH3xcgP0jDaJxu2j4FoG2nPR3OaDEBG9h8ss-UX6X563Ji8BvPTmwydgN3wR19T9bIAl8RR1VKjuJQ=s144"></a>
-<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipPOukb34SS9SLwQ4pUy5iQ75I_cm3Zy_yh_4T6S"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/GR5PqWHvPbCUV1qCUO4UB6eLGlZ8SOUT0bZyEa0WiiHXTm0xonSELEl_OtctpZP53KXSF8KI2Rn6AizuJh9j7OYw--UerI3QwAzQiyTDzg=s144"></a>
-<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipOsUcaZdwe0bNvH_FioE2Rwy5MxlyF_dEndru75"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/63YmvE9aLdxdfPGhqjSDM1GRucDRzCsxB9kibwDHEhC7AMmV7QqTOjZTSy2CyC5axjtKjStHkoU_QOH3oxOqrcLheVT_vNyy1UAVeOXQtg=s144"></a>
-<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipNILXguXaxa6-QXY0cGd8HBHhYOBpMrh6ZRIuev"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/giJceVlt3yezuDopQdRSIhpAiHtTxL8sUN6KT1Th8nVcWCdTFkwLv7I_0AE3909PiBTldL7iEE8ba42ejL7i4lSnvOn2dXO6WB_kCWWkyg=s144"></a>
+<a href="https://picasaweb.google.com/lh/photo/aecAfShXr7XbW6fyhC4cED0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh3.googleusercontent.com/-4bsVovP2JKQ/UVk0FZMcA8I/AAAAAAAAA1Y/KfCr1d4QX6U/s144/%255Buser0-1%255D%25E3%2583%258B%25E3%2583%25AF%25E3%2583%25BB%25E3%2582%25BF%25E3%2583%25B3%25E3%2582%25B2%25E3%2583%2589%25E3%2583%25AC%25E3%2582%25B9.png" height="144" width="94" alt="" ></a>
+<a href="https://picasaweb.google.com/lh/photo/zXtVL9LLfP79Mw8fUP89zD0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-8MrZPfCjuss/UUcVrU1Z4oI/AAAAAAAAAtg/F3UodrcJN58/s144/%255Buser0-1%255D%25E3%2583%258B%25E3%2583%25AF%25E3%2583%25BB%25E3%2582%25BF%25E3%2583%25B3%25E3%2582%25B2%25E3%2583%25A9%25E3%2583%25B3%25E3%2583%258B%25E3%2583%25B3%25E3%2582%25B0.png" height="144" width="143" alt="" ></a>
+<a href="https://picasaweb.google.com/lh/photo/dMYHB3fx3WWgJz26I1UFHT0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-pd1VC6FCarU/UUcVrZdYQnI/AAAAAAAAAto/fwhzPKRxQ9E/s144/%255Buser0-1%255D%25E3%2583%258B%25E3%2583%25AF%25E3%2583%25BB%25E3%2582%25BF%25E3%2583%25B3%25E3%2582%25B2%25E3%2582%25A6%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%25AF.png" height="103" width="144" alt="" ></a>
+<a href="https://picasaweb.google.com/lh/photo/tEslRIE4qzhh4l0QPiOc3D0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh4.googleusercontent.com/-2JEUe-XxKHk/UVk0F-AfwxI/AAAAAAAAA1s/XG_1DoT6zJ0/s144/%255Buser0-1%255D%25E3%2583%258B%25E3%2583%25AF%25E3%2583%25BB%25E3%2582%25BF%25E3%2583%25B3%25E3%2582%25B2%25E5%2588%25B6%25E6%259C%258D.png" height="144" width="108" alt="" ></a>
+<a href="https://picasaweb.google.com/lh/photo/5PrndUw7fvUJ8q6sQuTOpz0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh4.googleusercontent.com/-KCxrT324viM/UUcVrlWOYBI/AAAAAAAAAtw/GUI7E6koNNc/s144/%255Buser0-1%255D%25E3%2583%258B%25E3%2583%25AF%25E3%2583%25BB%25E3%2582%25BF%25E3%2583%25B3%25E3%2582%25B2%25E4%25B8%2583%25E5%25A4%2589%25E5%258C%2596.png" height="144" width="109" alt="" ></a>
+<a href="https://picasaweb.google.com/lh/photo/GtTH316XPNFC-a9egJDS4D0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-yiLCaHoI1m4/UUcVrD55uyI/AAAAAAAAAtU/1l8XelEemco/s144/%255Buser0-1%255D%25E3%2583%258B%25E3%2583%25AF%25E3%2583%25BB%25E3%2582%25BF%25E3%2583%25B3%25E3%2582%25B2%25E3%2581%258A%25E3%2582%2581%25E3%2581%258B%25E3%2581%2597.png" height="144" width="71" alt="" ></a>
+<a href="https://picasaweb.google.com/lh/photo/SBFGrkEDpefHeD68GjC2qj0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh4.googleusercontent.com/-jI4cImGtvdY/UVWWIP2aBXI/AAAAAAAAAzE/KFcf5L3wPZQ/s144/%255Buser0-1%255D%25E3%2583%258B%25E3%2583%25AF%25E3%2583%25BB%25E3%2582%25BF%25E3%2583%25B3%25E3%2582%25B2%25E8%25A7%25A3%25E8%25AA%25AC.png" height="119" width="144" alt="" ></a>
+<a href="https://picasaweb.google.com/lh/photo/DKocjN6MLfLkpf2J_LIHoT0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-f1w196jKaYE/UdfjK4XOWmI/AAAAAAAABeM/q3yRZxQ3-t0/s800/%255Buser0-1%255D%25E3%2581%25A6%25E3%2582%258B%25E3%2581%25A6%25E3%2582%258B%25E3%2583%258B%25E3%2583%25AF%25E3%2583%25BB%25E3%2582%25BF%25E3%2583%25B3%25E3%2582%25B2.png" height="114" width="81" alt=""></a>
+<a href="https://picasaweb.google.com/lh/photo/AegYvsoPZUg_z3nbaJeMbz0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-lZGcUn3TWgo/UhyibK5Y4eI/AAAAAAAABzA/lRRfFvZiUlk/s144/%255Buser0-1%255D%25E3%2583%258B%25E3%2583%25AF%25E3%2583%25BB%25E3%2582%25BF%25E3%2583%25B3%25E3%2582%25B220130825.png" height="144" width="142" alt=""></a>
+<a href="https://picasaweb.google.com/lh/photo/pLZOrp2YjTuNwVA8V4bQPD0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh4.googleusercontent.com/-mzbTKfP47jo/UmNoNs1a5iI/AAAAAAAACAk/XyUNXy-AJgY/s800/%255Buser0-1%255D%25E3%2583%258B%25E3%2583%25AF%25E3%2583%25BB%25E3%2582%25BF%25E3%2583%25B3%25E3%2582%25B2%25E3%2581%25BB%25E3%2581%2588%25E3%2581%25BB%25E3%2581%2588.png" height="134" width="134" alt=""></a>
+<a href="https://picasaweb.google.com/lh/photo/P7ZVLaNdv1z8H7-MZr_JvD0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-TdEMQa3r-Es/VBYre8Fv1tI/AAAAAAAADIQ/24ZrOsaJ7O4/s144/%255Buser0-1%255D%25E3%2583%258B%25E3%2583%25AF%25E3%2583%25BB%25E3%2582%25BF%25E3%2583%25B3%25E3%2582%25B2%25E8%2583%25B8%25E4%25B8%258A.png" height="144" width="111" alt=""></a>
+<a href="https://picasaweb.google.com/lh/photo/0CeITBsQVzyctUukYw1ALz0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh4.googleusercontent.com/-YVDCdcZG8EY/VB4FHjszf5I/AAAAAAAADJU/rbGO3Uo93ys/s144/%255Buser0-1%255D%25E3%2583%258B%25E3%2583%25AF%25E3%2583%25BB%25E3%2582%25BF%25E3%2583%25B3%25E3%2582%25B2%25E4%25B8%2589%25E9%259D%25A2%25E5%259B%25B3.png" height="75" width="144" alt=""></a>
+<a href="https://picasaweb.google.com/lh/photo/sLcAHFFoCdiQ3dVD7pZKrz0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-60kqtFFx_80/VFYfBfzBMQI/AAAAAAAADOY/WfwcJMoLUZw/s144/%255Buser0-1%255D%25E3%2582%25BF%25E3%2583%25B3%25E3%2582%25B2%25E6%2580%259D%25E6%25A1%2588.png" height="144" width="54" alt=""></a>
+
 
 ジンバ
 -------------------------------------------
-<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipOX_h3FnctXaZZL17IWjrmEEaPq3JnOCttYgci4"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/HDc-HXOK2TXSZfu1xWNL6Qe9JfoGN_OLnJb7FeLlzQP89pDotVCcyu545nd2qvFSI3Wnh6FJAJHaIJvdGIR54z5t8d2a9HaN1ksa4D8Ang=s288"></a>
+<a href="https://picasaweb.google.com/lh/photo/NjSVLi2yjwuV6ZKiXji8oj0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-5wA7Ph_uTY8/UUfPfr9g03I/AAAAAAAAAwY/eWVxEJQOi38/s800/%255Buser0-1%255D%25E3%2582%25B8%25E3%2583%25B3%25E3%2583%2590%2528%25E4%25BB%25AE%2529.png" height="148" width="186" alt="" ></a>
 
-**「大丈夫だ、今まで必死になってやってきただろ。自信持ってやれ」**
+__「大丈夫だ、今まで必死になってやってきただろ。自信持ってやれ」 __
 
-### 一次情報
+###一次情報
 
 * 。
 * 壮楽兵
@@ -61,13 +63,12 @@ author:
 * 歌なんてくだらないと思ってるタイプ。
 * 。
 
-<!--
+
 アラヤシキ
-
 -------------------------------------------
-**「」**
+__「」__
 
-### 一次情報
+###一次情報
 
 * 。
 * 壮楽兵
@@ -79,9 +80,9 @@ author:
 
 ???
 -------------------------------------------
-**「」**
+__「」__
 
-### 一次情報
+###一次情報
 
 * 。
 * 壮楽兵
@@ -89,15 +90,15 @@ author:
 *
 * 。
 * 。
--->
+
 
 メンネルコール隊長(指揮者)
 -------------------------------------------
-<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipOm2MkvxCVqvhtyK2XqXPWM2z5H7v4YR2nsFPii"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/VgPewxINkE6iRvTvDsczrVxkznfWo_3KPUz1Nn6XwzzC098qgy0bqowZMZiUGok7JTkz1_J67tkkBCR0YmmvsE_q65AFiKKjmYJIy_FOvw=s288"></a>
+<a href="https://picasaweb.google.com/lh/photo/PTgChL_Qa3oBWTQgt4HvKT0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh4.googleusercontent.com/-_7ZJPj7q40I/UUfPgyopoaI/AAAAAAAAAww/WMfxh2FBaQw/s288/%255Buser0-1%255D%25E3%2583%2595%25E3%2583%25AD%25E3%2583%2583%25E3%2582%25B0%25E3%2583%259E%25E3%2583%25B3.png" height="288" width="274" alt="" ></a>
 
-**「」**
+__「」__
 
-### 一次情報
+###一次情報
 
 * 曲者。
 * 壮楽兵
@@ -109,7 +110,7 @@ author:
 
 ヒヨリ・タンゲ
 -------------------------------------------
-<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipNVxKfTdlIBDCKdmgAKVhixGp90gsahmNsK0-gl"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/vizxLXyQV--feagvgQb8b6vY8L4FxwxTz_4udXLhW-LZnhR4h_zMxTIM-_K51oo9EC9HsKh3gjneW94tBmVBTGHMJhxidXejMLDrGRAEAQ=s288"></a>
+<a href="https://picasaweb.google.com/lh/photo/kvrEA_EmqjRFc4bFb-22sT0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-SK1yT6jL3pA/VI1qvtmhanI/AAAAAAAADSk/HyQBke1qJ2M/s288/%255Buser0-1%255D%25E3%2583%2592%25E3%2583%25A8%25E3%2583%25AA%25E3%2583%25BB%25E3%2582%25BF%25E3%2583%25B3%25E3%2582%25B2%25E8%258D%2589%25E6%25A1%2588.png" height="288" width="209" alt=""></a>
 
 * ニワの姉。現在は単身で生活中。
 * 高校卒業後、親類から独立するために都会へ。ニワの養成機関行きを勧めた張本人。
@@ -120,7 +121,7 @@ author:
 
 <span class="ruby" title="ウタアワセ">歌合</span><span class="ruby" title="リリク">詩聖</span>
 -------------------------------------------
-<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipPBkGUFujaf0Oj4vs-BVmbKto677Msb7e9rdhNW"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/3AEan_cMjyUszyFhrbFviXGWTJRQUPBdP1mcZmkCrwAlYhKN1MtGhVOA4KJFm9vMdCYUTl0s6ZvQz3U2XQ2buOELskTROA6oQndL1Ech0w=s288"></a>
+<a href="https://picasaweb.google.com/lh/photo/Q9bYtukqYAbYMXzTHCM-zD0EiPamI-phV_d6nURRrt8?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-Y9vjxUl0Lzc/UUfPg94rH8I/AAAAAAAAAws/IaUKnjgZXZw/s800/%255Buser0-1%255D%25E9%2596%25A2%25E4%25BF%2582%25E8%2580%2585.png" height="139" width="249" alt="" ></a>
 
 * 伝説の音楽家
 * 長い期間で音楽への情熱は薄れ気味
@@ -136,18 +137,12 @@ author:
 
 マネージャー
 -------------------------------------------
-
-<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipONGZqFOabpRhjwVBqY5UCBuHHVu0ZD2nx3EwET"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/ten2diIPZNla4mp3AplSqYBbPdlN1Rm2Sr9NHavCi3c5VyLWGlL3RjKhiqULz_hlSggO_KkjHdRazDaP56yVC10zC3oAc4jSaz2Hn8H0Fg=s288"></a>
-<!--
 * 元おっかけ
 * 女装趣味に加えて京風の語り
 	* 一応いい年したオッサン
 	* オバチャン的な押しの強さがある
 	* ちなみに服装は憧れの人物をリスペクトしている
 * 現在ではプロデューサーと同じグループ会社に所属している
--->
-
-* プロデューサーと同じグループ組織に所属
 
 
 機体
@@ -190,14 +185,6 @@ author:
 * 何かのきっかけで人に害をなす
 
 
-画像
-======================================================================================
-
-<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipP1jcPK16OhwJPD3pz2-NYzVBjfeZGRcKzIqJoD"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/bR-kYMOX7WJfNqxOOolSLglaN1T0GBvFy_767mbBUhft7kQa-MDBZ3PNUYZZEy-abgEay0cHoSDezvE9jh1OaNWuXfBRymyuYSJbw1U46w=s144"></a>
-<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipOhGWt8vz8isE-mZR5lx3yhJfjyKrqDxbxhvU3c"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/jHTZ1eoUSsNE_wiV9nRQhc80LMidD7ui9WgJa0mPTNe6R2pygxyI9EcCiqfWJMlNo0ldWumOSJKWQ61oXxsR3tN4dIKrK0oMl0WQ8lcKSA=s144"></a>
-<a href="https://get.google.com/albumarchive/115069798956937902080/album/AF1QipNjPFSXoF4Oojv-d80yBnt3xWGKHIvHQAY1HlsJ/AF1QipMQa-oyYaToZAli4uQSvlqsWvC2fb1iG_1T4MT4"><img style="padding: 1px; border: 1px solid rgb(204, 204, 204); border-image: none;" src="https://lh3.googleusercontent.com/Kv9iExlPWJ8zzSYwPYUm5pcU6BFNa47E3M2k_DEtYazNVrwv99NKSg94QKLhZ0r1bErC78hI-_Nsv8kn0s7xQuNuHhTkLwiHEbh9v228KQ=s144"></a>
-
-
 リンク
 ======================================================================================
 
@@ -207,7 +194,7 @@ author:
 情報
 ======================================================================================
 
-### 2012-02-12
+###2012-02-12
 * 丹羽・丹下ってすごくすごい
 * 改訂した後だと人形でよさそうです
 * どのみち舌をかみます
@@ -222,56 +209,56 @@ author:
 * へこたれます
 * 丹下さんはドレスだ
 
-### 2012-02-26
+###2012-02-26
 * ちなみに前半戦の3人はプロデューサー、エンジニア、マネージャー
 * もうバッターにしか見えない
 * メインパイロットなのに主人公じゃない意外性
 
-### 2012-03-04
+###2012-03-04
 * そもそも、彼らは極めて"プリミティブな生物"だった
 * 静寂の宇宙では彼らの生態は機能せず、そして幾星霜の時が流れた
 
-### 2012-03-18
+###2012-03-18
 * 実際に指導を受けた合唱の講師はだいたいしなっとした語り口だから侮れない
 * 事実は小説より奇なりというかなんというか
 
-### 2012-03-25
+###2012-03-25
 * ジンバさんは軍楽隊イメージがあらぬ方向へ行ったようなのでさらなるブラッシュアップが必要です
 
-### 2012-04-08
+###2012-04-08
 * あと、歌でロボットを動かすというのは水藻錫華さんから影響を受けたものと思われます
 
-### 2012-08-26
+###2012-08-26
 * ちょっと色が単調…
 * スカートはチェックにする予定だった…ような…
 * タンゲさん、目が丸い
 * 彼がどこに行くのか、それは誰にもわからない…
 
-### 2012-11-11
+###2012-11-11
 * 陣場さん(仮)は何をする人かわからないからこその陣場さん(仮)なんですよ
 
-### 2012-12-02
+###2012-12-02
 * 陣場さん(仮)は軍楽隊イメージがあらぬ方向にいったからって言っただろう！いいかげんにしろ！#自分
 
-### 2012-12-09
+###2012-12-09
 * ペルソナのザベスさんがタンゲさんの髪と近いと思いましたまる
 
-### 2012-12-30
+###2012-12-30
 * 1話は歌うタンゲさんの上からロボが落ちてくる…かな
 * 悩むタンゲさんは富士城本丸での対話でその意義を見つけるなど
 * 解決したのはいいが敵地の真ん中であることを思い出してへこたれるタンゲさん
 
-### 2013-03-10
+###2013-03-10
 * 開始時点で15歳ですかね
 
-### 2013-03-24
+###2013-03-24
 * 普通色です
 * 絵に描く際は赤くするとわかりやすい
 * 臙脂色くらいがちょうどいい模様
 * 二人は壁ドン系だな…
 * メットっていうか当初はヘッドギア的なものにしようとしたはず…
 
-### 2013-07-07
+###2013-07-07
 * まあタンゲ詳の0ですな
 	* かれこれ3ヶ月ほど前のことになります
 
