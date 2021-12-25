@@ -1,3 +1,6 @@
 *.txt
 
 user4_mask/
+Note_appengine_local/
+Note_appengine_web/
+
