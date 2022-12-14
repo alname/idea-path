@@ -502,12 +502,3 @@ site:
 	>なんてのだと良いなぁ・・・と考えたりしました。  
 	>でもデンジンの戦闘曲に作品タイトルまんまを入れるあたりやちる氏もわかってらっしゃるなぁ・・・と。  
 	> 飾り気の無い直球タイトルのついた戦闘曲っていいですよね by 黒い兄   
-
-
-
-<footer id="ARTICLEFOOTER">
-<address>
-Author : 黒い兄
-(<a href="{{ page.site.address }}">{{ page.site.title }}</a>)
-</address>
-</footer>

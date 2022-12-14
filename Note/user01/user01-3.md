@@ -563,11 +563,3 @@ site:
 	>なんてのだと良いなぁ・・・と考えたりしました。  
 	>でもデンジンの戦闘曲に作品タイトルまんまを入れるあたりやちる氏もわかってらっしゃるなぁ・・・と。  
 	> 飾り気の無い直球タイトルのついた戦闘曲っていいですよね by 黒い兄   
-
-
-<footer id="ARTICLEFOOTER">
-<address>
-Author : {{ page.author.name }}
-(<a href="http://homepage2.nifty.com/blackbros/">がんばり過ぎない</a>)
-</address>
-</footer>
