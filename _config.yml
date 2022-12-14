@@ -5,14 +5,3 @@ title: "idea-path"
 url: "https://alname.github.io/"
 author: ALNAME
 baseurl: "/idea-path"
-defaults:
-  -
-    scope:
-      path: "user01"
-      type: "pages"
-    values:
-      author:
-        name: "黒い兄"
-      site:
-        address: http://homepage2.nifty.com/blackbros/
-        title: "がんばり過ぎない"
