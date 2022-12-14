@@ -1,8 +1,6 @@
 ---
 layout: default
 title: "[黒] 雷神トール"
-author:
-  name: "黒い兄"
 ---
 
 概要

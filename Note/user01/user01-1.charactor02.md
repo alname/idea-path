@@ -1,8 +1,6 @@
 ---
 layout: default
 title: "人物 - 鬼羅党"
-author:
-  name: "黒い兄"
 ---
 
 概要

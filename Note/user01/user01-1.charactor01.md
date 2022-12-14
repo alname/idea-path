@@ -1,8 +1,6 @@
 ---
 layout: default
 title: "人物 - 鋼希望"
-author:
-  name: "黒い兄"
 ---
 
 <span title="ふどう">不動</span><span title="だいご">醍醐</span>
