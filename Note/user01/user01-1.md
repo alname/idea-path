@@ -505,6 +505,6 @@ author:
 <footer id="ARTICLEFOOTER">
 <address>
 Author : 黒い兄
-(<a href="http://homepage2.nifty.com/blackbros/">がんばり過ぎない</a>)
+(<a href="{{ page.site.address }}">{{ page.site.title }}</a>)
 </address>
 </footer>

@@ -562,7 +562,7 @@ title: "[黒] 毒島"
 
 <footer id="ARTICLEFOOTER">
 <address>
-Author : {{ author.name }}
+Author : {{ page.author.name }}
 (<a href="http://homepage2.nifty.com/blackbros/">がんばり過ぎない</a>)
 </address>
 </footer>

@@ -13,3 +13,6 @@ defaults:
     values:
       author:
         name: "黒い兄"
+      site:
+        address: http://homepage2.nifty.com/blackbros/
+        title: "がんばり過ぎない"
