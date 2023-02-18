@@ -24,6 +24,12 @@
 <header id="ARTICLEHEADER" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
 	<div></div>
 	<h1 itemprop="title">{{ page.title }}</h1>
+	<footer id="ARTICLEFOOTER">{# 付け足した #}
+		<address>
+		Author : {{ page.author.name }}
+		(<a href="{{ page.site.address }}">{{ page.site.title }}</a>)
+		</address>
+	</footer>
 </header>
 
 <!-- start content -->
@@ -31,13 +37,6 @@
 {{ content }}
 </div>
 <!-- end content -->
-
-<footer id="ARTICLEFOOTER">{# 付け足した #}
-	<address>
-	Author : {{ page.author.name }}
-	(<a href="{{ page.site.address }}">{{ page.site.title }}</a>)
-	</address>
-</footer>
 
 </div>
 <footer id="FOOTER" class="footer">
