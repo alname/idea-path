@@ -53,7 +53,7 @@
 	<h1>Page list</h1>
 	<ol>
 		{% for page in site.pages|sort(attribute='url') %}
-		{% if page.url contains 'Note' %}<li><a href="{{ site.baseurl }}{{page.url}}" attr="{{page.name}}">{{page.title}}</a></li>{% endif %}
+		{% if page.url contains 'Original' %}<li><a href="{{ site.baseurl }}{{page.url}}" attr="{{page.name}}">{{page.title}}</a></li>{% endif %}
 		{% endfor %}
 	</ol>
 	<h1>Site</h1>
