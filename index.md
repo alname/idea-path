@@ -1,6 +1,8 @@
 ---
 layout: default
 title: "Home"
+author:
+    name: "ALNAME"
 ---
 
 <h1>概要</h1>

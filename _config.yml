@@ -5,12 +5,13 @@ title: "idea-path"
 url: "https://note.idea-path.app"
 author: ALNAME
 baseurl: "/"
+
 defaults:
   - scope:
       path: "Original/user00"
     values:
       author:
-        name: "alname"
+        name: "ALNAME"
       site:
         address: ""
         title: ""
