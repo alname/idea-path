@@ -2,8 +2,6 @@
 layout: default
 title: 
 published: false
-author:
-  name: "どこぞ"
 ---
 
 テーマ

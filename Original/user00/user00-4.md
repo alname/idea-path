@@ -1,8 +1,6 @@
 ---
 layout: default
 title: "[A] ストレート・CHAM-BA-RA"
-author:
-  name: "ALNAME"
 ---
 
 概要

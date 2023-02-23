@@ -1,8 +1,6 @@
 ---
 layout: default
 title: "[八] ウォフ・マナフ"
-author:
-  name: "八尺8r"
 ---
 
 

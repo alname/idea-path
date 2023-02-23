@@ -2,8 +2,6 @@
 layout: default
 title: ""
 published: false
-author:
-  name: ""
 ---
 
 <span title="シンドウ">真藤</span><span title="ユウタ">悠太</span>

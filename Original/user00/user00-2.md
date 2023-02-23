@@ -1,8 +1,6 @@
 ---
 layout: default
 title: "[A] アーサー・ブライト"
-author:
-  name: "ALNAME"
 ---
 
 テーマ

@@ -1,8 +1,6 @@
 ---
 layout: default
 title: "[ど] 帝釈天雷ヴィンドゥーラ"
-author:
-  name: "どこぞ"
 ---
 
 あらすじ

@@ -1,8 +1,6 @@
 ---
 layout: default
 title: "[ど] HELIOS"
-author:
-  name: "どこぞ"
 ---
 
 概要

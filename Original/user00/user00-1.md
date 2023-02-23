@@ -1,8 +1,6 @@
 ---
 layout: default
 title: "[A] ニワ・タンゲ"
-author:
-  name: "ALNAME"
 ---
 
 テーマ

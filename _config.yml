@@ -5,3 +5,52 @@ title: "idea-path"
 url: "https://note.idea-path.app"
 author: ALNAME
 baseurl: "/"
+defaults:
+  - scope:
+      path: "Original/user00"
+    values:
+      author:
+        name: "alname"
+      site:
+        address: ""
+        title: ""
+  - scope:
+      path: "Original/user01"
+    values:
+      author:
+        name: "黒い兄"
+      site:
+        address: http://homepage2.nifty.com/blackbros/
+        title: "がんばり過ぎない"
+  - scope:
+      path: "Original/user02"
+    values:
+      author:
+        name: "赤い流星"
+      site:
+        address: ""
+        title: ""
+  - scope:
+      path: "Original/user03"
+    values:
+      author:
+        name: "八尺8r"
+      site:
+        address: "http://www.yasaka3net.qcweb.jp/yasaka/index.shtml"
+        title: "やぼーのホームページ"
+  - scope:
+      path: "Original/user04"
+    values:
+      author:
+        name: "どこぞ"
+      site:
+        address: ""
+        title: ""
+  - scope:
+      path: "Original/user05"
+    values:
+      author:
+        name: "きさまる"
+      site:
+        address: ""
+        title: ""

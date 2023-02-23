@@ -2,8 +2,6 @@
 layout: default
 title: ""
 published: false
-author:
-  name: "赤い流星"
 ---
 
 『強襲型』

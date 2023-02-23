@@ -1,8 +1,6 @@
 ---
 layout: default
 title: "[き] カオリ・シルクレーテベルク"
-author:
-  name: "きさまる"
 ---
 
 キャラクター
