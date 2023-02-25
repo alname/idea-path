@@ -6,6 +6,7 @@ url: "https://note.idea-path.app"
 author: ALNAME
 baseurl: "/"
 
+#markdown
 defaults:
   - scope:
       path: "Original/user00"
@@ -55,3 +56,10 @@ defaults:
       site:
         address: ""
         title: ""
+
+#image
+defaults:
+  - scope:
+      path: "static/image/original/user0"
+    values:
+      artist: "ALNAME"
