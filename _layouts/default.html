@@ -27,7 +27,7 @@
 	<footer id="ARTICLEFOOTER">
 		<address>
 		{% if page.author.name != "" %}Author : {{ page.author.name }}{% endif %}
-		{% if page.author.site_address != "" %}(<a href="{{ page.author.site_address }}">{{ page.author.site_title }}</a>){% endif %}
+		{% if page.author.site_address != None %}(<a href="{{ page.author.site_address }}">{{ page.author.site_title }}</a>){% endif %}
 		</address>
 	</footer>
 </header>
