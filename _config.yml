@@ -44,7 +44,6 @@ defaults:
         name: "きさまる"
 
 #image
-defaults:
   - scope:
       path: "static/image/original/user0"
     values:
