@@ -49,3 +49,7 @@ defaults:
       path: "static/image/original/user0"
     values:
       artist: "ALNAME"
+  - scope:
+      path: "static/image/original2nd/user0"
+    values:
+      artist: "ALNAME"
