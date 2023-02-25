@@ -26,8 +26,8 @@
 	<h1 itemprop="title">{{ page.title }}</h1>
 	<footer id="ARTICLEFOOTER">
 		<address>
-		{% if page.author != "" %}Author : {{ page.author.name }}{% endif %}
-		{% if page.site_address != "" %}(<a href="{{ page.site_address }}">{{ page.site_title }}</a>){% endif %}
+		{% if page.author.name != "" %}Author : {{ page.author.name }}{% endif %}
+		{% if page.author.site_address != "" %}(<a href="{{ page.author.site_address }}">{{ page.author.site_title }}</a>){% endif %}
 		</address>
 	</footer>
 </header>
