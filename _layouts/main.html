@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+<html lang="ja-JP">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>{{ site.title }}:Note :Library- {{ page.title }}</title>
+    <!--<link rel="stylesheet" href="{{ site.baseurl }}/static/css/style copy.css"  media="screen and (min-width: 1000px)">-->
+    <link rel="stylesheet" href="../static/css/style copy.css"  media="screen and (min-width: 1000px)">
+    <link rel="icon" href="{{ site.baseurl }}/static/favicons/favicon.svg" type="image/svg+xml">
+    <script>(function() {var elms=["header","footer","section","aside","nav","article","hgroup","time","figure","figcaption"];for(var i=0;i<elms.length;i++){document.createElement(elms[i]);};	})();</script>
+    <base href="https://note.idea-path.app/">
+    <meta name="robots" content="noindex,nofollow,noarchive">
+</head>
+
+<body>
+    <div class="container grid">
+        <header class="header">
+            <div class="flex">
+                <div class="selector"><a href="/ipnote/">idea-path</a></div>
+                <div class="selector"><a href="/ipnote/">コレクション</a></div>
+                <div class="selector"><a href="/ipnote/t">タグ</a></div>
+                <div class="selector"><a href="/ipnote/u">アップロード</a></div>
+            </div>
+        </header>
+        <article class="article flex">
+            <div class="type-splitview article">
+                <div class="wrap">
+                    <div id="type-gallery">
+                        {{ content }}
+                        {% for n in q %}
+                        <div class="item" data-alt="{{ n.updatetime}}">
+                            <!--input type="checkbox" name="" id="" class="check"-->
+                            <a href="/ipnote/i/{{ n.key.id()}}">
+                                <img src="{{ n.blob[1] }}" height="144" loading="lazy" alt="{{ n.key.id()}}">
+                                <!--img src="/static/ThumbnailError3x2.svg" height="256"-->
+                            </a>
+                            <label for=""></label>
+                        </div>
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+        </article>
+    </div>
+
+    <template id="temp-item">
+        <div class="item">
+            <a href="">
+                <img src="" alt="">
+            </a>
+        </div>
+    </template>
+
+</body>
+
+</html>

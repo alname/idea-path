@@ -1,0 +1,31 @@
+<div id="type-preimage" class="main">
+    <img src="{{ q.blob[0] }}" class="viewmode">
+</div>
+<div id="type-imageinfo" class="side">
+    <dl style="margin:1em;">
+        <dt>ファイル名</dt>
+        <dd><input type="text" class="intex" name="" id="" value="{{ q.blob }}"></dd>
+        <dt>date</dt>
+        <dd>{{ q.updatetime }}</dd>
+        <dt>サイズ</dt>
+        <dd>size</dd>
+        <!--
+        <dt> author</dt>                   <dd>{#{ q.info[0] }#}</dd> 
+        <dt> password</dt>              <dd>{#{ q.info[1] }#}</dd>
+        <dt> title</dt>                   <dd>{#{ q.info[2] }#}</dd>
+        -->
+        <dt>Tag</dt>
+        <dd>
+            <ul>
+                <li><a href="" class="button">user0</a></li>
+                <li><a href="" class="button">ストレート・CHAM-BA-RA</a></li>
+                <li><a href="" class="button">アイリ・ナヴラス</a></li>
+
+            </ul>
+        </dd>
+        <dd>Delete</dd>
+        <dt><form method="POST" action="/ipnote/i/{{ q.key.id() }}">
+            <button type="submit">Delete</button>
+        </form></dt>
+    </dl>
+</div>
